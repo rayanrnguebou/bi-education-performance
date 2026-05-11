@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_FSKCoCcxEfGbt8aaCk4E_Q" name="dim_matiere" id="_FSJbkCcxEfGbt8aaCk4E_Q" dataPackage="_FSKCoScxEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_matiere.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_FSKCoScxEfGbt8aaCk4E_Q" name="default" dataManager="_FSKCoCcxEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_FSKCoicxEfGbt8aaCk4E_Q" id="_w25fYCcwEfGbt8aaCk4E_Q" comment="matiere_data" label="matiere_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCoycxEfGbt8aaCk4E_Q" label="id_matiere" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCpCcxEfGbt8aaCk4E_Q" label="code_matiere" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCpScxEfGbt8aaCk4E_Q" label="nom_matiere" length="26" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCpicxEfGbt8aaCk4E_Q" label="id_filiere" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCpycxEfGbt8aaCk4E_Q" label="coefficient" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCqCcxEfGbt8aaCk4E_Q" label="credits" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCqScxEfGbt8aaCk4E_Q" label="type_matiere" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_FSKCqicxEfGbt8aaCk4E_Q" label="semestre" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

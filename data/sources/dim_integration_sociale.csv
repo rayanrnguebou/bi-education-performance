@@ -1,0 +1,2001 @@
+﻿id_integration,id_etudiant,qualite_relation_camarades,niveau_integration_sociale,isolement_social,victime_harcelement,type_harcelement,pair_ayant_decroche_avant,qualite_relation_enseignants,beneficie_soutien_camarades,beneficie_soutien_enseignants,participation_activites_campus
+1,1,Neutre,Élevé,0,0,Aucun,1,Neutre,1,0,Jamais
+2,2,Bonne,Moyen,1,0,Aucun,0,Neutre,1,1,Jamais
+3,3,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+4,4,Neutre,Moyen,1,0,Aucun,0,Bonne,0,0,Rarement
+5,5,Neutre,Très faible,1,0,Aucun,0,Bonne,0,1,Rarement
+6,6,Très mauvaise,Faible,0,0,Aucun,0,Très mauvaise,1,1,Parfois
+7,7,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Parfois
+8,8,Mauvaise,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+9,9,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+10,10,Très bonne,Très faible,0,0,Aucun,0,Très bonne,0,0,Rarement
+11,11,Bonne,Très faible,0,0,Aucun,1,Bonne,0,1,Souvent
+12,12,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+13,13,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Parfois
+14,14,Bonne,Très faible,0,0,Aucun,0,Neutre,1,0,Parfois
+15,15,Neutre,Faible,0,0,Aucun,1,Neutre,1,0,Souvent
+16,16,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+17,17,Mauvaise,Moyen,0,0,Aucun,1,Très mauvaise,1,1,Parfois
+18,18,Mauvaise,Moyen,0,1,Aucun,0,Très bonne,0,0,Souvent
+19,19,Neutre,Très faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+20,20,Neutre,Faible,0,0,Aucun,1,Neutre,1,0,Rarement
+21,21,Neutre,Moyen,0,0,Aucun,1,Bonne,0,0,Parfois
+22,22,Très bonne,Faible,0,0,Aucun,1,Bonne,0,1,Rarement
+23,23,Bonne,Très élevé,0,1,Aucun,1,Très bonne,1,0,Rarement
+24,24,Bonne,Élevé,1,0,Aucun,1,Très bonne,0,1,Rarement
+25,25,Bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+26,26,Bonne,Faible,0,0,Aucun,0,Neutre,1,1,Jamais
+27,27,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Souvent
+28,28,Mauvaise,Faible,0,0,Aucun,1,Bonne,0,0,Jamais
+29,29,Neutre,Très faible,0,0,Aucun,0,Neutre,1,0,Parfois
+30,30,Mauvaise,Moyen,1,0,Aucun,0,Mauvaise,0,0,Rarement
+31,31,Neutre,Très faible,0,0,Aucun,0,Neutre,1,0,Parfois
+32,32,Bonne,Faible,0,0,Aucun,0,Bonne,1,1,Souvent
+33,33,Bonne,Moyen,0,1,Aucun,1,Bonne,0,1,Rarement
+34,34,Bonne,Faible,0,0,Aucun,0,Très bonne,0,1,Souvent
+35,35,Bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,0,Jamais
+36,36,Neutre,Faible,0,0,Aucun,1,Bonne,1,0,Rarement
+37,37,Bonne,Moyen,0,0,Aucun,0,Très mauvaise,1,1,Jamais
+38,38,Bonne,Faible,0,0,Aucun,1,Bonne,0,0,Jamais
+39,39,Très bonne,Moyen,1,0,Moral,0,Très bonne,1,1,Rarement
+40,40,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,1,Parfois
+41,41,Neutre,Faible,1,0,Aucun,0,Neutre,0,1,Parfois
+42,42,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+43,43,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+44,44,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+45,45,Bonne,Faible,0,1,Aucun,0,Très mauvaise,0,0,Rarement
+46,46,Très mauvaise,Élevé,0,0,Verbal,1,Neutre,1,1,Rarement
+47,47,Bonne,Faible,0,1,Aucun,0,Mauvaise,1,1,Jamais
+48,48,Bonne,Faible,0,0,Aucun,0,Neutre,1,0,Parfois
+49,49,Neutre,Moyen,0,0,Aucun,1,Bonne,1,0,Parfois
+50,50,Neutre,Faible,0,0,Aucun,0,Neutre,0,0,Parfois
+51,51,Neutre,Très élevé,0,0,Aucun,0,Mauvaise,0,1,Souvent
+52,52,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+53,53,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+54,54,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+55,55,Neutre,Faible,0,0,Aucun,0,Neutre,1,0,Parfois
+56,56,Bonne,Faible,0,0,Aucun,0,Mauvaise,1,1,Parfois
+57,57,Mauvaise,Faible,0,0,Aucun,0,Très mauvaise,1,1,Parfois
+58,58,Très bonne,Élevé,1,0,Aucun,0,Bonne,0,1,Souvent
+59,59,Très bonne,Très élevé,1,0,Aucun,0,Bonne,0,0,Souvent
+60,60,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+61,61,Neutre,Élevé,0,0,Aucun,1,Bonne,0,0,Parfois
+62,62,Bonne,Très faible,0,0,Aucun,0,Très bonne,0,0,Parfois
+63,63,Neutre,Moyen,1,0,Aucun,0,Neutre,1,0,Parfois
+64,64,Très mauvaise,Moyen,0,0,Aucun,1,Mauvaise,0,0,Rarement
+65,65,Mauvaise,Très élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+66,66,Bonne,Faible,0,0,Aucun,1,Mauvaise,0,0,Parfois
+67,67,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+68,68,Bonne,Élevé,0,0,Aucun,1,Très bonne,1,0,Rarement
+69,69,Neutre,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+70,70,Très bonne,Élevé,0,0,Aucun,1,Neutre,1,1,Jamais
+71,71,Mauvaise,Moyen,0,0,Aucun,1,Mauvaise,0,0,Rarement
+72,72,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Souvent
+73,73,Très bonne,Élevé,0,1,Aucun,0,Bonne,0,1,Rarement
+74,74,Très bonne,Faible,1,0,Aucun,0,Mauvaise,1,0,Jamais
+75,75,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Parfois
+76,76,Bonne,Faible,0,0,Aucun,0,Très bonne,1,1,Parfois
+77,77,Très bonne,Très élevé,1,0,Aucun,1,Bonne,1,0,Jamais
+78,78,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,1,Souvent
+79,79,Neutre,Faible,0,0,Aucun,0,Mauvaise,0,0,Souvent
+80,80,Neutre,Très faible,0,1,Aucun,0,Très bonne,1,0,Jamais
+81,81,Neutre,Faible,0,0,Aucun,1,Bonne,1,0,Jamais
+82,82,Très bonne,Très élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+83,83,Neutre,Faible,0,0,Aucun,1,Neutre,0,0,Rarement
+84,84,Bonne,Très élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+85,85,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+86,86,Bonne,Très élevé,1,0,Aucun,0,Très mauvaise,0,0,Parfois
+87,87,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Parfois
+88,88,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Jamais
+89,89,Bonne,Très faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+90,90,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+91,91,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+92,92,Neutre,Élevé,0,1,Aucun,1,Bonne,0,1,Souvent
+93,93,Neutre,Très élevé,1,0,Aucun,1,Bonne,0,0,Jamais
+94,94,Bonne,Très faible,0,0,Aucun,0,Neutre,0,0,Jamais
+95,95,Bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Jamais
+96,96,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+97,97,Mauvaise,Moyen,1,0,Aucun,0,Neutre,0,0,Jamais
+98,98,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+99,99,Bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Souvent
+100,100,Bonne,Très faible,0,0,Cyberharcèlement,0,Bonne,1,1,Parfois
+101,101,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,1,Jamais
+102,102,Bonne,Élevé,0,0,Aucun,1,Mauvaise,0,0,Souvent
+103,103,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,0,Souvent
+104,104,Bonne,Faible,1,0,Aucun,1,Très bonne,1,1,Parfois
+105,105,Neutre,Moyen,0,0,Aucun,0,Neutre,1,1,Souvent
+106,106,Bonne,Faible,0,1,Aucun,0,Neutre,1,0,Parfois
+107,107,Bonne,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+108,108,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+109,109,Bonne,Élevé,0,0,Aucun,1,Bonne,1,1,Jamais
+110,110,Très mauvaise,Très faible,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+111,111,Bonne,Moyen,0,0,Aucun,1,Très mauvaise,0,1,Jamais
+112,112,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+113,113,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+114,114,Très bonne,Très faible,0,0,Aucun,0,Neutre,1,0,Rarement
+115,115,Neutre,Élevé,0,0,Aucun,1,Neutre,0,0,Souvent
+116,116,Bonne,Très élevé,0,0,Cyberharcèlement,1,Bonne,1,0,Jamais
+117,117,Très bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Rarement
+118,118,Neutre,Élevé,0,0,Aucun,0,Très mauvaise,0,0,Souvent
+119,119,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,1,Parfois
+120,120,Bonne,Très élevé,0,0,Aucun,1,Très bonne,0,1,Rarement
+121,121,Mauvaise,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+122,122,Très mauvaise,Très faible,0,0,Moral,0,Neutre,1,0,Jamais
+123,123,Bonne,Faible,0,0,Aucun,1,Mauvaise,1,1,Jamais
+124,124,Neutre,Faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+125,125,Neutre,Moyen,0,0,Aucun,0,Bonne,0,1,Souvent
+126,126,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+127,127,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Parfois
+128,128,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+129,129,Bonne,Faible,0,0,Aucun,0,Très bonne,1,1,Rarement
+130,130,Bonne,Élevé,0,0,Aucun,1,Neutre,1,1,Rarement
+131,131,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+132,132,Bonne,Élevé,0,0,Aucun,1,Très mauvaise,1,0,Souvent
+133,133,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Jamais
+134,134,Bonne,Faible,0,0,Aucun,0,Très bonne,1,0,Jamais
+135,135,Bonne,Élevé,0,0,Aucun,1,Neutre,1,1,Jamais
+136,136,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Rarement
+137,137,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+138,138,Très bonne,Moyen,0,1,Aucun,0,Très bonne,0,0,Souvent
+139,139,Mauvaise,Moyen,0,0,Aucun,0,Neutre,1,1,Parfois
+140,140,Mauvaise,Faible,0,0,Aucun,0,Neutre,1,0,Souvent
+141,141,Neutre,Moyen,0,0,Aucun,1,Bonne,1,0,Rarement
+142,142,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Jamais
+143,143,Neutre,Faible,0,1,Aucun,1,Très bonne,1,1,Parfois
+144,144,Neutre,Moyen,0,0,Aucun,0,Très bonne,0,1,Jamais
+145,145,Très mauvaise,Faible,0,0,Aucun,0,Mauvaise,1,1,Souvent
+146,146,Bonne,Très faible,0,0,Moral,0,Neutre,1,0,Rarement
+147,147,Bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+148,148,Bonne,Très élevé,0,0,Aucun,1,Neutre,1,1,Souvent
+149,149,Très bonne,Moyen,0,0,Aucun,1,Très mauvaise,0,0,Rarement
+150,150,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Rarement
+151,151,Neutre,Très élevé,0,0,Aucun,1,Neutre,1,0,Souvent
+152,152,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+153,153,Neutre,Très élevé,0,0,Aucun,1,Très bonne,1,0,Rarement
+154,154,Bonne,Faible,0,0,Aucun,1,Bonne,0,1,Souvent
+155,155,Très bonne,Très faible,0,0,Aucun,1,Neutre,0,1,Parfois
+156,156,Mauvaise,Faible,0,0,Aucun,0,Bonne,0,0,Rarement
+157,157,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+158,158,Bonne,Élevé,1,0,Aucun,0,Neutre,1,0,Rarement
+159,159,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Jamais
+160,160,Neutre,Moyen,0,0,Aucun,1,Bonne,1,0,Parfois
+161,161,Très bonne,Faible,0,0,Aucun,1,Bonne,1,0,Rarement
+162,162,Neutre,Élevé,0,0,Moral,0,Bonne,1,0,Jamais
+163,163,Neutre,Faible,0,0,Verbal,1,Neutre,1,1,Parfois
+164,164,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+165,165,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+166,166,Mauvaise,Faible,1,0,Aucun,0,Neutre,0,1,Rarement
+167,167,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+168,168,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+169,169,Bonne,Élevé,0,0,Aucun,1,Bonne,1,1,Jamais
+170,170,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,1,Souvent
+171,171,Bonne,Moyen,1,0,Aucun,0,Très bonne,1,0,Rarement
+172,172,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+173,173,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,1,Jamais
+174,174,Neutre,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+175,175,Bonne,Très élevé,0,0,Aucun,0,Bonne,0,1,Jamais
+176,176,Bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+177,177,Mauvaise,Très élevé,0,0,Aucun,1,Mauvaise,0,0,Parfois
+178,178,Bonne,Très faible,0,0,Aucun,0,Bonne,1,0,Souvent
+179,179,Bonne,Faible,0,0,Aucun,1,Très bonne,0,0,Rarement
+180,180,Très bonne,Élevé,1,0,Aucun,1,Mauvaise,1,0,Jamais
+181,181,Neutre,Faible,0,0,Moral,0,Très bonne,1,0,Rarement
+182,182,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+183,183,Neutre,Très élevé,0,0,Aucun,1,Mauvaise,0,1,Jamais
+184,184,Neutre,Moyen,1,0,Aucun,0,Bonne,1,1,Rarement
+185,185,Neutre,Très faible,0,0,Aucun,1,Bonne,0,1,Rarement
+186,186,Très bonne,Élevé,1,0,Aucun,0,Bonne,0,0,Rarement
+187,187,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+188,188,Très bonne,Faible,1,0,Aucun,1,Neutre,1,1,Jamais
+189,189,Bonne,Moyen,1,0,Aucun,0,Bonne,0,0,Rarement
+190,190,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+191,191,Bonne,Faible,0,0,Aucun,1,Bonne,0,0,Jamais
+192,192,Mauvaise,Moyen,0,0,Aucun,1,Bonne,0,1,Rarement
+193,193,Mauvaise,Faible,0,0,Aucun,0,Neutre,0,0,Jamais
+194,194,Bonne,Faible,0,0,Aucun,0,Neutre,0,0,Rarement
+195,195,Bonne,Faible,1,0,Cyberharcèlement,1,Mauvaise,1,1,Rarement
+196,196,Très bonne,Très élevé,0,0,Aucun,0,Mauvaise,0,1,Jamais
+197,197,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+198,198,Neutre,Élevé,0,0,Aucun,1,Mauvaise,1,0,Parfois
+199,199,Neutre,Très élevé,1,0,Aucun,0,Très bonne,0,1,Souvent
+200,200,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+201,201,Bonne,Faible,0,0,Aucun,1,Neutre,0,0,Souvent
+202,202,Bonne,Faible,0,0,Aucun,1,Bonne,1,1,Jamais
+203,203,Très mauvaise,Moyen,0,0,Aucun,1,Très bonne,1,1,Rarement
+204,204,Bonne,Très élevé,0,0,Moral,1,Neutre,1,1,Parfois
+205,205,Bonne,Faible,1,0,Aucun,1,Bonne,0,0,Souvent
+206,206,Très bonne,Faible,0,0,Aucun,0,Neutre,1,1,Parfois
+207,207,Neutre,Faible,0,0,Aucun,0,Neutre,0,1,Rarement
+208,208,Neutre,Élevé,0,1,Aucun,1,Bonne,0,1,Jamais
+209,209,Très mauvaise,Moyen,0,0,Verbal,0,Neutre,1,0,Souvent
+210,210,Bonne,Élevé,0,0,Aucun,1,Neutre,1,1,Souvent
+211,211,Neutre,Moyen,0,0,Verbal,0,Très bonne,1,1,Parfois
+212,212,Bonne,Élevé,0,0,Aucun,1,Neutre,0,0,Souvent
+213,213,Neutre,Très faible,0,0,Moral,1,Mauvaise,0,0,Parfois
+214,214,Bonne,Très élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+215,215,Bonne,Moyen,0,0,Aucun,1,Bonne,1,0,Souvent
+216,216,Très mauvaise,Moyen,1,0,Aucun,0,Bonne,1,0,Jamais
+217,217,Bonne,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+218,218,Bonne,Moyen,1,0,Aucun,0,Très bonne,0,0,Souvent
+219,219,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+220,220,Très bonne,Moyen,0,0,Verbal,1,Bonne,0,1,Parfois
+221,221,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,1,Rarement
+222,222,Bonne,Élevé,0,1,Aucun,0,Très bonne,1,0,Jamais
+223,223,Bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,1,Parfois
+224,224,Bonne,Faible,0,0,Aucun,0,Bonne,0,1,Rarement
+225,225,Bonne,Élevé,1,0,Aucun,1,Très bonne,1,1,Parfois
+226,226,Bonne,Très faible,0,0,Aucun,1,Neutre,1,1,Rarement
+227,227,Très bonne,Élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+228,228,Bonne,Très faible,0,0,Aucun,0,Bonne,1,1,Rarement
+229,229,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+230,230,Mauvaise,Faible,1,0,Aucun,0,Bonne,0,0,Souvent
+231,231,Très bonne,Faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+232,232,Mauvaise,Très élevé,0,0,Aucun,0,Très bonne,1,1,Jamais
+233,233,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+234,234,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+235,235,Bonne,Très faible,1,0,Aucun,0,Bonne,0,1,Parfois
+236,236,Très bonne,Faible,0,0,Aucun,0,Bonne,1,1,Jamais
+237,237,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,0,0,Parfois
+238,238,Mauvaise,Faible,0,0,Aucun,1,Mauvaise,1,1,Souvent
+239,239,Neutre,Très élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+240,240,Neutre,Très élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+241,241,Neutre,Faible,0,0,Cyberharcèlement,0,Très mauvaise,0,0,Parfois
+242,242,Mauvaise,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+243,243,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Souvent
+244,244,Bonne,Faible,1,0,Aucun,0,Mauvaise,0,1,Souvent
+245,245,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+246,246,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+247,247,Mauvaise,Faible,0,0,Aucun,1,Neutre,0,1,Rarement
+248,248,Bonne,Faible,1,0,Aucun,0,Bonne,1,1,Souvent
+249,249,Très mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+250,250,Très bonne,Faible,0,1,Aucun,0,Très bonne,0,1,Rarement
+251,251,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+252,252,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,1,Rarement
+253,253,Très bonne,Élevé,0,1,Aucun,1,Neutre,1,1,Jamais
+254,254,Très bonne,Très élevé,1,0,Aucun,0,Très bonne,1,1,Souvent
+255,255,Bonne,Faible,0,0,Aucun,1,Neutre,1,1,Rarement
+256,256,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Jamais
+257,257,Très bonne,Moyen,1,0,Aucun,0,Très bonne,1,1,Souvent
+258,258,Neutre,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+259,259,Neutre,Très faible,0,0,Aucun,0,Neutre,0,0,Parfois
+260,260,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+261,261,Mauvaise,Très faible,1,0,Aucun,0,Bonne,0,0,Jamais
+262,262,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,0,Souvent
+263,263,Bonne,Élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+264,264,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+265,265,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Parfois
+266,266,Bonne,Moyen,1,0,Aucun,0,Bonne,1,0,Souvent
+267,267,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,0,1,Parfois
+268,268,Neutre,Très faible,0,0,Aucun,0,Bonne,1,0,Rarement
+269,269,Bonne,Très faible,0,0,Verbal,1,Mauvaise,1,1,Parfois
+270,270,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+271,271,Bonne,Faible,0,0,Aucun,0,Mauvaise,1,1,Parfois
+272,272,Bonne,Élevé,0,0,Aucun,1,Bonne,0,0,Rarement
+273,273,Mauvaise,Faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+274,274,Mauvaise,Moyen,0,0,Aucun,1,Bonne,0,0,Souvent
+275,275,Neutre,Très faible,0,0,Aucun,0,Très mauvaise,1,1,Souvent
+276,276,Neutre,Moyen,0,0,Aucun,0,Mauvaise,0,0,Jamais
+277,277,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+278,278,Mauvaise,Très faible,0,0,Moral,0,Neutre,1,1,Souvent
+279,279,Très bonne,Très faible,0,0,Aucun,1,Bonne,1,0,Parfois
+280,280,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+281,281,Bonne,Élevé,1,0,Aucun,0,Neutre,1,1,Parfois
+282,282,Neutre,Très faible,1,0,Aucun,0,Très bonne,0,1,Jamais
+283,283,Très mauvaise,Moyen,0,1,Aucun,0,Neutre,1,0,Rarement
+284,284,Neutre,Très faible,0,0,Aucun,0,Bonne,1,1,Souvent
+285,285,Bonne,Élevé,0,0,Aucun,1,Mauvaise,1,1,Parfois
+286,286,Neutre,Faible,0,0,Aucun,1,Bonne,1,1,Souvent
+287,287,Bonne,Moyen,0,0,Cyberharcèlement,0,Neutre,0,0,Parfois
+288,288,Neutre,Moyen,0,0,Aucun,0,Neutre,0,0,Rarement
+289,289,Très mauvaise,Faible,1,0,Aucun,0,Mauvaise,0,1,Rarement
+290,290,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+291,291,Neutre,Faible,1,0,Aucun,0,Bonne,1,0,Souvent
+292,292,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+293,293,Très bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Rarement
+294,294,Bonne,Élevé,1,0,Aucun,0,Très bonne,1,1,Rarement
+295,295,Mauvaise,Moyen,1,0,Aucun,1,Bonne,1,0,Parfois
+296,296,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+297,297,Très bonne,Élevé,0,0,Aucun,1,Très bonne,1,1,Parfois
+298,298,Neutre,Moyen,1,0,Aucun,0,Bonne,1,1,Parfois
+299,299,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+300,300,Très bonne,Élevé,1,0,Aucun,1,Mauvaise,1,1,Jamais
+301,301,Neutre,Moyen,1,0,Aucun,1,Bonne,1,0,Souvent
+302,302,Neutre,Moyen,0,0,Aucun,1,Neutre,1,0,Souvent
+303,303,Bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+304,304,Neutre,Très faible,0,1,Aucun,0,Mauvaise,0,0,Parfois
+305,305,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,0,Souvent
+306,306,Bonne,Faible,1,0,Aucun,0,Très mauvaise,0,0,Jamais
+307,307,Très bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Parfois
+308,308,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+309,309,Bonne,Faible,0,0,Aucun,0,Très mauvaise,1,0,Jamais
+310,310,Neutre,Faible,0,0,Aucun,0,Mauvaise,1,0,Rarement
+311,311,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+312,312,Neutre,Moyen,0,0,Aucun,0,Bonne,1,1,Souvent
+313,313,Neutre,Élevé,1,0,Aucun,0,Mauvaise,0,1,Souvent
+314,314,Très bonne,Moyen,0,0,Aucun,0,Mauvaise,1,0,Parfois
+315,315,Neutre,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+316,316,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+317,317,Très bonne,Faible,0,0,Aucun,0,Bonne,0,1,Parfois
+318,318,Neutre,Très faible,0,0,Moral,1,Bonne,1,1,Parfois
+319,319,Bonne,Moyen,1,0,Aucun,0,Neutre,1,0,Rarement
+320,320,Mauvaise,Moyen,0,0,Aucun,1,Très mauvaise,0,1,Souvent
+321,321,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+322,322,Très bonne,Élevé,0,0,Aucun,1,Mauvaise,0,1,Parfois
+323,323,Bonne,Faible,0,0,Aucun,1,Mauvaise,1,0,Parfois
+324,324,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+325,325,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Souvent
+326,326,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,0,Parfois
+327,327,Très bonne,Faible,0,0,Aucun,1,Neutre,1,0,Parfois
+328,328,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,1,Rarement
+329,329,Bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Rarement
+330,330,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Souvent
+331,331,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,0,0,Souvent
+332,332,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Souvent
+333,333,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,1,Rarement
+334,334,Très bonne,Moyen,0,0,Aucun,0,Mauvaise,0,1,Rarement
+335,335,Neutre,Moyen,0,0,Aucun,1,Très bonne,1,0,Rarement
+336,336,Bonne,Moyen,1,0,Aucun,0,Mauvaise,1,1,Jamais
+337,337,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Rarement
+338,338,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+339,339,Très bonne,Élevé,1,0,Verbal,1,Très bonne,1,0,Parfois
+340,340,Bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+341,341,Très bonne,Faible,0,0,Aucun,1,Mauvaise,0,0,Rarement
+342,342,Bonne,Élevé,0,0,Moral,0,Bonne,0,0,Jamais
+343,343,Neutre,Moyen,0,0,Aucun,1,Bonne,1,1,Rarement
+344,344,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,1,Jamais
+345,345,Très mauvaise,Faible,1,0,Verbal,0,Très bonne,0,1,Rarement
+346,346,Très bonne,Moyen,1,0,Aucun,0,Bonne,0,1,Rarement
+347,347,Bonne,Moyen,1,0,Aucun,0,Très bonne,1,0,Parfois
+348,348,Neutre,Faible,0,0,Aucun,0,Très bonne,1,0,Souvent
+349,349,Bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+350,350,Bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+351,351,Neutre,Faible,0,0,Aucun,1,Bonne,1,1,Souvent
+352,352,Neutre,Élevé,1,0,Aucun,1,Très bonne,1,0,Parfois
+353,353,Neutre,Élevé,1,0,Aucun,1,Neutre,1,0,Parfois
+354,354,Mauvaise,Moyen,0,0,Aucun,0,Neutre,0,0,Rarement
+355,355,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+356,356,Bonne,Faible,1,0,Aucun,1,Bonne,1,0,Souvent
+357,357,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+358,358,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Rarement
+359,359,Bonne,Moyen,0,0,Aucun,1,Neutre,0,1,Souvent
+360,360,Très bonne,Faible,0,0,Aucun,0,Neutre,1,0,Jamais
+361,361,Neutre,Faible,0,0,Aucun,1,Neutre,0,1,Souvent
+362,362,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+363,363,Bonne,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+364,364,Mauvaise,Moyen,1,0,Aucun,1,Bonne,1,0,Rarement
+365,365,Neutre,Élevé,1,0,Aucun,0,Neutre,1,0,Rarement
+366,366,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Souvent
+367,367,Mauvaise,Très élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+368,368,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+369,369,Bonne,Faible,0,0,Aucun,0,Neutre,1,1,Parfois
+370,370,Neutre,Moyen,1,0,Aucun,0,Bonne,1,1,Souvent
+371,371,Bonne,Très élevé,0,0,Aucun,0,Très bonne,0,1,Rarement
+372,372,Neutre,Élevé,0,1,Moral,0,Très bonne,1,1,Parfois
+373,373,Bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+374,374,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+375,375,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+376,376,Neutre,Faible,0,0,Verbal,0,Très bonne,1,1,Parfois
+377,377,Neutre,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+378,378,Neutre,Très faible,0,0,Aucun,0,Bonne,0,0,Rarement
+379,379,Neutre,Moyen,1,0,Verbal,0,Bonne,1,1,Souvent
+380,380,Bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+381,381,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+382,382,Neutre,Élevé,0,1,Aucun,0,Neutre,0,0,Parfois
+383,383,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Rarement
+384,384,Mauvaise,Moyen,0,0,Aucun,1,Bonne,1,0,Jamais
+385,385,Bonne,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+386,386,Très mauvaise,Moyen,0,0,Aucun,0,Neutre,1,0,Parfois
+387,387,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+388,388,Bonne,Très élevé,1,0,Aucun,0,Bonne,0,0,Parfois
+389,389,Neutre,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+390,390,Très bonne,Élevé,0,0,Aucun,1,Très bonne,0,0,Jamais
+391,391,Bonne,Très faible,0,0,Aucun,0,Très mauvaise,0,0,Parfois
+392,392,Neutre,Moyen,0,0,Verbal,0,Bonne,0,1,Parfois
+393,393,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+394,394,Très mauvaise,Faible,0,0,Aucun,0,Neutre,1,0,Souvent
+395,395,Très bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Souvent
+396,396,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+397,397,Neutre,Très élevé,0,0,Aucun,1,Neutre,0,1,Rarement
+398,398,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+399,399,Neutre,Très élevé,0,0,Aucun,1,Neutre,0,0,Souvent
+400,400,Mauvaise,Élevé,0,0,Aucun,0,Très mauvaise,1,0,Souvent
+401,401,Bonne,Très faible,1,0,Aucun,0,Neutre,1,1,Parfois
+402,402,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Rarement
+403,403,Bonne,Élevé,0,1,Aucun,0,Bonne,1,0,Souvent
+404,404,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,0,0,Parfois
+405,405,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Rarement
+406,406,Bonne,Faible,0,0,Aucun,0,Très bonne,1,0,Jamais
+407,407,Très bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+408,408,Mauvaise,Élevé,0,0,Aucun,0,Neutre,1,1,Souvent
+409,409,Bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+410,410,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+411,411,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+412,412,Bonne,Moyen,1,0,Aucun,0,Bonne,0,0,Parfois
+413,413,Neutre,Faible,0,0,Aucun,0,Neutre,0,0,Rarement
+414,414,Bonne,Très faible,0,0,Aucun,1,Très mauvaise,0,1,Parfois
+415,415,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+416,416,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,1,Souvent
+417,417,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Rarement
+418,418,Neutre,Très faible,0,0,Aucun,1,Très bonne,1,0,Rarement
+419,419,Bonne,Élevé,0,0,Aucun,0,Mauvaise,0,0,Jamais
+420,420,Très bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+421,421,Très bonne,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+422,422,Bonne,Moyen,0,0,Verbal,0,Bonne,0,1,Rarement
+423,423,Bonne,Faible,0,0,Aucun,1,Bonne,1,1,Rarement
+424,424,Très bonne,Faible,0,0,Verbal,1,Neutre,1,1,Parfois
+425,425,Bonne,Élevé,0,0,Aucun,1,Neutre,0,0,Parfois
+426,426,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+427,427,Neutre,Très faible,1,0,Aucun,1,Neutre,0,1,Souvent
+428,428,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Souvent
+429,429,Très bonne,Moyen,1,0,Aucun,0,Bonne,0,0,Jamais
+430,430,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,1,Souvent
+431,431,Neutre,Élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+432,432,Très mauvaise,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+433,433,Bonne,Élevé,0,0,Aucun,0,Mauvaise,0,1,Parfois
+434,434,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+435,435,Neutre,Très élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+436,436,Neutre,Moyen,0,0,Aucun,0,Très mauvaise,1,0,Parfois
+437,437,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,1,Souvent
+438,438,Bonne,Faible,0,0,Aucun,0,Bonne,1,1,Souvent
+439,439,Neutre,Très faible,0,0,Aucun,1,Très bonne,1,0,Souvent
+440,440,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+441,441,Bonne,Moyen,0,0,Verbal,0,Mauvaise,1,1,Parfois
+442,442,Neutre,Très faible,0,0,Aucun,0,Très bonne,0,0,Jamais
+443,443,Très bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Rarement
+444,444,Neutre,Très élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+445,445,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+446,446,Neutre,Moyen,1,0,Aucun,0,Mauvaise,1,1,Rarement
+447,447,Neutre,Faible,0,0,Aucun,1,Bonne,0,1,Souvent
+448,448,Très bonne,Très faible,0,0,Aucun,0,Mauvaise,1,0,Jamais
+449,449,Très bonne,Très élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+450,450,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Jamais
+451,451,Bonne,Faible,0,0,Aucun,0,Très bonne,0,1,Parfois
+452,452,Mauvaise,Moyen,0,0,Aucun,1,Neutre,1,0,Rarement
+453,453,Mauvaise,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+454,454,Bonne,Moyen,1,0,Aucun,0,Neutre,0,0,Parfois
+455,455,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Parfois
+456,456,Très bonne,Faible,0,0,Aucun,1,Très bonne,0,0,Rarement
+457,457,Très bonne,Moyen,1,0,Aucun,1,Très bonne,0,0,Parfois
+458,458,Neutre,Très élevé,1,0,Aucun,0,Très mauvaise,1,1,Rarement
+459,459,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Rarement
+460,460,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,0,0,Souvent
+461,461,Bonne,Très élevé,1,0,Aucun,0,Très mauvaise,1,0,Parfois
+462,462,Bonne,Faible,0,0,Aucun,0,Neutre,0,1,Parfois
+463,463,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,1,Rarement
+464,464,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+465,465,Très mauvaise,Élevé,0,0,Aucun,0,Bonne,0,1,Jamais
+466,466,Neutre,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+467,467,Neutre,Moyen,0,0,Aucun,1,Bonne,0,1,Parfois
+468,468,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+469,469,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+470,470,Bonne,Faible,1,0,Aucun,0,Neutre,1,0,Souvent
+471,471,Neutre,Élevé,0,0,Aucun,0,Neutre,0,0,Jamais
+472,472,Neutre,Très faible,0,0,Aucun,0,Neutre,1,0,Parfois
+473,473,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Jamais
+474,474,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Souvent
+475,475,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+476,476,Bonne,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+477,477,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Souvent
+478,478,Neutre,Très élevé,0,0,Aucun,1,Bonne,1,1,Jamais
+479,479,Neutre,Faible,0,0,Aucun,0,Mauvaise,1,0,Rarement
+480,480,Mauvaise,Faible,1,0,Aucun,1,Neutre,0,0,Jamais
+481,481,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+482,482,Très bonne,Très faible,1,0,Aucun,1,Bonne,1,1,Parfois
+483,483,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+484,484,Très bonne,Très faible,0,0,Aucun,0,Neutre,0,0,Souvent
+485,485,Mauvaise,Faible,0,0,Aucun,1,Très bonne,0,1,Rarement
+486,486,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+487,487,Neutre,Moyen,0,0,Aucun,0,Neutre,1,1,Rarement
+488,488,Neutre,Moyen,1,0,Aucun,0,Bonne,0,1,Rarement
+489,489,Neutre,Faible,1,0,Aucun,0,Neutre,1,1,Parfois
+490,490,Neutre,Élevé,1,0,Aucun,1,Neutre,0,0,Souvent
+491,491,Bonne,Faible,0,0,Aucun,0,Très bonne,0,1,Rarement
+492,492,Neutre,Élevé,1,0,Aucun,0,Bonne,0,1,Jamais
+493,493,Mauvaise,Moyen,0,0,Aucun,1,Mauvaise,1,0,Parfois
+494,494,Mauvaise,Faible,0,0,Aucun,1,Bonne,1,0,Rarement
+495,495,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+496,496,Bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+497,497,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Souvent
+498,498,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+499,499,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+500,500,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+501,501,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+502,502,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,0,0,Souvent
+503,503,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+504,504,Très bonne,Moyen,0,0,Aucun,0,Neutre,1,1,Jamais
+505,505,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+506,506,Neutre,Élevé,0,0,Moral,0,Neutre,0,0,Parfois
+507,507,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+508,508,Très bonne,Moyen,0,0,Aucun,1,Neutre,1,1,Rarement
+509,509,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Jamais
+510,510,Bonne,Faible,1,0,Aucun,1,Neutre,0,0,Parfois
+511,511,Neutre,Faible,0,0,Aucun,0,Neutre,1,1,Jamais
+512,512,Neutre,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+513,513,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Parfois
+514,514,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Souvent
+515,515,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+516,516,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+517,517,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,1,1,Rarement
+518,518,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+519,519,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,1,Rarement
+520,520,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+521,521,Bonne,Élevé,0,1,Aucun,0,Mauvaise,1,0,Souvent
+522,522,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+523,523,Bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+524,524,Très mauvaise,Très élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+525,525,Très bonne,Élevé,1,0,Aucun,1,Bonne,1,0,Rarement
+526,526,Mauvaise,Moyen,0,0,Verbal,0,Neutre,0,0,Rarement
+527,527,Très mauvaise,Faible,0,1,Aucun,0,Mauvaise,1,1,Rarement
+528,528,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Rarement
+529,529,Neutre,Élevé,0,0,Aucun,0,Neutre,1,1,Souvent
+530,530,Très bonne,Moyen,0,1,Cyberharcèlement,0,Bonne,0,0,Parfois
+531,531,Bonne,Élevé,1,1,Verbal,0,Très bonne,1,1,Parfois
+532,532,Mauvaise,Faible,0,0,Aucun,1,Mauvaise,1,0,Souvent
+533,533,Très bonne,Faible,0,0,Moral,0,Très bonne,0,0,Rarement
+534,534,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Jamais
+535,535,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Rarement
+536,536,Mauvaise,Faible,1,0,Aucun,0,Mauvaise,1,1,Souvent
+537,537,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,1,Jamais
+538,538,Très bonne,Très élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+539,539,Très bonne,Faible,0,0,Aucun,1,Bonne,0,0,Souvent
+540,540,Bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Jamais
+541,541,Bonne,Élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+542,542,Neutre,Élevé,0,0,Aucun,1,Très bonne,0,0,Rarement
+543,543,Neutre,Très faible,0,0,Aucun,0,Bonne,0,0,Souvent
+544,544,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+545,545,Neutre,Très faible,0,0,Aucun,0,Neutre,0,1,Souvent
+546,546,Neutre,Élevé,0,0,Aucun,0,Neutre,1,0,Jamais
+547,547,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+548,548,Mauvaise,Moyen,1,0,Aucun,0,Très mauvaise,0,0,Souvent
+549,549,Bonne,Très faible,0,0,Verbal,0,Bonne,1,0,Rarement
+550,550,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+551,551,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,1,Parfois
+552,552,Très mauvaise,Très élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+553,553,Bonne,Faible,1,0,Aucun,0,Très bonne,1,0,Jamais
+554,554,Très bonne,Élevé,1,1,Aucun,0,Bonne,0,0,Parfois
+555,555,Neutre,Moyen,0,0,Cyberharcèlement,0,Bonne,1,0,Rarement
+556,556,Mauvaise,Moyen,0,0,Aucun,1,Très mauvaise,0,0,Rarement
+557,557,Neutre,Faible,0,0,Cyberharcèlement,0,Bonne,0,1,Rarement
+558,558,Mauvaise,Moyen,0,0,Aucun,0,Neutre,1,1,Souvent
+559,559,Bonne,Très élevé,0,0,Aucun,1,Très bonne,1,1,Rarement
+560,560,Bonne,Très faible,0,0,Aucun,0,Bonne,0,0,Parfois
+561,561,Bonne,Élevé,1,0,Aucun,0,Bonne,0,1,Rarement
+562,562,Très bonne,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+563,563,Neutre,Élevé,0,0,Aucun,0,Neutre,1,1,Jamais
+564,564,Neutre,Moyen,0,0,Cyberharcèlement,0,Très mauvaise,0,0,Parfois
+565,565,Mauvaise,Très élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+566,566,Bonne,Élevé,1,0,Aucun,0,Mauvaise,1,1,Rarement
+567,567,Bonne,Très élevé,1,0,Moral,0,Neutre,1,0,Parfois
+568,568,Neutre,Faible,0,0,Aucun,0,Mauvaise,1,1,Rarement
+569,569,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Parfois
+570,570,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,1,0,Rarement
+571,571,Mauvaise,Moyen,0,0,Cyberharcèlement,0,Neutre,0,0,Jamais
+572,572,Neutre,Très élevé,1,0,Aucun,0,Très bonne,0,0,Parfois
+573,573,Bonne,Faible,0,0,Aucun,0,Très mauvaise,0,1,Souvent
+574,574,Neutre,Élevé,0,0,Aucun,0,Neutre,1,1,Souvent
+575,575,Neutre,Très faible,0,1,Aucun,0,Très bonne,0,1,Souvent
+576,576,Mauvaise,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+577,577,Neutre,Élevé,0,0,Moral,1,Neutre,0,0,Parfois
+578,578,Bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+579,579,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+580,580,Très bonne,Élevé,1,0,Aucun,1,Très bonne,1,0,Rarement
+581,581,Neutre,Très élevé,0,0,Aucun,1,Bonne,0,0,Jamais
+582,582,Neutre,Élevé,0,0,Aucun,0,Neutre,1,1,Souvent
+583,583,Neutre,Très faible,0,0,Aucun,0,Bonne,0,0,Jamais
+584,584,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+585,585,Bonne,Faible,1,0,Aucun,0,Mauvaise,1,1,Rarement
+586,586,Neutre,Élevé,0,0,Aucun,0,Neutre,0,0,Souvent
+587,587,Bonne,Moyen,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+588,588,Très bonne,Moyen,1,0,Aucun,0,Mauvaise,0,0,Parfois
+589,589,Bonne,Élevé,0,0,Aucun,1,Mauvaise,1,0,Souvent
+590,590,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,1,Rarement
+591,591,Neutre,Moyen,0,0,Aucun,0,Très bonne,0,0,Jamais
+592,592,Bonne,Élevé,0,1,Aucun,0,Neutre,0,0,Jamais
+593,593,Très bonne,Moyen,0,0,Aucun,1,Très bonne,1,1,Jamais
+594,594,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+595,595,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,0,0,Rarement
+596,596,Très bonne,Faible,0,0,Aucun,0,Bonne,1,1,Souvent
+597,597,Mauvaise,Moyen,0,0,Aucun,1,Neutre,0,0,Rarement
+598,598,Bonne,Très élevé,1,0,Aucun,0,Mauvaise,0,0,Jamais
+599,599,Mauvaise,Moyen,0,0,Aucun,1,Bonne,1,1,Souvent
+600,600,Bonne,Moyen,0,0,Aucun,0,Mauvaise,1,0,Parfois
+601,601,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+602,602,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+603,603,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,0,Rarement
+604,604,Très bonne,Élevé,0,0,Aucun,1,Neutre,0,0,Souvent
+605,605,Mauvaise,Très faible,1,0,Cyberharcèlement,1,Neutre,1,1,Jamais
+606,606,Neutre,Élevé,1,0,Aucun,0,Neutre,0,1,Jamais
+607,607,Neutre,Très élevé,0,0,Aucun,1,Bonne,1,1,Jamais
+608,608,Très bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Souvent
+609,609,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+610,610,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+611,611,Mauvaise,Faible,0,0,Aucun,1,Bonne,1,1,Rarement
+612,612,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Rarement
+613,613,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,1,Souvent
+614,614,Bonne,Faible,0,0,Aucun,0,Très bonne,1,0,Parfois
+615,615,Bonne,Moyen,0,0,Verbal,0,Mauvaise,1,0,Rarement
+616,616,Bonne,Très faible,0,0,Aucun,1,Très bonne,1,0,Souvent
+617,617,Très bonne,Très élevé,0,1,Aucun,0,Très mauvaise,1,1,Rarement
+618,618,Neutre,Moyen,0,0,Aucun,0,Très bonne,0,1,Souvent
+619,619,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+620,620,Bonne,Très faible,1,0,Verbal,0,Neutre,1,0,Souvent
+621,621,Très mauvaise,Faible,0,0,Aucun,1,Bonne,0,1,Parfois
+622,622,Très bonne,Très élevé,1,0,Aucun,0,Bonne,0,0,Jamais
+623,623,Bonne,Faible,1,0,Aucun,0,Bonne,1,0,Rarement
+624,624,Très bonne,Faible,0,0,Aucun,0,Neutre,1,1,Souvent
+625,625,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+626,626,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Parfois
+627,627,Neutre,Faible,1,0,Aucun,1,Mauvaise,1,0,Parfois
+628,628,Neutre,Élevé,0,0,Aucun,1,Neutre,0,1,Souvent
+629,629,Neutre,Faible,1,0,Aucun,0,Neutre,1,0,Souvent
+630,630,Bonne,Très faible,0,0,Cyberharcèlement,0,Neutre,0,0,Jamais
+631,631,Très bonne,Très élevé,1,0,Aucun,0,Bonne,1,0,Parfois
+632,632,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Jamais
+633,633,Bonne,Faible,1,0,Aucun,0,Très bonne,1,0,Jamais
+634,634,Très bonne,Très faible,0,0,Aucun,0,Mauvaise,0,0,Rarement
+635,635,Neutre,Faible,0,0,Aucun,0,Très mauvaise,0,0,Souvent
+636,636,Bonne,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+637,637,Très bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Parfois
+638,638,Mauvaise,Faible,1,0,Aucun,0,Très bonne,1,1,Rarement
+639,639,Neutre,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+640,640,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+641,641,Très mauvaise,Très élevé,1,0,Aucun,0,Très mauvaise,0,0,Parfois
+642,642,Très bonne,Faible,1,0,Aucun,1,Neutre,0,0,Rarement
+643,643,Très bonne,Très élevé,1,0,Aucun,0,Bonne,0,1,Rarement
+644,644,Très mauvaise,Faible,0,0,Aucun,1,Bonne,1,0,Rarement
+645,645,Bonne,Très élevé,1,0,Aucun,1,Très bonne,0,1,Jamais
+646,646,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+647,647,Bonne,Élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+648,648,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+649,649,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+650,650,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Parfois
+651,651,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+652,652,Neutre,Très élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+653,653,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+654,654,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Rarement
+655,655,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+656,656,Bonne,Très faible,1,0,Aucun,0,Bonne,0,1,Souvent
+657,657,Bonne,Élevé,1,0,Aucun,0,Neutre,0,1,Souvent
+658,658,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+659,659,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Parfois
+660,660,Neutre,Moyen,0,0,Aucun,0,Très bonne,0,0,Souvent
+661,661,Très bonne,Moyen,0,0,Cyberharcèlement,0,Très mauvaise,0,0,Parfois
+662,662,Très mauvaise,Très faible,0,0,Moral,0,Bonne,1,0,Rarement
+663,663,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Jamais
+664,664,Neutre,Très élevé,1,0,Aucun,0,Très bonne,0,0,Rarement
+665,665,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+666,666,Bonne,Faible,0,0,Aucun,0,Très bonne,1,1,Jamais
+667,667,Très bonne,Élevé,1,0,Aucun,0,Neutre,0,0,Rarement
+668,668,Neutre,Faible,0,0,Aucun,0,Bonne,0,0,Rarement
+669,669,Mauvaise,Élevé,0,0,Aucun,1,Très mauvaise,0,1,Parfois
+670,670,Très bonne,Faible,0,0,Aucun,1,Bonne,1,0,Parfois
+671,671,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+672,672,Bonne,Moyen,0,0,Aucun,1,Bonne,0,1,Parfois
+673,673,Bonne,Élevé,1,0,Aucun,0,Neutre,0,0,Parfois
+674,674,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+675,675,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Rarement
+676,676,Très mauvaise,Très faible,0,0,Aucun,0,Très bonne,1,0,Jamais
+677,677,Neutre,Élevé,1,0,Aucun,0,Mauvaise,1,0,Rarement
+678,678,Neutre,Très élevé,0,0,Verbal,0,Neutre,0,1,Souvent
+679,679,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+680,680,Neutre,Moyen,0,0,Aucun,1,Très mauvaise,1,0,Parfois
+681,681,Mauvaise,Moyen,1,0,Aucun,1,Mauvaise,1,1,Parfois
+682,682,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+683,683,Bonne,Élevé,0,0,Aucun,1,Mauvaise,1,0,Parfois
+684,684,Bonne,Faible,0,0,Aucun,0,Bonne,1,1,Jamais
+685,685,Mauvaise,Très élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+686,686,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,1,Parfois
+687,687,Neutre,Faible,0,0,Aucun,0,Neutre,0,1,Rarement
+688,688,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+689,689,Mauvaise,Moyen,0,0,Aucun,0,Neutre,1,0,Parfois
+690,690,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,1,1,Parfois
+691,691,Bonne,Élevé,1,0,Aucun,0,Bonne,1,0,Souvent
+692,692,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Jamais
+693,693,Bonne,Très faible,1,0,Aucun,1,Très bonne,1,1,Souvent
+694,694,Neutre,Élevé,0,1,Aucun,1,Très bonne,1,1,Parfois
+695,695,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Souvent
+696,696,Neutre,Moyen,0,0,Aucun,0,Neutre,1,0,Rarement
+697,697,Neutre,Très élevé,0,0,Aucun,1,Très bonne,1,1,Parfois
+698,698,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+699,699,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,0,Parfois
+700,700,Très bonne,Moyen,0,0,Aucun,1,Neutre,0,1,Rarement
+701,701,Très mauvaise,Faible,0,0,Aucun,1,Neutre,0,1,Rarement
+702,702,Bonne,Très élevé,0,0,Aucun,1,Mauvaise,0,0,Jamais
+703,703,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+704,704,Bonne,Moyen,0,0,Aucun,1,Neutre,1,1,Parfois
+705,705,Très bonne,Faible,1,0,Aucun,0,Bonne,1,1,Jamais
+706,706,Neutre,Faible,0,0,Aucun,1,Bonne,0,1,Rarement
+707,707,Bonne,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+708,708,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Parfois
+709,709,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Rarement
+710,710,Neutre,Faible,0,0,Cyberharcèlement,1,Bonne,1,1,Rarement
+711,711,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+712,712,Très bonne,Moyen,0,0,Aucun,1,Très bonne,1,1,Souvent
+713,713,Bonne,Très élevé,0,0,Aucun,1,Neutre,0,1,Souvent
+714,714,Neutre,Faible,1,0,Aucun,0,Neutre,1,0,Parfois
+715,715,Neutre,Élevé,0,0,Aucun,1,Neutre,1,0,Jamais
+716,716,Mauvaise,Faible,0,0,Aucun,1,Neutre,1,1,Souvent
+717,717,Mauvaise,Élevé,0,0,Aucun,1,Bonne,1,1,Souvent
+718,718,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+719,719,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+720,720,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,0,Jamais
+721,721,Neutre,Élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+722,722,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+723,723,Mauvaise,Faible,0,0,Aucun,0,Bonne,0,1,Souvent
+724,724,Très mauvaise,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+725,725,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+726,726,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,0,1,Souvent
+727,727,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,1,Rarement
+728,728,Neutre,Faible,0,0,Aucun,0,Très bonne,0,0,Souvent
+729,729,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+730,730,Mauvaise,Élevé,1,0,Aucun,0,Neutre,0,0,Jamais
+731,731,Mauvaise,Faible,0,0,Cyberharcèlement,0,Neutre,1,0,Souvent
+732,732,Mauvaise,Faible,0,0,Aucun,0,Neutre,0,0,Souvent
+733,733,Mauvaise,Très élevé,1,0,Aucun,0,Très bonne,0,0,Rarement
+734,734,Neutre,Très élevé,0,0,Aucun,1,Neutre,1,0,Rarement
+735,735,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+736,736,Très mauvaise,Élevé,1,0,Aucun,0,Bonne,0,1,Parfois
+737,737,Mauvaise,Très faible,0,0,Moral,0,Très bonne,0,0,Rarement
+738,738,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Jamais
+739,739,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+740,740,Mauvaise,Moyen,1,0,Aucun,0,Mauvaise,0,0,Jamais
+741,741,Bonne,Élevé,0,1,Moral,0,Bonne,0,0,Rarement
+742,742,Bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+743,743,Bonne,Très faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+744,744,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+745,745,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+746,746,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+747,747,Très bonne,Très élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+748,748,Bonne,Très faible,1,0,Aucun,1,Mauvaise,1,0,Souvent
+749,749,Bonne,Élevé,1,0,Aucun,0,Mauvaise,0,0,Jamais
+750,750,Neutre,Moyen,1,0,Aucun,0,Très mauvaise,0,0,Jamais
+751,751,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+752,752,Neutre,Élevé,1,0,Aucun,0,Bonne,1,0,Souvent
+753,753,Mauvaise,Élevé,0,0,Aucun,1,Mauvaise,0,0,Jamais
+754,754,Neutre,Très élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+755,755,Neutre,Élevé,0,0,Aucun,0,Neutre,1,1,Souvent
+756,756,Neutre,Élevé,0,0,Aucun,1,Neutre,1,0,Jamais
+757,757,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Parfois
+758,758,Bonne,Très faible,1,0,Aucun,1,Bonne,1,0,Rarement
+759,759,Mauvaise,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+760,760,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Rarement
+761,761,Neutre,Élevé,0,0,Aucun,0,Très mauvaise,0,0,Souvent
+762,762,Mauvaise,Élevé,0,0,Aucun,1,Bonne,0,0,Jamais
+763,763,Bonne,Faible,1,0,Aucun,1,Mauvaise,1,0,Parfois
+764,764,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+765,765,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+766,766,Très bonne,Très élevé,0,0,Aucun,1,Bonne,0,0,Parfois
+767,767,Mauvaise,Moyen,0,0,Aucun,1,Neutre,0,0,Rarement
+768,768,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+769,769,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+770,770,Bonne,Moyen,0,0,Aucun,1,Bonne,1,0,Souvent
+771,771,Très mauvaise,Élevé,0,0,Aucun,1,Très bonne,0,0,Souvent
+772,772,Bonne,Très faible,0,0,Aucun,0,Mauvaise,0,0,Rarement
+773,773,Mauvaise,Faible,0,0,Aucun,1,Mauvaise,0,1,Souvent
+774,774,Mauvaise,Élevé,0,0,Aucun,1,Neutre,1,1,Parfois
+775,775,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,1,Souvent
+776,776,Très mauvaise,Élevé,0,0,Cyberharcèlement,0,Mauvaise,0,0,Souvent
+777,777,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,0,Rarement
+778,778,Très bonne,Élevé,0,0,Aucun,1,Neutre,0,0,Rarement
+779,779,Mauvaise,Élevé,0,0,Aucun,1,Bonne,1,1,Rarement
+780,780,Neutre,Très élevé,1,0,Aucun,1,Bonne,0,1,Souvent
+781,781,Neutre,Faible,0,0,Aucun,0,Neutre,0,0,Parfois
+782,782,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+783,783,Très bonne,Très élevé,1,0,Aucun,0,Mauvaise,1,1,Souvent
+784,784,Bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Parfois
+785,785,Neutre,Moyen,0,0,Aucun,1,Mauvaise,0,0,Jamais
+786,786,Bonne,Élevé,0,0,Moral,0,Bonne,1,0,Parfois
+787,787,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Souvent
+788,788,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+789,789,Bonne,Élevé,0,1,Aucun,0,Très bonne,0,1,Jamais
+790,790,Mauvaise,Très faible,0,0,Aucun,0,Neutre,0,1,Jamais
+791,791,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+792,792,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+793,793,Neutre,Faible,0,0,Aucun,1,Très bonne,0,1,Rarement
+794,794,Très mauvaise,Élevé,1,0,Aucun,0,Bonne,1,1,Rarement
+795,795,Très bonne,Très faible,0,0,Aucun,1,Mauvaise,1,1,Souvent
+796,796,Bonne,Faible,0,0,Cyberharcèlement,0,Mauvaise,0,0,Jamais
+797,797,Neutre,Élevé,0,0,Aucun,0,Mauvaise,0,1,Souvent
+798,798,Mauvaise,Faible,1,0,Aucun,0,Mauvaise,1,1,Souvent
+799,799,Neutre,Très élevé,0,0,Aucun,1,Très bonne,0,0,Souvent
+800,800,Bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Parfois
+801,801,Bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+802,802,Neutre,Moyen,0,0,Aucun,1,Bonne,0,0,Parfois
+803,803,Bonne,Moyen,0,0,Cyberharcèlement,0,Bonne,0,0,Parfois
+804,804,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,1,Parfois
+805,805,Bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Rarement
+806,806,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,0,Jamais
+807,807,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Rarement
+808,808,Bonne,Faible,0,0,Aucun,0,Neutre,1,1,Rarement
+809,809,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,0,1,Jamais
+810,810,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+811,811,Mauvaise,Faible,0,0,Aucun,0,Neutre,1,0,Parfois
+812,812,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,0,Souvent
+813,813,Très bonne,Moyen,1,0,Aucun,0,Neutre,1,0,Rarement
+814,814,Neutre,Moyen,0,0,Aucun,0,Neutre,1,0,Jamais
+815,815,Très mauvaise,Très faible,1,0,Aucun,0,Bonne,1,1,Parfois
+816,816,Neutre,Élevé,1,0,Aucun,1,Neutre,0,0,Rarement
+817,817,Neutre,Très faible,0,0,Aucun,1,Neutre,1,1,Souvent
+818,818,Très bonne,Très faible,1,0,Verbal,0,Très bonne,1,0,Rarement
+819,819,Bonne,Très faible,0,0,Aucun,0,Bonne,0,0,Rarement
+820,820,Bonne,Élevé,1,0,Aucun,0,Neutre,0,1,Rarement
+821,821,Bonne,Très faible,0,0,Aucun,1,Très bonne,0,0,Parfois
+822,822,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+823,823,Bonne,Très élevé,0,0,Verbal,0,Très mauvaise,1,0,Parfois
+824,824,Mauvaise,Moyen,1,0,Aucun,0,Neutre,0,0,Parfois
+825,825,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+826,826,Bonne,Faible,1,0,Aucun,1,Très mauvaise,0,1,Rarement
+827,827,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Parfois
+828,828,Mauvaise,Moyen,0,0,Aucun,1,Très bonne,1,1,Rarement
+829,829,Très bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Jamais
+830,830,Neutre,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+831,831,Bonne,Très élevé,0,0,Cyberharcèlement,0,Mauvaise,0,0,Parfois
+832,832,Neutre,Très faible,0,0,Aucun,0,Mauvaise,1,0,Parfois
+833,833,Neutre,Élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+834,834,Bonne,Faible,0,0,Aucun,0,Bonne,0,1,Jamais
+835,835,Neutre,Moyen,0,0,Verbal,1,Bonne,1,0,Jamais
+836,836,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Rarement
+837,837,Très bonne,Très faible,0,0,Aucun,0,Bonne,0,1,Rarement
+838,838,Neutre,Très faible,0,0,Aucun,1,Neutre,0,1,Jamais
+839,839,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,1,1,Jamais
+840,840,Neutre,Très faible,0,0,Aucun,0,Neutre,1,1,Parfois
+841,841,Très bonne,Faible,0,0,Aucun,0,Neutre,1,0,Parfois
+842,842,Bonne,Moyen,0,0,Aucun,1,Mauvaise,1,0,Parfois
+843,843,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,0,0,Souvent
+844,844,Bonne,Élevé,1,0,Aucun,0,Neutre,0,0,Jamais
+845,845,Neutre,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+846,846,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,0,Jamais
+847,847,Bonne,Élevé,0,0,Aucun,1,Neutre,1,1,Parfois
+848,848,Très bonne,Moyen,0,0,Aucun,1,Très mauvaise,0,0,Rarement
+849,849,Neutre,Élevé,1,0,Aucun,0,Mauvaise,0,0,Parfois
+850,850,Neutre,Élevé,0,0,Aucun,0,Mauvaise,0,0,Rarement
+851,851,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+852,852,Bonne,Faible,0,0,Aucun,0,Neutre,1,1,Rarement
+853,853,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+854,854,Neutre,Moyen,0,0,Aucun,1,Bonne,1,0,Rarement
+855,855,Mauvaise,Très faible,0,0,Aucun,0,Bonne,1,0,Parfois
+856,856,Neutre,Faible,0,0,Aucun,0,Mauvaise,0,0,Rarement
+857,857,Neutre,Faible,0,0,Aucun,0,Très mauvaise,0,0,Rarement
+858,858,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+859,859,Mauvaise,Moyen,0,1,Aucun,1,Très bonne,1,0,Parfois
+860,860,Très bonne,Faible,1,0,Aucun,0,Neutre,0,0,Rarement
+861,861,Neutre,Faible,1,0,Aucun,0,Neutre,0,0,Souvent
+862,862,Très bonne,Faible,0,1,Aucun,0,Bonne,1,0,Souvent
+863,863,Très bonne,Moyen,1,1,Aucun,0,Mauvaise,0,1,Rarement
+864,864,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,0,Rarement
+865,865,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,1,Rarement
+866,866,Neutre,Très élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+867,867,Bonne,Moyen,0,0,Aucun,0,Très mauvaise,1,1,Rarement
+868,868,Très bonne,Faible,0,0,Aucun,0,Très bonne,0,0,Parfois
+869,869,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+870,870,Bonne,Moyen,0,1,Aucun,1,Bonne,0,0,Parfois
+871,871,Très mauvaise,Très élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+872,872,Neutre,Faible,0,0,Aucun,0,Bonne,0,0,Souvent
+873,873,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,1,0,Jamais
+874,874,Bonne,Élevé,0,0,Aucun,1,Très mauvaise,0,0,Parfois
+875,875,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,1,Parfois
+876,876,Neutre,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+877,877,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Rarement
+878,878,Mauvaise,Élevé,0,1,Aucun,0,Mauvaise,1,0,Rarement
+879,879,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+880,880,Bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Souvent
+881,881,Mauvaise,Très faible,1,0,Aucun,0,Neutre,0,0,Parfois
+882,882,Bonne,Moyen,0,0,Aucun,0,Très mauvaise,0,0,Souvent
+883,883,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Rarement
+884,884,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,0,Jamais
+885,885,Mauvaise,Moyen,0,1,Aucun,0,Bonne,0,0,Parfois
+886,886,Mauvaise,Faible,0,0,Aucun,1,Très mauvaise,1,1,Parfois
+887,887,Neutre,Très élevé,0,0,Aucun,0,Mauvaise,0,0,Jamais
+888,888,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+889,889,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+890,890,Neutre,Faible,0,0,Aucun,0,Très bonne,1,1,Souvent
+891,891,Neutre,Faible,1,0,Aucun,0,Très bonne,0,0,Jamais
+892,892,Bonne,Très faible,0,0,Aucun,0,Neutre,0,0,Souvent
+893,893,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Jamais
+894,894,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+895,895,Bonne,Faible,0,0,Aucun,1,Très bonne,1,1,Rarement
+896,896,Bonne,Très élevé,0,0,Aucun,0,Bonne,0,1,Souvent
+897,897,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+898,898,Mauvaise,Très faible,0,0,Aucun,0,Neutre,1,1,Souvent
+899,899,Très bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Rarement
+900,900,Très bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Parfois
+901,901,Neutre,Moyen,0,0,Aucun,1,Très bonne,1,0,Souvent
+902,902,Bonne,Élevé,1,0,Aucun,1,Très bonne,1,0,Jamais
+903,903,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,0,Jamais
+904,904,Neutre,Élevé,0,0,Aucun,0,Neutre,1,1,Rarement
+905,905,Mauvaise,Moyen,0,0,Aucun,1,Bonne,1,0,Jamais
+906,906,Très bonne,Faible,0,0,Aucun,0,Très bonne,1,1,Jamais
+907,907,Neutre,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+908,908,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+909,909,Bonne,Très élevé,0,0,Aucun,0,Neutre,1,1,Jamais
+910,910,Très mauvaise,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+911,911,Très bonne,Moyen,0,0,Aucun,1,Neutre,0,1,Souvent
+912,912,Mauvaise,Moyen,1,0,Aucun,1,Mauvaise,0,1,Parfois
+913,913,Mauvaise,Moyen,0,0,Aucun,0,Mauvaise,1,0,Jamais
+914,914,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,0,1,Rarement
+915,915,Neutre,Moyen,0,0,Aucun,0,Mauvaise,0,1,Parfois
+916,916,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+917,917,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,1,Jamais
+918,918,Bonne,Très faible,0,0,Aucun,0,Très bonne,1,1,Jamais
+919,919,Très bonne,Faible,0,0,Aucun,1,Très bonne,0,1,Parfois
+920,920,Bonne,Faible,0,0,Aucun,0,Bonne,0,0,Jamais
+921,921,Neutre,Faible,0,0,Aucun,1,Neutre,0,1,Rarement
+922,922,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Rarement
+923,923,Bonne,Faible,0,0,Aucun,0,Bonne,0,1,Souvent
+924,924,Bonne,Très faible,0,0,Aucun,0,Neutre,0,1,Souvent
+925,925,Mauvaise,Élevé,0,0,Aucun,0,Neutre,1,0,Jamais
+926,926,Bonne,Très faible,0,0,Aucun,1,Bonne,1,0,Rarement
+927,927,Mauvaise,Élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+928,928,Mauvaise,Faible,0,0,Aucun,0,Très bonne,1,0,Jamais
+929,929,Mauvaise,Élevé,0,0,Aucun,1,Très bonne,1,0,Jamais
+930,930,Bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+931,931,Bonne,Très élevé,1,1,Aucun,0,Très mauvaise,0,0,Parfois
+932,932,Neutre,Très élevé,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+933,933,Bonne,Moyen,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+934,934,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Rarement
+935,935,Bonne,Moyen,1,0,Aucun,0,Neutre,1,0,Jamais
+936,936,Très bonne,Faible,1,0,Aucun,0,Bonne,0,1,Souvent
+937,937,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Souvent
+938,938,Très bonne,Très faible,1,1,Aucun,0,Neutre,0,0,Jamais
+939,939,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,0,1,Rarement
+940,940,Bonne,Élevé,1,1,Aucun,1,Bonne,1,0,Jamais
+941,941,Neutre,Moyen,0,0,Aucun,0,Bonne,1,1,Jamais
+942,942,Neutre,Élevé,0,0,Aucun,1,Très bonne,1,1,Parfois
+943,943,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,0,Souvent
+944,944,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+945,945,Neutre,Élevé,0,0,Aucun,0,Mauvaise,0,0,Rarement
+946,946,Très mauvaise,Faible,0,0,Aucun,0,Bonne,0,1,Parfois
+947,947,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Souvent
+948,948,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,1,Jamais
+949,949,Neutre,Très faible,0,0,Aucun,1,Neutre,1,0,Parfois
+950,950,Neutre,Très faible,0,1,Aucun,0,Mauvaise,0,0,Rarement
+951,951,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+952,952,Très bonne,Moyen,0,0,Aucun,0,Mauvaise,1,1,Jamais
+953,953,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+954,954,Bonne,Très élevé,1,0,Aucun,1,Neutre,0,1,Parfois
+955,955,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+956,956,Bonne,Très faible,0,1,Aucun,1,Mauvaise,0,0,Rarement
+957,957,Mauvaise,Moyen,0,0,Cyberharcèlement,0,Bonne,1,1,Souvent
+958,958,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+959,959,Neutre,Moyen,1,0,Aucun,0,Bonne,0,0,Souvent
+960,960,Neutre,Moyen,0,1,Aucun,1,Bonne,1,1,Rarement
+961,961,Bonne,Faible,0,0,Aucun,0,Bonne,0,1,Souvent
+962,962,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+963,963,Bonne,Faible,0,0,Aucun,1,Bonne,0,1,Rarement
+964,964,Bonne,Élevé,0,0,Aucun,1,Mauvaise,1,0,Rarement
+965,965,Mauvaise,Très faible,0,0,Moral,0,Neutre,0,0,Souvent
+966,966,Très bonne,Élevé,0,1,Aucun,0,Bonne,1,0,Parfois
+967,967,Neutre,Élevé,1,0,Aucun,0,Très bonne,0,0,Souvent
+968,968,Neutre,Faible,0,0,Aucun,1,Mauvaise,1,0,Jamais
+969,969,Bonne,Moyen,0,0,Aucun,1,Très mauvaise,0,0,Parfois
+970,970,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+971,971,Neutre,Très faible,0,0,Aucun,0,Très mauvaise,1,0,Souvent
+972,972,Neutre,Élevé,1,0,Aucun,0,Bonne,0,0,Souvent
+973,973,Bonne,Élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+974,974,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Jamais
+975,975,Très mauvaise,Élevé,1,0,Cyberharcèlement,0,Neutre,0,1,Souvent
+976,976,Neutre,Moyen,0,0,Aucun,0,Neutre,0,0,Parfois
+977,977,Neutre,Faible,0,0,Aucun,1,Bonne,0,1,Souvent
+978,978,Bonne,Très élevé,0,1,Aucun,0,Neutre,0,0,Parfois
+979,979,Neutre,Moyen,0,0,Aucun,0,Neutre,1,1,Jamais
+980,980,Neutre,Très faible,0,0,Aucun,0,Neutre,1,0,Rarement
+981,981,Neutre,Moyen,1,0,Aucun,0,Neutre,1,1,Jamais
+982,982,Très mauvaise,Très faible,1,0,Aucun,0,Bonne,0,0,Rarement
+983,983,Bonne,Faible,0,0,Aucun,0,Mauvaise,1,1,Souvent
+984,984,Neutre,Moyen,1,0,Aucun,1,Neutre,0,0,Parfois
+985,985,Bonne,Faible,0,1,Cyberharcèlement,0,Très bonne,1,1,Rarement
+986,986,Neutre,Moyen,0,0,Aucun,0,Neutre,0,0,Jamais
+987,987,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,0,Parfois
+988,988,Bonne,Élevé,0,0,Aucun,0,Très mauvaise,0,0,Parfois
+989,989,Très mauvaise,Élevé,0,0,Aucun,0,Mauvaise,0,0,Rarement
+990,990,Bonne,Élevé,1,0,Aucun,0,Très bonne,1,1,Souvent
+991,991,Très mauvaise,Moyen,1,0,Aucun,0,Bonne,0,0,Parfois
+992,992,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+993,993,Bonne,Moyen,0,0,Aucun,1,Neutre,0,0,Souvent
+994,994,Très mauvaise,Très faible,1,0,Aucun,0,Bonne,0,0,Rarement
+995,995,Bonne,Faible,0,0,Aucun,0,Mauvaise,1,0,Jamais
+996,996,Bonne,Faible,0,0,Aucun,1,Bonne,1,0,Jamais
+997,997,Bonne,Très faible,1,1,Aucun,0,Neutre,0,0,Rarement
+998,998,Très bonne,Élevé,0,0,Verbal,0,Bonne,0,1,Parfois
+999,999,Neutre,Faible,0,0,Aucun,0,Bonne,0,0,Jamais
+1000,1000,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1001,1001,Bonne,Faible,0,0,Aucun,0,Neutre,0,1,Rarement
+1002,1002,Bonne,Faible,0,0,Aucun,0,Mauvaise,0,0,Parfois
+1003,1003,Neutre,Faible,1,0,Aucun,0,Bonne,0,0,Rarement
+1004,1004,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+1005,1005,Bonne,Faible,0,0,Aucun,1,Bonne,1,0,Souvent
+1006,1006,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+1007,1007,Bonne,Faible,1,0,Aucun,1,Bonne,1,0,Jamais
+1008,1008,Neutre,Moyen,1,0,Aucun,0,Neutre,1,1,Jamais
+1009,1009,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1010,1010,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Souvent
+1011,1011,Bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,0,Parfois
+1012,1012,Neutre,Moyen,0,1,Cyberharcèlement,0,Neutre,1,0,Rarement
+1013,1013,Bonne,Élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+1014,1014,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+1015,1015,Mauvaise,Très faible,0,0,Aucun,0,Très bonne,0,0,Souvent
+1016,1016,Neutre,Faible,0,0,Aucun,0,Mauvaise,0,0,Souvent
+1017,1017,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Jamais
+1018,1018,Très bonne,Très faible,0,0,Aucun,1,Neutre,1,1,Souvent
+1019,1019,Mauvaise,Faible,1,0,Aucun,0,Neutre,1,0,Parfois
+1020,1020,Mauvaise,Faible,1,0,Aucun,0,Neutre,0,0,Souvent
+1021,1021,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Jamais
+1022,1022,Bonne,Moyen,0,0,Aucun,0,Très mauvaise,0,0,Parfois
+1023,1023,Bonne,Très faible,1,0,Aucun,1,Très mauvaise,1,1,Rarement
+1024,1024,Mauvaise,Très élevé,0,0,Aucun,1,Très bonne,1,1,Jamais
+1025,1025,Mauvaise,Très élevé,1,0,Aucun,1,Bonne,0,0,Souvent
+1026,1026,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,0,1,Souvent
+1027,1027,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Rarement
+1028,1028,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Parfois
+1029,1029,Neutre,Élevé,0,0,Aucun,1,Très bonne,0,1,Souvent
+1030,1030,Neutre,Moyen,0,0,Aucun,0,Neutre,0,0,Parfois
+1031,1031,Très mauvaise,Très faible,0,0,Aucun,0,Bonne,1,0,Rarement
+1032,1032,Très mauvaise,Faible,1,0,Aucun,1,Très bonne,1,0,Jamais
+1033,1033,Très bonne,Élevé,1,0,Aucun,0,Neutre,0,0,Parfois
+1034,1034,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+1035,1035,Très mauvaise,Élevé,0,0,Aucun,1,Bonne,1,1,Jamais
+1036,1036,Très mauvaise,Faible,1,0,Aucun,1,Très mauvaise,1,0,Jamais
+1037,1037,Bonne,Faible,0,0,Verbal,0,Mauvaise,0,0,Rarement
+1038,1038,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+1039,1039,Très bonne,Très faible,0,0,Aucun,1,Mauvaise,0,0,Parfois
+1040,1040,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1041,1041,Très bonne,Faible,0,1,Aucun,0,Bonne,0,1,Souvent
+1042,1042,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+1043,1043,Neutre,Très élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+1044,1044,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1045,1045,Très mauvaise,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+1046,1046,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+1047,1047,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+1048,1048,Très bonne,Très élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+1049,1049,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1050,1050,Mauvaise,Très élevé,1,0,Aucun,1,Neutre,1,0,Rarement
+1051,1051,Bonne,Faible,0,0,Aucun,0,Très bonne,0,1,Parfois
+1052,1052,Mauvaise,Faible,1,0,Aucun,0,Neutre,1,1,Rarement
+1053,1053,Très bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Parfois
+1054,1054,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+1055,1055,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,1,Parfois
+1056,1056,Bonne,Élevé,1,0,Aucun,0,Bonne,1,0,Rarement
+1057,1057,Mauvaise,Élevé,0,0,Aucun,0,Très mauvaise,0,0,Jamais
+1058,1058,Neutre,Moyen,0,0,Aucun,1,Bonne,1,1,Souvent
+1059,1059,Bonne,Très faible,0,0,Aucun,0,Neutre,1,0,Rarement
+1060,1060,Mauvaise,Faible,0,0,Aucun,1,Bonne,0,0,Rarement
+1061,1061,Bonne,Faible,1,0,Aucun,1,Bonne,0,0,Rarement
+1062,1062,Très mauvaise,Faible,0,0,Aucun,0,Mauvaise,0,0,Parfois
+1063,1063,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+1064,1064,Bonne,Très faible,0,1,Moral,1,Mauvaise,1,0,Jamais
+1065,1065,Bonne,Moyen,0,0,Aucun,1,Mauvaise,0,0,Parfois
+1066,1066,Très bonne,Très faible,0,0,Aucun,0,Très bonne,1,1,Souvent
+1067,1067,Bonne,Moyen,0,0,Aucun,1,Neutre,0,0,Rarement
+1068,1068,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+1069,1069,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+1070,1070,Très mauvaise,Élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+1071,1071,Neutre,Faible,0,0,Aucun,0,Très bonne,1,0,Parfois
+1072,1072,Très bonne,Très élevé,1,0,Aucun,0,Très bonne,0,1,Rarement
+1073,1073,Neutre,Très faible,0,0,Aucun,0,Très mauvaise,0,0,Rarement
+1074,1074,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Souvent
+1075,1075,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Rarement
+1076,1076,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+1077,1077,Neutre,Moyen,0,0,Aucun,1,Très mauvaise,0,1,Rarement
+1078,1078,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1079,1079,Neutre,Très élevé,1,0,Aucun,0,Bonne,1,0,Jamais
+1080,1080,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Jamais
+1081,1081,Neutre,Faible,0,0,Aucun,0,Bonne,0,1,Parfois
+1082,1082,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+1083,1083,Bonne,Faible,0,0,Aucun,1,Très bonne,0,1,Souvent
+1084,1084,Bonne,Élevé,1,0,Aucun,1,Neutre,1,0,Rarement
+1085,1085,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+1086,1086,Bonne,Élevé,0,0,Cyberharcèlement,1,Très bonne,0,0,Rarement
+1087,1087,Mauvaise,Faible,0,0,Aucun,0,Mauvaise,0,0,Parfois
+1088,1088,Mauvaise,Très élevé,0,0,Aucun,0,Mauvaise,1,0,Rarement
+1089,1089,Bonne,Élevé,0,1,Aucun,1,Neutre,0,0,Rarement
+1090,1090,Très bonne,Très élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+1091,1091,Très bonne,Très faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1092,1092,Neutre,Très faible,1,0,Aucun,0,Très bonne,1,1,Rarement
+1093,1093,Mauvaise,Faible,0,0,Aucun,0,Mauvaise,0,1,Jamais
+1094,1094,Bonne,Faible,0,1,Aucun,0,Neutre,1,0,Souvent
+1095,1095,Très bonne,Faible,0,0,Aucun,0,Mauvaise,0,0,Rarement
+1096,1096,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+1097,1097,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,1,Souvent
+1098,1098,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1099,1099,Neutre,Faible,1,0,Aucun,1,Neutre,0,0,Souvent
+1100,1100,Bonne,Très élevé,0,0,Cyberharcèlement,1,Bonne,1,1,Parfois
+1101,1101,Neutre,Élevé,0,0,Aucun,0,Neutre,0,1,Jamais
+1102,1102,Bonne,Très faible,0,0,Aucun,0,Mauvaise,0,0,Jamais
+1103,1103,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1104,1104,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+1105,1105,Très mauvaise,Très faible,0,0,Aucun,0,Très bonne,1,1,Parfois
+1106,1106,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,1,Souvent
+1107,1107,Très bonne,Très élevé,0,0,Aucun,1,Neutre,0,1,Jamais
+1108,1108,Bonne,Très faible,0,0,Aucun,1,Très bonne,0,0,Jamais
+1109,1109,Bonne,Élevé,1,0,Moral,0,Bonne,1,0,Jamais
+1110,1110,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Jamais
+1111,1111,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+1112,1112,Très bonne,Très élevé,0,0,Aucun,1,Neutre,0,0,Souvent
+1113,1113,Bonne,Très faible,0,0,Aucun,0,Bonne,1,0,Souvent
+1114,1114,Bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+1115,1115,Neutre,Élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+1116,1116,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+1117,1117,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+1118,1118,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Jamais
+1119,1119,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+1120,1120,Mauvaise,Élevé,0,0,Aucun,0,Très mauvaise,1,1,Rarement
+1121,1121,Très bonne,Moyen,0,0,Aucun,1,Mauvaise,1,0,Parfois
+1122,1122,Bonne,Très élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1123,1123,Mauvaise,Moyen,0,0,Moral,1,Mauvaise,0,0,Souvent
+1124,1124,Très bonne,Très faible,0,0,Aucun,0,Bonne,1,1,Souvent
+1125,1125,Bonne,Faible,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1126,1126,Neutre,Faible,0,0,Aucun,0,Très bonne,0,1,Parfois
+1127,1127,Neutre,Élevé,0,1,Aucun,0,Bonne,1,0,Souvent
+1128,1128,Neutre,Moyen,0,0,Aucun,1,Bonne,0,1,Parfois
+1129,1129,Neutre,Moyen,0,1,Aucun,0,Mauvaise,1,1,Parfois
+1130,1130,Mauvaise,Moyen,0,0,Aucun,1,Neutre,0,0,Parfois
+1131,1131,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,1,Rarement
+1132,1132,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1133,1133,Bonne,Élevé,0,0,Moral,0,Très bonne,0,0,Jamais
+1134,1134,Neutre,Très faible,0,0,Aucun,1,Très bonne,1,0,Parfois
+1135,1135,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+1136,1136,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Jamais
+1137,1137,Très bonne,Très élevé,1,0,Aucun,0,Neutre,1,1,Rarement
+1138,1138,Neutre,Élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+1139,1139,Mauvaise,Très faible,0,0,Aucun,1,Très bonne,1,1,Rarement
+1140,1140,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+1141,1141,Bonne,Très élevé,0,0,Aucun,0,Très mauvaise,0,0,Parfois
+1142,1142,Très mauvaise,Faible,0,0,Aucun,0,Très mauvaise,0,1,Souvent
+1143,1143,Bonne,Faible,0,0,Aucun,1,Bonne,1,0,Rarement
+1144,1144,Neutre,Très élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+1145,1145,Neutre,Très élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+1146,1146,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Souvent
+1147,1147,Neutre,Élevé,0,0,Moral,1,Neutre,1,0,Rarement
+1148,1148,Neutre,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+1149,1149,Très bonne,Faible,0,0,Aucun,0,Bonne,1,1,Rarement
+1150,1150,Bonne,Moyen,0,1,Moral,0,Neutre,0,1,Souvent
+1151,1151,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Jamais
+1152,1152,Bonne,Moyen,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1153,1153,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+1154,1154,Très bonne,Très élevé,1,0,Aucun,0,Bonne,1,0,Rarement
+1155,1155,Neutre,Très faible,0,0,Aucun,0,Mauvaise,1,1,Rarement
+1156,1156,Neutre,Élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+1157,1157,Très bonne,Élevé,0,0,Aucun,1,Très bonne,0,1,Rarement
+1158,1158,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Parfois
+1159,1159,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Souvent
+1160,1160,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1161,1161,Neutre,Élevé,0,0,Aucun,0,Bonne,0,1,Souvent
+1162,1162,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Parfois
+1163,1163,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Jamais
+1164,1164,Bonne,Faible,1,1,Aucun,0,Très bonne,0,1,Parfois
+1165,1165,Bonne,Moyen,0,0,Aucun,0,Mauvaise,1,1,Souvent
+1166,1166,Très bonne,Élevé,0,0,Aucun,1,Très bonne,0,1,Jamais
+1167,1167,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1168,1168,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Jamais
+1169,1169,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+1170,1170,Très bonne,Très élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1171,1171,Bonne,Faible,0,0,Aucun,0,Neutre,0,1,Rarement
+1172,1172,Très bonne,Très élevé,0,0,Cyberharcèlement,0,Mauvaise,1,1,Rarement
+1173,1173,Bonne,Moyen,1,0,Aucun,0,Neutre,1,0,Jamais
+1174,1174,Bonne,Élevé,0,0,Aucun,0,Mauvaise,0,0,Souvent
+1175,1175,Mauvaise,Moyen,0,0,Aucun,1,Bonne,0,1,Souvent
+1176,1176,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Rarement
+1177,1177,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,1,Parfois
+1178,1178,Bonne,Moyen,1,0,Aucun,0,Très mauvaise,0,0,Jamais
+1179,1179,Très bonne,Très faible,0,0,Aucun,0,Neutre,0,1,Parfois
+1180,1180,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+1181,1181,Bonne,Élevé,0,1,Aucun,0,Bonne,1,0,Souvent
+1182,1182,Mauvaise,Très élevé,0,0,Aucun,0,Mauvaise,0,0,Parfois
+1183,1183,Bonne,Faible,1,0,Aucun,0,Neutre,1,0,Souvent
+1184,1184,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+1185,1185,Très mauvaise,Moyen,0,1,Aucun,0,Neutre,1,0,Rarement
+1186,1186,Très bonne,Élevé,1,0,Aucun,0,Très bonne,1,1,Souvent
+1187,1187,Bonne,Moyen,0,1,Aucun,0,Mauvaise,0,0,Parfois
+1188,1188,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Jamais
+1189,1189,Neutre,Très faible,0,0,Aucun,0,Neutre,1,1,Souvent
+1190,1190,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+1191,1191,Très bonne,Moyen,0,0,Aucun,1,Neutre,0,0,Parfois
+1192,1192,Très bonne,Moyen,0,0,Aucun,0,Très mauvaise,1,0,Parfois
+1193,1193,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+1194,1194,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+1195,1195,Neutre,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1196,1196,Bonne,Très élevé,0,0,Aucun,0,Mauvaise,0,0,Jamais
+1197,1197,Mauvaise,Moyen,0,0,Cyberharcèlement,1,Mauvaise,1,0,Jamais
+1198,1198,Bonne,Moyen,0,0,Aucun,1,Bonne,0,1,Souvent
+1199,1199,Bonne,Moyen,1,0,Aucun,0,Bonne,1,1,Jamais
+1200,1200,Bonne,Très faible,0,0,Aucun,1,Bonne,0,1,Parfois
+1201,1201,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+1202,1202,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+1203,1203,Neutre,Faible,0,0,Aucun,1,Neutre,1,0,Rarement
+1204,1204,Bonne,Faible,0,0,Aucun,0,Neutre,0,1,Parfois
+1205,1205,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Rarement
+1206,1206,Mauvaise,Moyen,0,0,Aucun,1,Mauvaise,1,0,Souvent
+1207,1207,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+1208,1208,Neutre,Faible,0,1,Aucun,1,Neutre,0,1,Rarement
+1209,1209,Très bonne,Très faible,0,0,Aucun,1,Neutre,0,1,Parfois
+1210,1210,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+1211,1211,Très bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Souvent
+1212,1212,Très bonne,Moyen,0,0,Aucun,1,Très mauvaise,0,0,Souvent
+1213,1213,Mauvaise,Très faible,0,0,Aucun,1,Neutre,0,0,Souvent
+1214,1214,Très bonne,Très faible,0,0,Aucun,0,Très bonne,1,1,Souvent
+1215,1215,Bonne,Très faible,0,0,Aucun,0,Très bonne,1,1,Souvent
+1216,1216,Très bonne,Élevé,1,0,Aucun,0,Bonne,0,0,Jamais
+1217,1217,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,0,Jamais
+1218,1218,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+1219,1219,Mauvaise,Très faible,0,0,Aucun,0,Bonne,1,1,Jamais
+1220,1220,Bonne,Très élevé,0,0,Aucun,1,Mauvaise,0,0,Souvent
+1221,1221,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+1222,1222,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Souvent
+1223,1223,Bonne,Moyen,0,1,Moral,1,Bonne,0,1,Rarement
+1224,1224,Mauvaise,Moyen,0,0,Aucun,1,Bonne,0,0,Souvent
+1225,1225,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1226,1226,Très bonne,Faible,0,0,Aucun,1,Mauvaise,0,1,Jamais
+1227,1227,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Souvent
+1228,1228,Neutre,Moyen,0,0,Aucun,0,Mauvaise,0,0,Rarement
+1229,1229,Très bonne,Moyen,1,0,Aucun,0,Bonne,0,1,Souvent
+1230,1230,Bonne,Faible,0,0,Aucun,1,Mauvaise,1,0,Jamais
+1231,1231,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Jamais
+1232,1232,Mauvaise,Moyen,0,0,Aucun,0,Neutre,0,0,Souvent
+1233,1233,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+1234,1234,Neutre,Élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+1235,1235,Neutre,Très faible,0,1,Aucun,1,Très mauvaise,0,1,Rarement
+1236,1236,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,1,Rarement
+1237,1237,Neutre,Très élevé,1,0,Aucun,0,Mauvaise,1,0,Rarement
+1238,1238,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Parfois
+1239,1239,Très bonne,Élevé,0,0,Aucun,1,Mauvaise,1,1,Jamais
+1240,1240,Bonne,Faible,0,0,Aucun,0,Très mauvaise,1,0,Parfois
+1241,1241,Mauvaise,Faible,0,0,Aucun,0,Très mauvaise,1,0,Jamais
+1242,1242,Bonne,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+1243,1243,Neutre,Faible,0,0,Aucun,1,Bonne,1,0,Rarement
+1244,1244,Bonne,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+1245,1245,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1246,1246,Bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+1247,1247,Mauvaise,Moyen,1,1,Aucun,0,Très bonne,0,0,Parfois
+1248,1248,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+1249,1249,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+1250,1250,Très bonne,Faible,0,0,Aucun,0,Neutre,0,0,Rarement
+1251,1251,Neutre,Faible,0,0,Aucun,1,Bonne,1,0,Souvent
+1252,1252,Mauvaise,Très élevé,0,0,Aucun,0,Mauvaise,1,0,Jamais
+1253,1253,Bonne,Moyen,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1254,1254,Très bonne,Moyen,0,0,Aucun,0,Mauvaise,0,1,Souvent
+1255,1255,Bonne,Élevé,1,0,Aucun,1,Très mauvaise,0,0,Rarement
+1256,1256,Bonne,Moyen,0,1,Aucun,0,Très mauvaise,1,1,Souvent
+1257,1257,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Parfois
+1258,1258,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Rarement
+1259,1259,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+1260,1260,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+1261,1261,Mauvaise,Très faible,0,0,Verbal,0,Neutre,1,1,Parfois
+1262,1262,Bonne,Faible,0,0,Aucun,0,Mauvaise,0,0,Jamais
+1263,1263,Mauvaise,Très faible,0,0,Aucun,1,Bonne,1,0,Jamais
+1264,1264,Très mauvaise,Moyen,0,0,Aucun,0,Neutre,0,0,Rarement
+1265,1265,Neutre,Faible,0,0,Aucun,1,Neutre,1,0,Jamais
+1266,1266,Neutre,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+1267,1267,Neutre,Moyen,0,1,Aucun,0,Neutre,1,1,Rarement
+1268,1268,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+1269,1269,Bonne,Très faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1270,1270,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Jamais
+1271,1271,Neutre,Moyen,0,1,Aucun,1,Neutre,1,0,Jamais
+1272,1272,Très bonne,Moyen,0,0,Aucun,0,Neutre,1,1,Jamais
+1273,1273,Très mauvaise,Très faible,0,0,Aucun,0,Très mauvaise,1,1,Souvent
+1274,1274,Neutre,Faible,0,0,Aucun,1,Bonne,1,0,Souvent
+1275,1275,Mauvaise,Faible,1,0,Aucun,0,Bonne,1,1,Parfois
+1276,1276,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Souvent
+1277,1277,Neutre,Moyen,0,0,Cyberharcèlement,0,Neutre,0,0,Rarement
+1278,1278,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+1279,1279,Très bonne,Faible,0,0,Aucun,1,Neutre,1,0,Rarement
+1280,1280,Neutre,Élevé,0,0,Aucun,1,Neutre,0,1,Parfois
+1281,1281,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1282,1282,Bonne,Faible,0,0,Aucun,1,Très bonne,1,1,Jamais
+1283,1283,Mauvaise,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1284,1284,Très bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+1285,1285,Bonne,Moyen,1,0,Cyberharcèlement,1,Neutre,1,0,Jamais
+1286,1286,Très mauvaise,Faible,0,0,Aucun,0,Bonne,1,1,Rarement
+1287,1287,Neutre,Moyen,0,0,Aucun,1,Très mauvaise,1,1,Rarement
+1288,1288,Mauvaise,Faible,0,0,Aucun,1,Bonne,0,0,Rarement
+1289,1289,Très bonne,Très faible,0,0,Aucun,1,Bonne,1,0,Parfois
+1290,1290,Bonne,Très élevé,0,0,Aucun,1,Bonne,1,1,Parfois
+1291,1291,Neutre,Très faible,0,0,Aucun,0,Bonne,1,0,Souvent
+1292,1292,Neutre,Très faible,0,0,Aucun,1,Bonne,0,1,Souvent
+1293,1293,Neutre,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+1294,1294,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+1295,1295,Bonne,Faible,1,0,Aucun,0,Mauvaise,1,1,Rarement
+1296,1296,Neutre,Élevé,1,0,Aucun,0,Neutre,1,0,Rarement
+1297,1297,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+1298,1298,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Jamais
+1299,1299,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1300,1300,Neutre,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+1301,1301,Neutre,Très élevé,0,0,Aucun,1,Bonne,0,1,Rarement
+1302,1302,Neutre,Élevé,0,0,Aucun,1,Bonne,0,1,Jamais
+1303,1303,Bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Jamais
+1304,1304,Bonne,Moyen,0,0,Verbal,1,Très bonne,0,0,Rarement
+1305,1305,Très bonne,Faible,0,0,Aucun,0,Neutre,1,1,Rarement
+1306,1306,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Rarement
+1307,1307,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1308,1308,Bonne,Faible,0,0,Aucun,0,Mauvaise,0,0,Rarement
+1309,1309,Bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1310,1310,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+1311,1311,Très bonne,Élevé,1,0,Aucun,0,Bonne,1,0,Parfois
+1312,1312,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1313,1313,Neutre,Très faible,0,0,Aucun,0,Bonne,0,1,Souvent
+1314,1314,Très bonne,Très faible,0,0,Aucun,0,Mauvaise,1,1,Parfois
+1315,1315,Neutre,Moyen,1,0,Aucun,0,Très mauvaise,1,1,Rarement
+1316,1316,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1317,1317,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Rarement
+1318,1318,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,1,Jamais
+1319,1319,Très bonne,Élevé,1,0,Aucun,0,Bonne,0,0,Souvent
+1320,1320,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+1321,1321,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+1322,1322,Neutre,Très faible,0,0,Aucun,1,Mauvaise,1,0,Rarement
+1323,1323,Mauvaise,Faible,0,0,Aucun,1,Mauvaise,1,1,Souvent
+1324,1324,Neutre,Faible,0,0,Aucun,0,Mauvaise,0,0,Souvent
+1325,1325,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1326,1326,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1327,1327,Bonne,Faible,0,1,Aucun,0,Bonne,0,1,Parfois
+1328,1328,Neutre,Très faible,0,0,Aucun,0,Bonne,1,0,Jamais
+1329,1329,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1330,1330,Mauvaise,Très élevé,0,0,Aucun,1,Neutre,1,1,Souvent
+1331,1331,Bonne,Faible,0,0,Aucun,1,Bonne,0,0,Souvent
+1332,1332,Très bonne,Très élevé,0,0,Aucun,1,Neutre,1,1,Rarement
+1333,1333,Bonne,Faible,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1334,1334,Bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Souvent
+1335,1335,Très bonne,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+1336,1336,Neutre,Moyen,0,0,Aucun,0,Bonne,1,1,Parfois
+1337,1337,Bonne,Faible,0,0,Aucun,1,Neutre,1,0,Parfois
+1338,1338,Neutre,Moyen,0,0,Aucun,1,Bonne,0,0,Jamais
+1339,1339,Bonne,Faible,0,0,Aucun,1,Très bonne,0,0,Parfois
+1340,1340,Neutre,Très élevé,0,0,Aucun,0,Neutre,0,0,Souvent
+1341,1341,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+1342,1342,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+1343,1343,Bonne,Faible,0,0,Aucun,1,Bonne,1,0,Parfois
+1344,1344,Bonne,Très faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1345,1345,Très bonne,Moyen,0,0,Aucun,0,Mauvaise,1,1,Jamais
+1346,1346,Neutre,Très faible,0,0,Aucun,0,Neutre,0,1,Jamais
+1347,1347,Très mauvaise,Moyen,0,0,Aucun,0,Très bonne,1,0,Souvent
+1348,1348,Très bonne,Élevé,1,0,Aucun,1,Très mauvaise,0,0,Parfois
+1349,1349,Mauvaise,Élevé,0,0,Aucun,1,Bonne,0,1,Souvent
+1350,1350,Neutre,Très faible,0,0,Moral,0,Très mauvaise,1,0,Parfois
+1351,1351,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Jamais
+1352,1352,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,0,Parfois
+1353,1353,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+1354,1354,Très mauvaise,Très faible,0,0,Aucun,0,Très mauvaise,0,0,Rarement
+1355,1355,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+1356,1356,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+1357,1357,Neutre,Faible,0,0,Aucun,0,Neutre,1,0,Souvent
+1358,1358,Très bonne,Moyen,1,0,Aucun,0,Bonne,1,1,Souvent
+1359,1359,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+1360,1360,Mauvaise,Faible,0,0,Aucun,0,Neutre,0,0,Parfois
+1361,1361,Neutre,Très faible,0,0,Aucun,1,Neutre,0,1,Jamais
+1362,1362,Bonne,Élevé,1,0,Aucun,0,Mauvaise,0,1,Souvent
+1363,1363,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+1364,1364,Très bonne,Très faible,0,0,Aucun,0,Bonne,1,1,Parfois
+1365,1365,Bonne,Très faible,0,0,Aucun,0,Bonne,1,1,Rarement
+1366,1366,Mauvaise,Moyen,1,0,Aucun,1,Bonne,1,0,Souvent
+1367,1367,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Rarement
+1368,1368,Très bonne,Moyen,0,0,Aucun,1,Très mauvaise,1,0,Parfois
+1369,1369,Neutre,Faible,0,0,Aucun,1,Neutre,0,0,Rarement
+1370,1370,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Souvent
+1371,1371,Bonne,Très faible,0,0,Aucun,1,Bonne,1,0,Jamais
+1372,1372,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+1373,1373,Très mauvaise,Moyen,0,1,Aucun,0,Très bonne,0,0,Rarement
+1374,1374,Bonne,Faible,0,0,Aucun,0,Neutre,0,0,Jamais
+1375,1375,Très bonne,Moyen,0,0,Aucun,0,Mauvaise,1,0,Rarement
+1376,1376,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+1377,1377,Neutre,Très élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+1378,1378,Bonne,Très élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+1379,1379,Très bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1380,1380,Bonne,Très élevé,1,0,Aucun,0,Bonne,1,1,Souvent
+1381,1381,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Rarement
+1382,1382,Mauvaise,Très élevé,0,0,Moral,0,Bonne,1,0,Rarement
+1383,1383,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,1,Rarement
+1384,1384,Très bonne,Faible,0,0,Aucun,1,Mauvaise,1,0,Parfois
+1385,1385,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+1386,1386,Très bonne,Faible,0,0,Aucun,0,Neutre,0,1,Parfois
+1387,1387,Très bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Jamais
+1388,1388,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Parfois
+1389,1389,Neutre,Très élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+1390,1390,Neutre,Moyen,0,0,Aucun,0,Très bonne,0,1,Jamais
+1391,1391,Bonne,Faible,0,0,Verbal,0,Très mauvaise,1,1,Parfois
+1392,1392,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,0,Parfois
+1393,1393,Bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+1394,1394,Très bonne,Élevé,0,0,Moral,0,Bonne,1,0,Souvent
+1395,1395,Neutre,Élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+1396,1396,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+1397,1397,Neutre,Élevé,0,0,Cyberharcèlement,0,Bonne,1,0,Parfois
+1398,1398,Très bonne,Faible,0,1,Aucun,1,Neutre,1,0,Parfois
+1399,1399,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Rarement
+1400,1400,Mauvaise,Faible,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+1401,1401,Bonne,Élevé,0,0,Aucun,1,Mauvaise,0,0,Souvent
+1402,1402,Bonne,Élevé,0,0,Aucun,1,Bonne,0,0,Souvent
+1403,1403,Bonne,Faible,0,0,Cyberharcèlement,0,Neutre,1,0,Souvent
+1404,1404,Très bonne,Faible,0,0,Aucun,0,Mauvaise,1,0,Jamais
+1405,1405,Neutre,Moyen,1,0,Aucun,1,Bonne,1,1,Parfois
+1406,1406,Très mauvaise,Moyen,0,0,Aucun,1,Très bonne,1,0,Rarement
+1407,1407,Neutre,Très élevé,0,1,Aucun,0,Très mauvaise,0,0,Rarement
+1408,1408,Bonne,Moyen,0,0,Aucun,1,Bonne,0,1,Jamais
+1409,1409,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Jamais
+1410,1410,Bonne,Faible,1,0,Aucun,0,Bonne,1,0,Rarement
+1411,1411,Très bonne,Faible,0,0,Aucun,1,Neutre,0,0,Jamais
+1412,1412,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+1413,1413,Très bonne,Faible,0,0,Aucun,0,Très bonne,0,1,Parfois
+1414,1414,Très bonne,Très élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+1415,1415,Neutre,Très élevé,0,0,Aucun,1,Mauvaise,1,1,Souvent
+1416,1416,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+1417,1417,Bonne,Moyen,0,0,Verbal,0,Mauvaise,1,0,Souvent
+1418,1418,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1419,1419,Mauvaise,Moyen,0,0,Aucun,0,Très mauvaise,1,0,Jamais
+1420,1420,Neutre,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+1421,1421,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1422,1422,Bonne,Faible,0,1,Aucun,0,Mauvaise,1,1,Jamais
+1423,1423,Très mauvaise,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+1424,1424,Mauvaise,Moyen,0,0,Aucun,0,Mauvaise,1,0,Rarement
+1425,1425,Très bonne,Moyen,0,0,Aucun,1,Bonne,0,0,Souvent
+1426,1426,Bonne,Très élevé,0,0,Aucun,1,Très mauvaise,0,0,Parfois
+1427,1427,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+1428,1428,Très mauvaise,Faible,0,0,Aucun,0,Très mauvaise,1,1,Souvent
+1429,1429,Neutre,Très faible,1,0,Aucun,1,Bonne,1,0,Rarement
+1430,1430,Bonne,Très élevé,0,0,Aucun,1,Mauvaise,1,1,Parfois
+1431,1431,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Jamais
+1432,1432,Bonne,Moyen,0,1,Aucun,0,Très bonne,1,0,Jamais
+1433,1433,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+1434,1434,Bonne,Élevé,0,0,Aucun,1,Neutre,0,0,Rarement
+1435,1435,Mauvaise,Très faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+1436,1436,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+1437,1437,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1438,1438,Bonne,Faible,1,0,Aucun,1,Très bonne,1,1,Parfois
+1439,1439,Neutre,Très faible,0,0,Cyberharcèlement,1,Très bonne,1,0,Parfois
+1440,1440,Neutre,Très faible,0,0,Aucun,1,Neutre,1,0,Souvent
+1441,1441,Très bonne,Très élevé,0,0,Aucun,1,Très mauvaise,1,1,Jamais
+1442,1442,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Souvent
+1443,1443,Bonne,Moyen,0,0,Aucun,0,Mauvaise,1,1,Rarement
+1444,1444,Mauvaise,Très élevé,1,0,Aucun,1,Bonne,0,0,Rarement
+1445,1445,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Jamais
+1446,1446,Mauvaise,Très élevé,0,0,Aucun,0,Très bonne,1,1,Parfois
+1447,1447,Bonne,Moyen,1,0,Aucun,0,Mauvaise,1,1,Parfois
+1448,1448,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+1449,1449,Bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+1450,1450,Bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+1451,1451,Très bonne,Élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+1452,1452,Bonne,Très faible,0,1,Aucun,0,Bonne,1,0,Jamais
+1453,1453,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+1454,1454,Neutre,Faible,0,0,Cyberharcèlement,0,Bonne,0,0,Rarement
+1455,1455,Mauvaise,Moyen,0,0,Aucun,1,Neutre,1,1,Parfois
+1456,1456,Neutre,Moyen,0,1,Aucun,0,Mauvaise,0,1,Rarement
+1457,1457,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+1458,1458,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Rarement
+1459,1459,Neutre,Élevé,0,0,Cyberharcèlement,0,Bonne,1,0,Jamais
+1460,1460,Mauvaise,Élevé,0,0,Cyberharcèlement,0,Bonne,0,1,Rarement
+1461,1461,Bonne,Moyen,1,0,Aucun,0,Bonne,0,1,Parfois
+1462,1462,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1463,1463,Très bonne,Moyen,0,0,Aucun,1,Très bonne,1,1,Souvent
+1464,1464,Neutre,Élevé,0,0,Aucun,1,Neutre,0,0,Souvent
+1465,1465,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Rarement
+1466,1466,Neutre,Moyen,0,0,Aucun,0,Mauvaise,0,0,Parfois
+1467,1467,Bonne,Très faible,0,0,Aucun,1,Neutre,1,0,Parfois
+1468,1468,Bonne,Très faible,0,0,Aucun,1,Bonne,0,0,Rarement
+1469,1469,Bonne,Très élevé,0,0,Aucun,0,Mauvaise,1,0,Jamais
+1470,1470,Bonne,Moyen,0,0,Aucun,1,Neutre,0,0,Rarement
+1471,1471,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+1472,1472,Bonne,Très élevé,1,0,Aucun,1,Bonne,1,0,Parfois
+1473,1473,Très bonne,Très élevé,0,1,Aucun,1,Bonne,1,0,Parfois
+1474,1474,Neutre,Faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+1475,1475,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+1476,1476,Mauvaise,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+1477,1477,Très bonne,Très faible,0,0,Aucun,1,Mauvaise,0,1,Parfois
+1478,1478,Très bonne,Faible,0,0,Aucun,0,Très mauvaise,1,1,Rarement
+1479,1479,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+1480,1480,Bonne,Faible,0,0,Aucun,0,Neutre,1,1,Jamais
+1481,1481,Mauvaise,Faible,0,0,Cyberharcèlement,1,Bonne,0,0,Parfois
+1482,1482,Neutre,Très élevé,0,0,Aucun,1,Très bonne,1,0,Jamais
+1483,1483,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,1,Parfois
+1484,1484,Neutre,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+1485,1485,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+1486,1486,Mauvaise,Faible,0,1,Aucun,0,Mauvaise,0,1,Souvent
+1487,1487,Très bonne,Très élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+1488,1488,Neutre,Élevé,0,0,Aucun,0,Mauvaise,0,0,Parfois
+1489,1489,Mauvaise,Élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+1490,1490,Neutre,Faible,0,0,Aucun,0,Neutre,0,1,Parfois
+1491,1491,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,1,Jamais
+1492,1492,Neutre,Élevé,0,0,Aucun,0,Mauvaise,0,0,Souvent
+1493,1493,Bonne,Faible,0,0,Aucun,0,Neutre,1,1,Rarement
+1494,1494,Très bonne,Moyen,0,1,Aucun,0,Bonne,1,0,Souvent
+1495,1495,Neutre,Très élevé,0,0,Aucun,0,Très bonne,1,1,Jamais
+1496,1496,Neutre,Moyen,0,0,Aucun,0,Neutre,0,0,Parfois
+1497,1497,Bonne,Élevé,0,0,Aucun,1,Neutre,0,1,Parfois
+1498,1498,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+1499,1499,Neutre,Élevé,0,1,Aucun,0,Neutre,1,0,Souvent
+1500,1500,Mauvaise,Moyen,0,0,Aucun,0,Très mauvaise,0,0,Jamais
+1501,1501,Très mauvaise,Faible,0,1,Aucun,1,Très bonne,0,0,Rarement
+1502,1502,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1503,1503,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,1,Rarement
+1504,1504,Neutre,Très élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+1505,1505,Mauvaise,Moyen,1,0,Aucun,1,Bonne,1,1,Parfois
+1506,1506,Très bonne,Très faible,0,0,Aucun,0,Très bonne,0,1,Souvent
+1507,1507,Très bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Parfois
+1508,1508,Mauvaise,Très élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+1509,1509,Très bonne,Très élevé,1,0,Aucun,1,Mauvaise,0,0,Rarement
+1510,1510,Bonne,Faible,0,1,Aucun,1,Neutre,1,0,Rarement
+1511,1511,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Rarement
+1512,1512,Neutre,Moyen,0,1,Aucun,1,Bonne,0,1,Parfois
+1513,1513,Bonne,Très élevé,0,1,Aucun,0,Bonne,1,0,Jamais
+1514,1514,Neutre,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+1515,1515,Neutre,Moyen,1,0,Aucun,0,Très bonne,1,0,Souvent
+1516,1516,Neutre,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+1517,1517,Mauvaise,Moyen,1,0,Aucun,0,Bonne,1,0,Souvent
+1518,1518,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1519,1519,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,0,1,Jamais
+1520,1520,Bonne,Élevé,1,0,Aucun,0,Bonne,0,0,Rarement
+1521,1521,Très bonne,Moyen,0,1,Aucun,1,Très bonne,1,1,Rarement
+1522,1522,Neutre,Élevé,0,0,Aucun,1,Neutre,1,1,Rarement
+1523,1523,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+1524,1524,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,0,Rarement
+1525,1525,Mauvaise,Élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+1526,1526,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+1527,1527,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+1528,1528,Mauvaise,Très faible,0,0,Moral,0,Neutre,1,0,Rarement
+1529,1529,Bonne,Faible,0,0,Aucun,0,Très bonne,1,1,Rarement
+1530,1530,Très bonne,Faible,0,0,Aucun,0,Très bonne,1,0,Parfois
+1531,1531,Neutre,Élevé,0,0,Moral,1,Très bonne,1,1,Rarement
+1532,1532,Bonne,Moyen,1,0,Aucun,1,Très mauvaise,0,0,Jamais
+1533,1533,Bonne,Élevé,0,0,Aucun,0,Mauvaise,0,0,Souvent
+1534,1534,Très bonne,Élevé,0,0,Aucun,1,Mauvaise,1,1,Souvent
+1535,1535,Bonne,Moyen,0,0,Aucun,0,Neutre,1,1,Parfois
+1536,1536,Neutre,Très faible,0,0,Aucun,0,Neutre,1,1,Parfois
+1537,1537,Bonne,Faible,0,0,Aucun,0,Bonne,0,0,Rarement
+1538,1538,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+1539,1539,Mauvaise,Élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+1540,1540,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+1541,1541,Neutre,Très élevé,1,0,Aucun,0,Bonne,1,0,Parfois
+1542,1542,Mauvaise,Très élevé,0,0,Aucun,1,Bonne,0,1,Rarement
+1543,1543,Très mauvaise,Moyen,0,0,Aucun,0,Neutre,1,0,Rarement
+1544,1544,Mauvaise,Faible,0,1,Aucun,1,Très bonne,1,0,Jamais
+1545,1545,Très bonne,Moyen,0,1,Aucun,1,Neutre,0,0,Rarement
+1546,1546,Neutre,Très faible,0,0,Aucun,0,Neutre,0,0,Souvent
+1547,1547,Très bonne,Très élevé,0,0,Aucun,1,Mauvaise,1,1,Souvent
+1548,1548,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1549,1549,Bonne,Très faible,1,0,Aucun,0,Bonne,0,0,Parfois
+1550,1550,Très bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Jamais
+1551,1551,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+1552,1552,Bonne,Élevé,1,0,Aucun,1,Très bonne,1,0,Rarement
+1553,1553,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Rarement
+1554,1554,Très bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+1555,1555,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1556,1556,Bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Rarement
+1557,1557,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,0,Jamais
+1558,1558,Mauvaise,Faible,1,0,Aucun,0,Très bonne,0,1,Parfois
+1559,1559,Bonne,Très élevé,1,0,Aucun,0,Bonne,0,0,Souvent
+1560,1560,Très bonne,Moyen,1,0,Aucun,0,Neutre,0,1,Parfois
+1561,1561,Neutre,Très élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+1562,1562,Neutre,Faible,0,0,Aucun,0,Neutre,1,1,Parfois
+1563,1563,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1564,1564,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1565,1565,Bonne,Faible,0,0,Aucun,0,Bonne,0,1,Parfois
+1566,1566,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,1,1,Rarement
+1567,1567,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,1,Souvent
+1568,1568,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Parfois
+1569,1569,Très bonne,Très élevé,0,0,Aucun,0,Bonne,0,0,Souvent
+1570,1570,Bonne,Élevé,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1571,1571,Neutre,Élevé,0,0,Aucun,1,Très bonne,0,0,Rarement
+1572,1572,Bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1573,1573,Neutre,Élevé,1,0,Aucun,0,Très bonne,1,0,Parfois
+1574,1574,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+1575,1575,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,1,Parfois
+1576,1576,Bonne,Très élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+1577,1577,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+1578,1578,Neutre,Faible,0,0,Aucun,1,Bonne,1,1,Jamais
+1579,1579,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+1580,1580,Neutre,Faible,0,0,Aucun,1,Très bonne,1,1,Souvent
+1581,1581,Neutre,Élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+1582,1582,Très bonne,Élevé,1,0,Aucun,0,Mauvaise,0,0,Jamais
+1583,1583,Neutre,Moyen,1,0,Aucun,0,Bonne,1,0,Rarement
+1584,1584,Neutre,Faible,0,0,Aucun,1,Neutre,0,0,Rarement
+1585,1585,Mauvaise,Très faible,0,0,Aucun,1,Bonne,1,1,Souvent
+1586,1586,Mauvaise,Élevé,0,0,Aucun,0,Bonne,1,0,Souvent
+1587,1587,Neutre,Élevé,0,0,Aucun,0,Très mauvaise,0,1,Souvent
+1588,1588,Mauvaise,Moyen,0,0,Aucun,0,Très mauvaise,1,0,Souvent
+1589,1589,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Parfois
+1590,1590,Très mauvaise,Moyen,1,0,Aucun,0,Très bonne,0,0,Jamais
+1591,1591,Mauvaise,Moyen,0,0,Aucun,1,Neutre,1,0,Parfois
+1592,1592,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1593,1593,Neutre,Moyen,0,0,Aucun,0,Bonne,0,1,Souvent
+1594,1594,Neutre,Très élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1595,1595,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+1596,1596,Bonne,Moyen,1,0,Aucun,1,Très bonne,1,1,Souvent
+1597,1597,Mauvaise,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+1598,1598,Très bonne,Moyen,0,0,Aucun,1,Bonne,0,1,Jamais
+1599,1599,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1600,1600,Très mauvaise,Très faible,0,1,Aucun,0,Neutre,1,0,Parfois
+1601,1601,Neutre,Élevé,1,0,Aucun,0,Très bonne,0,1,Jamais
+1602,1602,Mauvaise,Faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1603,1603,Bonne,Très élevé,0,0,Moral,0,Bonne,1,0,Souvent
+1604,1604,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Rarement
+1605,1605,Bonne,Moyen,0,0,Aucun,0,Neutre,1,1,Parfois
+1606,1606,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Souvent
+1607,1607,Bonne,Moyen,0,0,Aucun,1,Neutre,0,1,Rarement
+1608,1608,Bonne,Faible,0,0,Aucun,1,Bonne,1,0,Souvent
+1609,1609,Neutre,Moyen,0,0,Aucun,0,Neutre,1,1,Parfois
+1610,1610,Très bonne,Très faible,0,0,Aucun,0,Très bonne,0,0,Jamais
+1611,1611,Bonne,Moyen,1,1,Aucun,0,Neutre,1,1,Rarement
+1612,1612,Très bonne,Très faible,0,0,Aucun,1,Bonne,1,0,Souvent
+1613,1613,Très bonne,Faible,0,0,Aucun,1,Très bonne,1,0,Rarement
+1614,1614,Neutre,Élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+1615,1615,Neutre,Très élevé,0,0,Aucun,1,Neutre,1,0,Souvent
+1616,1616,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1617,1617,Mauvaise,Élevé,0,0,Aucun,0,Neutre,1,0,Souvent
+1618,1618,Neutre,Très élevé,0,0,Verbal,0,Mauvaise,0,0,Rarement
+1619,1619,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1620,1620,Bonne,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+1621,1621,Très bonne,Très faible,0,0,Aucun,1,Bonne,1,1,Souvent
+1622,1622,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+1623,1623,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,1,Jamais
+1624,1624,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+1625,1625,Bonne,Faible,0,0,Aucun,0,Très bonne,1,1,Rarement
+1626,1626,Neutre,Moyen,0,0,Verbal,0,Bonne,1,1,Souvent
+1627,1627,Bonne,Faible,0,0,Aucun,0,Bonne,0,1,Jamais
+1628,1628,Neutre,Faible,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+1629,1629,Bonne,Très faible,0,0,Aucun,0,Bonne,1,0,Souvent
+1630,1630,Neutre,Faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+1631,1631,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+1632,1632,Mauvaise,Très faible,0,0,Aucun,0,Neutre,1,0,Souvent
+1633,1633,Neutre,Faible,0,0,Cyberharcèlement,0,Bonne,0,0,Jamais
+1634,1634,Neutre,Moyen,0,0,Aucun,0,Neutre,0,1,Parfois
+1635,1635,Neutre,Faible,0,0,Aucun,1,Très bonne,1,0,Souvent
+1636,1636,Bonne,Élevé,0,0,Aucun,1,Neutre,0,0,Jamais
+1637,1637,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+1638,1638,Très bonne,Faible,0,0,Aucun,1,Neutre,0,0,Parfois
+1639,1639,Mauvaise,Moyen,0,0,Aucun,0,Mauvaise,1,0,Jamais
+1640,1640,Très bonne,Moyen,0,0,Aucun,1,Bonne,0,0,Parfois
+1641,1641,Très bonne,Moyen,0,0,Moral,1,Neutre,1,0,Souvent
+1642,1642,Neutre,Très élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+1643,1643,Neutre,Très élevé,0,1,Aucun,0,Bonne,0,0,Souvent
+1644,1644,Très bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Parfois
+1645,1645,Bonne,Moyen,0,0,Aucun,0,Mauvaise,0,0,Rarement
+1646,1646,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1647,1647,Mauvaise,Moyen,0,0,Aucun,0,Bonne,0,0,Souvent
+1648,1648,Mauvaise,Faible,0,1,Aucun,0,Bonne,1,0,Parfois
+1649,1649,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,1,Rarement
+1650,1650,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+1651,1651,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+1652,1652,Très bonne,Moyen,1,0,Aucun,0,Mauvaise,1,0,Jamais
+1653,1653,Bonne,Faible,0,0,Aucun,0,Bonne,1,1,Rarement
+1654,1654,Bonne,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+1655,1655,Neutre,Élevé,1,0,Aucun,0,Très bonne,1,0,Rarement
+1656,1656,Neutre,Moyen,0,0,Aucun,0,Neutre,1,1,Jamais
+1657,1657,Mauvaise,Moyen,0,0,Aucun,0,Bonne,1,1,Parfois
+1658,1658,Très bonne,Faible,0,0,Verbal,0,Neutre,1,1,Parfois
+1659,1659,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+1660,1660,Bonne,Très élevé,1,0,Aucun,1,Mauvaise,1,1,Jamais
+1661,1661,Neutre,Faible,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1662,1662,Très mauvaise,Très faible,0,0,Aucun,1,Bonne,0,1,Parfois
+1663,1663,Neutre,Élevé,0,0,Moral,0,Très bonne,1,0,Rarement
+1664,1664,Bonne,Moyen,1,1,Moral,0,Très mauvaise,0,0,Parfois
+1665,1665,Très bonne,Très faible,0,0,Aucun,0,Bonne,1,1,Parfois
+1666,1666,Très bonne,Élevé,1,0,Aucun,0,Bonne,0,1,Jamais
+1667,1667,Bonne,Faible,0,0,Aucun,1,Très bonne,1,0,Rarement
+1668,1668,Très bonne,Très faible,0,0,Aucun,0,Neutre,0,0,Jamais
+1669,1669,Mauvaise,Élevé,1,0,Aucun,0,Neutre,1,1,Rarement
+1670,1670,Très bonne,Très faible,0,0,Cyberharcèlement,1,Neutre,0,0,Parfois
+1671,1671,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Parfois
+1672,1672,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+1673,1673,Bonne,Élevé,0,0,Aucun,1,Bonne,0,1,Rarement
+1674,1674,Bonne,Moyen,0,0,Aucun,1,Bonne,0,0,Rarement
+1675,1675,Très mauvaise,Moyen,0,0,Cyberharcèlement,0,Bonne,1,0,Parfois
+1676,1676,Bonne,Très élevé,1,0,Aucun,1,Neutre,1,0,Souvent
+1677,1677,Neutre,Très faible,0,0,Verbal,1,Neutre,1,0,Parfois
+1678,1678,Bonne,Faible,1,0,Aucun,0,Très bonne,0,1,Souvent
+1679,1679,Neutre,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+1680,1680,Neutre,Faible,0,0,Aucun,1,Mauvaise,1,1,Parfois
+1681,1681,Bonne,Moyen,0,0,Aucun,1,Bonne,0,0,Souvent
+1682,1682,Bonne,Très faible,0,0,Aucun,0,Neutre,0,1,Rarement
+1683,1683,Neutre,Très faible,0,0,Aucun,0,Neutre,1,1,Rarement
+1684,1684,Très bonne,Faible,0,0,Aucun,0,Bonne,1,1,Rarement
+1685,1685,Neutre,Très faible,0,0,Verbal,0,Neutre,0,0,Parfois
+1686,1686,Très bonne,Très élevé,0,0,Aucun,1,Bonne,0,1,Rarement
+1687,1687,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,1,Jamais
+1688,1688,Bonne,Très élevé,0,0,Moral,0,Neutre,1,0,Jamais
+1689,1689,Bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Parfois
+1690,1690,Bonne,Élevé,1,0,Aucun,1,Bonne,0,0,Rarement
+1691,1691,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+1692,1692,Bonne,Élevé,0,0,Aucun,1,Bonne,1,1,Parfois
+1693,1693,Neutre,Élevé,0,0,Aucun,0,Mauvaise,0,1,Rarement
+1694,1694,Neutre,Très faible,0,0,Aucun,0,Bonne,0,0,Souvent
+1695,1695,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Parfois
+1696,1696,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Jamais
+1697,1697,Très mauvaise,Faible,1,0,Aucun,0,Très bonne,0,0,Rarement
+1698,1698,Très bonne,Faible,1,0,Aucun,0,Neutre,0,0,Souvent
+1699,1699,Bonne,Très élevé,0,0,Aucun,1,Très bonne,1,1,Souvent
+1700,1700,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1701,1701,Neutre,Moyen,0,0,Aucun,1,Très mauvaise,0,0,Parfois
+1702,1702,Neutre,Faible,0,0,Aucun,1,Mauvaise,0,0,Parfois
+1703,1703,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Jamais
+1704,1704,Mauvaise,Très faible,0,0,Aucun,0,Mauvaise,0,0,Rarement
+1705,1705,Très bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Rarement
+1706,1706,Mauvaise,Moyen,0,0,Aucun,0,Très mauvaise,0,0,Jamais
+1707,1707,Bonne,Très élevé,1,0,Aucun,0,Neutre,0,1,Jamais
+1708,1708,Neutre,Élevé,1,0,Aucun,1,Bonne,0,1,Souvent
+1709,1709,Neutre,Très faible,0,1,Aucun,0,Mauvaise,1,1,Jamais
+1710,1710,Très bonne,Très faible,0,0,Aucun,1,Très bonne,1,0,Souvent
+1711,1711,Très bonne,Élevé,0,0,Aucun,1,Très bonne,0,0,Parfois
+1712,1712,Bonne,Très faible,1,0,Aucun,1,Mauvaise,1,1,Souvent
+1713,1713,Bonne,Très faible,0,0,Aucun,0,Mauvaise,1,1,Jamais
+1714,1714,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Rarement
+1715,1715,Mauvaise,Élevé,0,0,Aucun,0,Très bonne,0,1,Rarement
+1716,1716,Bonne,Élevé,0,1,Aucun,0,Bonne,1,1,Rarement
+1717,1717,Neutre,Faible,1,0,Aucun,0,Neutre,1,0,Jamais
+1718,1718,Bonne,Moyen,0,0,Aucun,1,Mauvaise,0,0,Jamais
+1719,1719,Très bonne,Très faible,0,0,Aucun,0,Neutre,0,0,Jamais
+1720,1720,Neutre,Faible,0,0,Aucun,0,Très mauvaise,0,0,Rarement
+1721,1721,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,1,Souvent
+1722,1722,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1723,1723,Neutre,Élevé,0,0,Aucun,0,Neutre,0,1,Souvent
+1724,1724,Très bonne,Très élevé,1,0,Aucun,0,Bonne,0,1,Rarement
+1725,1725,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1726,1726,Bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+1727,1727,Bonne,Très faible,0,0,Aucun,1,Bonne,0,0,Parfois
+1728,1728,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+1729,1729,Bonne,Très faible,0,0,Aucun,0,Neutre,1,1,Rarement
+1730,1730,Très bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Jamais
+1731,1731,Bonne,Faible,0,0,Aucun,1,Neutre,0,0,Rarement
+1732,1732,Très bonne,Faible,0,1,Cyberharcèlement,1,Neutre,0,1,Parfois
+1733,1733,Très bonne,Moyen,0,0,Aucun,0,Très bonne,0,1,Parfois
+1734,1734,Bonne,Très faible,0,0,Aucun,1,Neutre,0,1,Rarement
+1735,1735,Neutre,Très élevé,0,0,Aucun,0,Bonne,0,0,Rarement
+1736,1736,Neutre,Très faible,0,1,Aucun,0,Mauvaise,1,1,Parfois
+1737,1737,Neutre,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1738,1738,Mauvaise,Moyen,0,1,Aucun,0,Mauvaise,1,0,Jamais
+1739,1739,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,0,Souvent
+1740,1740,Bonne,Très élevé,0,0,Aucun,1,Bonne,1,1,Souvent
+1741,1741,Neutre,Très faible,0,0,Aucun,0,Très mauvaise,0,0,Jamais
+1742,1742,Neutre,Élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+1743,1743,Bonne,Faible,1,0,Aucun,0,Bonne,1,0,Jamais
+1744,1744,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Parfois
+1745,1745,Très mauvaise,Élevé,0,1,Aucun,0,Très bonne,0,0,Parfois
+1746,1746,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1747,1747,Bonne,Moyen,0,0,Aucun,1,Bonne,0,0,Parfois
+1748,1748,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,0,Jamais
+1749,1749,Bonne,Faible,1,0,Aucun,1,Bonne,0,0,Jamais
+1750,1750,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Rarement
+1751,1751,Bonne,Élevé,0,1,Aucun,0,Très mauvaise,0,0,Parfois
+1752,1752,Bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Jamais
+1753,1753,Bonne,Très faible,1,0,Aucun,0,Neutre,0,0,Parfois
+1754,1754,Bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Parfois
+1755,1755,Mauvaise,Élevé,0,0,Aucun,0,Mauvaise,0,1,Parfois
+1756,1756,Bonne,Très élevé,0,0,Aucun,0,Très bonne,0,0,Souvent
+1757,1757,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+1758,1758,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,0,Rarement
+1759,1759,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+1760,1760,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Jamais
+1761,1761,Bonne,Moyen,0,0,Aucun,0,Neutre,1,1,Souvent
+1762,1762,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1763,1763,Neutre,Moyen,0,0,Aucun,1,Très bonne,0,0,Souvent
+1764,1764,Très bonne,Très élevé,1,0,Aucun,1,Très bonne,1,0,Jamais
+1765,1765,Bonne,Faible,0,0,Aucun,0,Très bonne,0,1,Parfois
+1766,1766,Très bonne,Très élevé,0,0,Aucun,1,Neutre,1,0,Souvent
+1767,1767,Mauvaise,Élevé,0,0,Aucun,0,Neutre,1,0,Rarement
+1768,1768,Neutre,Faible,0,0,Aucun,0,Très mauvaise,1,0,Souvent
+1769,1769,Bonne,Faible,0,0,Moral,1,Neutre,1,0,Souvent
+1770,1770,Neutre,Élevé,0,0,Verbal,0,Mauvaise,0,1,Jamais
+1771,1771,Bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+1772,1772,Bonne,Moyen,0,0,Aucun,0,Très bonne,1,1,Rarement
+1773,1773,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+1774,1774,Neutre,Élevé,0,0,Verbal,0,Bonne,1,1,Parfois
+1775,1775,Très bonne,Très élevé,0,1,Aucun,0,Mauvaise,0,1,Souvent
+1776,1776,Bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+1777,1777,Très bonne,Élevé,0,0,Aucun,1,Bonne,0,0,Jamais
+1778,1778,Bonne,Moyen,0,0,Aucun,0,Bonne,1,1,Rarement
+1779,1779,Bonne,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+1780,1780,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Souvent
+1781,1781,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1782,1782,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Rarement
+1783,1783,Bonne,Très élevé,0,0,Aucun,1,Neutre,1,1,Parfois
+1784,1784,Mauvaise,Faible,0,0,Cyberharcèlement,0,Neutre,1,1,Souvent
+1785,1785,Neutre,Très élevé,1,1,Aucun,0,Très mauvaise,1,1,Rarement
+1786,1786,Très bonne,Très faible,0,0,Aucun,0,Neutre,0,1,Parfois
+1787,1787,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,0,1,Jamais
+1788,1788,Bonne,Faible,0,0,Aucun,0,Très bonne,1,0,Jamais
+1789,1789,Très bonne,Très élevé,0,0,Aucun,0,Bonne,1,1,Parfois
+1790,1790,Très mauvaise,Faible,0,0,Aucun,1,Neutre,1,0,Rarement
+1791,1791,Bonne,Moyen,0,0,Aucun,0,Neutre,0,1,Souvent
+1792,1792,Neutre,Très faible,0,0,Aucun,0,Très bonne,0,0,Rarement
+1793,1793,Bonne,Faible,0,0,Aucun,1,Neutre,0,1,Souvent
+1794,1794,Bonne,Très faible,0,0,Aucun,0,Très bonne,1,0,Jamais
+1795,1795,Très bonne,Élevé,1,0,Aucun,1,Neutre,1,1,Jamais
+1796,1796,Bonne,Élevé,0,1,Aucun,0,Bonne,1,1,Rarement
+1797,1797,Mauvaise,Très élevé,1,0,Aucun,0,Bonne,0,1,Rarement
+1798,1798,Neutre,Très faible,0,0,Aucun,0,Bonne,1,1,Rarement
+1799,1799,Neutre,Moyen,0,0,Verbal,1,Bonne,0,0,Rarement
+1800,1800,Neutre,Faible,0,0,Aucun,0,Très bonne,1,1,Rarement
+1801,1801,Bonne,Élevé,1,0,Aucun,0,Bonne,0,0,Rarement
+1802,1802,Bonne,Très élevé,1,0,Aucun,0,Très mauvaise,0,1,Parfois
+1803,1803,Très bonne,Faible,0,0,Aucun,0,Bonne,0,0,Souvent
+1804,1804,Très mauvaise,Élevé,1,0,Aucun,0,Mauvaise,0,1,Rarement
+1805,1805,Très bonne,Faible,0,0,Aucun,0,Très bonne,0,0,Rarement
+1806,1806,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Jamais
+1807,1807,Très bonne,Très élevé,1,0,Moral,0,Mauvaise,0,1,Souvent
+1808,1808,Très bonne,Élevé,0,0,Aucun,1,Bonne,1,1,Parfois
+1809,1809,Bonne,Très élevé,0,0,Aucun,1,Neutre,1,1,Souvent
+1810,1810,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,1,Rarement
+1811,1811,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Jamais
+1812,1812,Neutre,Élevé,0,0,Aucun,0,Très bonne,0,0,Rarement
+1813,1813,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1814,1814,Mauvaise,Très élevé,0,0,Aucun,0,Neutre,0,1,Jamais
+1815,1815,Très bonne,Faible,1,0,Aucun,0,Mauvaise,1,1,Parfois
+1816,1816,Très bonne,Élevé,0,1,Verbal,1,Neutre,1,0,Parfois
+1817,1817,Bonne,Élevé,1,0,Aucun,0,Très bonne,1,0,Parfois
+1818,1818,Neutre,Moyen,0,0,Aucun,0,Très mauvaise,1,1,Jamais
+1819,1819,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,1,Souvent
+1820,1820,Mauvaise,Faible,0,0,Aucun,1,Très bonne,1,0,Parfois
+1821,1821,Neutre,Moyen,0,0,Aucun,0,Bonne,1,0,Rarement
+1822,1822,Très bonne,Très élevé,1,0,Aucun,0,Bonne,1,0,Rarement
+1823,1823,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Jamais
+1824,1824,Bonne,Élevé,1,0,Aucun,0,Bonne,0,0,Souvent
+1825,1825,Très bonne,Très faible,0,0,Aucun,1,Très bonne,1,0,Jamais
+1826,1826,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,1,Souvent
+1827,1827,Très bonne,Moyen,0,0,Aucun,1,Neutre,0,1,Souvent
+1828,1828,Très mauvaise,Moyen,1,0,Aucun,0,Bonne,1,0,Parfois
+1829,1829,Mauvaise,Faible,0,0,Aucun,0,Bonne,1,1,Parfois
+1830,1830,Mauvaise,Élevé,0,0,Moral,0,Bonne,0,1,Souvent
+1831,1831,Bonne,Faible,0,0,Aucun,0,Très mauvaise,0,1,Rarement
+1832,1832,Neutre,Très élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1833,1833,Très bonne,Très élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+1834,1834,Très mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1835,1835,Très bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1836,1836,Bonne,Très élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+1837,1837,Mauvaise,Faible,1,0,Aucun,0,Bonne,0,0,Rarement
+1838,1838,Mauvaise,Moyen,0,0,Cyberharcèlement,1,Très bonne,0,0,Rarement
+1839,1839,Neutre,Faible,0,0,Aucun,1,Bonne,0,0,Souvent
+1840,1840,Bonne,Très faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1841,1841,Neutre,Moyen,0,0,Aucun,1,Très bonne,1,0,Jamais
+1842,1842,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+1843,1843,Bonne,Faible,0,0,Aucun,1,Neutre,0,0,Souvent
+1844,1844,Très bonne,Élevé,0,0,Aucun,1,Neutre,1,0,Parfois
+1845,1845,Bonne,Très élevé,0,0,Aucun,1,Très bonne,0,0,Jamais
+1846,1846,Très bonne,Faible,0,0,Aucun,0,Neutre,1,1,Rarement
+1847,1847,Bonne,Moyen,1,0,Aucun,1,Bonne,1,1,Souvent
+1848,1848,Mauvaise,Faible,0,0,Aucun,1,Bonne,0,1,Rarement
+1849,1849,Mauvaise,Moyen,0,0,Aucun,1,Bonne,1,0,Jamais
+1850,1850,Neutre,Très élevé,1,0,Aucun,0,Très bonne,0,1,Rarement
+1851,1851,Bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1852,1852,Mauvaise,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+1853,1853,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Souvent
+1854,1854,Neutre,Moyen,0,1,Aucun,0,Bonne,1,1,Rarement
+1855,1855,Neutre,Moyen,1,0,Verbal,1,Neutre,1,0,Jamais
+1856,1856,Mauvaise,Élevé,0,0,Aucun,1,Très bonne,1,1,Souvent
+1857,1857,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Jamais
+1858,1858,Très bonne,Élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+1859,1859,Bonne,Élevé,0,0,Aucun,0,Neutre,0,0,Rarement
+1860,1860,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Jamais
+1861,1861,Neutre,Élevé,0,0,Aucun,0,Très mauvaise,1,0,Rarement
+1862,1862,Bonne,Faible,0,0,Aucun,0,Bonne,1,1,Jamais
+1863,1863,Très bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+1864,1864,Bonne,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+1865,1865,Très mauvaise,Très faible,0,0,Moral,1,Bonne,0,1,Parfois
+1866,1866,Bonne,Élevé,0,0,Aucun,1,Très bonne,0,0,Rarement
+1867,1867,Bonne,Faible,0,0,Aucun,1,Très bonne,1,0,Parfois
+1868,1868,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Souvent
+1869,1869,Bonne,Très élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+1870,1870,Mauvaise,Élevé,0,0,Aucun,1,Bonne,1,1,Souvent
+1871,1871,Très bonne,Élevé,0,0,Aucun,0,Neutre,0,1,Parfois
+1872,1872,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,0,Jamais
+1873,1873,Neutre,Élevé,1,0,Aucun,1,Neutre,0,0,Rarement
+1874,1874,Très bonne,Moyen,0,0,Aucun,1,Bonne,0,1,Souvent
+1875,1875,Mauvaise,Moyen,1,0,Aucun,0,Neutre,1,0,Rarement
+1876,1876,Bonne,Moyen,0,0,Aucun,1,Très bonne,0,0,Rarement
+1877,1877,Bonne,Faible,0,0,Aucun,1,Très bonne,0,0,Parfois
+1878,1878,Très bonne,Faible,0,0,Aucun,0,Bonne,1,0,Rarement
+1879,1879,Bonne,Faible,0,0,Aucun,0,Neutre,1,0,Rarement
+1880,1880,Bonne,Élevé,0,0,Aucun,0,Neutre,1,1,Jamais
+1881,1881,Mauvaise,Élevé,0,0,Aucun,0,Très bonne,0,1,Jamais
+1882,1882,Neutre,Moyen,0,1,Aucun,1,Très mauvaise,1,1,Rarement
+1883,1883,Bonne,Très élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1884,1884,Neutre,Très faible,0,0,Aucun,0,Bonne,1,1,Parfois
+1885,1885,Très bonne,Faible,0,0,Aucun,0,Neutre,1,0,Jamais
+1886,1886,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Rarement
+1887,1887,Neutre,Élevé,0,1,Aucun,0,Neutre,0,0,Parfois
+1888,1888,Très bonne,Très faible,0,0,Aucun,1,Mauvaise,0,0,Rarement
+1889,1889,Mauvaise,Très élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1890,1890,Très bonne,Très élevé,0,0,Aucun,0,Neutre,1,1,Souvent
+1891,1891,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Jamais
+1892,1892,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+1893,1893,Bonne,Très élevé,0,0,Aucun,0,Bonne,0,1,Souvent
+1894,1894,Bonne,Faible,0,0,Aucun,0,Neutre,1,0,Jamais
+1895,1895,Neutre,Faible,0,0,Aucun,0,Mauvaise,1,0,Souvent
+1896,1896,Très mauvaise,Moyen,0,0,Aucun,0,Mauvaise,1,1,Rarement
+1897,1897,Mauvaise,Très faible,0,0,Aucun,0,Neutre,1,1,Jamais
+1898,1898,Bonne,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1899,1899,Bonne,Très élevé,0,0,Aucun,1,Bonne,0,0,Rarement
+1900,1900,Très bonne,Élevé,0,0,Aucun,0,Neutre,1,0,Jamais
+1901,1901,Bonne,Moyen,0,0,Aucun,1,Mauvaise,1,1,Souvent
+1902,1902,Mauvaise,Élevé,0,0,Aucun,1,Mauvaise,0,0,Parfois
+1903,1903,Neutre,Élevé,0,0,Aucun,0,Mauvaise,1,1,Parfois
+1904,1904,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Parfois
+1905,1905,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+1906,1906,Très mauvaise,Faible,0,0,Cyberharcèlement,0,Neutre,1,1,Jamais
+1907,1907,Très bonne,Faible,0,0,Aucun,0,Neutre,1,0,Parfois
+1908,1908,Très mauvaise,Faible,0,0,Aucun,1,Bonne,0,1,Parfois
+1909,1909,Bonne,Moyen,0,0,Aucun,0,Neutre,0,0,Parfois
+1910,1910,Très bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+1911,1911,Mauvaise,Élevé,0,0,Aucun,1,Mauvaise,0,0,Rarement
+1912,1912,Très bonne,Très élevé,0,0,Aucun,1,Neutre,1,1,Jamais
+1913,1913,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1914,1914,Mauvaise,Moyen,0,0,Aucun,0,Neutre,0,0,Parfois
+1915,1915,Neutre,Faible,1,0,Aucun,0,Très bonne,0,0,Parfois
+1916,1916,Mauvaise,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1917,1917,Bonne,Élevé,0,0,Aucun,0,Bonne,1,1,Jamais
+1918,1918,Mauvaise,Moyen,1,0,Aucun,0,Bonne,1,0,Parfois
+1919,1919,Très bonne,Très élevé,0,0,Aucun,1,Très bonne,1,0,Souvent
+1920,1920,Mauvaise,Élevé,0,0,Aucun,0,Très bonne,0,1,Parfois
+1921,1921,Très bonne,Moyen,1,0,Aucun,0,Très mauvaise,1,1,Rarement
+1922,1922,Bonne,Élevé,0,0,Verbal,0,Bonne,0,0,Parfois
+1923,1923,Neutre,Moyen,0,0,Aucun,1,Neutre,1,0,Rarement
+1924,1924,Mauvaise,Moyen,0,0,Aucun,0,Très mauvaise,0,0,Jamais
+1925,1925,Bonne,Faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+1926,1926,Neutre,Moyen,1,0,Aucun,1,Très bonne,1,1,Parfois
+1927,1927,Très bonne,Élevé,0,0,Aucun,0,Mauvaise,1,1,Jamais
+1928,1928,Très bonne,Faible,0,0,Aucun,0,Bonne,0,0,Parfois
+1929,1929,Neutre,Faible,0,0,Verbal,0,Mauvaise,1,0,Jamais
+1930,1930,Neutre,Élevé,0,0,Aucun,0,Bonne,0,0,Parfois
+1931,1931,Neutre,Moyen,0,0,Aucun,1,Bonne,0,1,Rarement
+1932,1932,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,0,1,Jamais
+1933,1933,Neutre,Très faible,0,0,Aucun,0,Bonne,1,1,Souvent
+1934,1934,Mauvaise,Moyen,0,0,Aucun,0,Neutre,1,0,Souvent
+1935,1935,Bonne,Faible,0,0,Aucun,0,Bonne,1,0,Parfois
+1936,1936,Très bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+1937,1937,Neutre,Élevé,0,0,Aucun,1,Bonne,0,1,Parfois
+1938,1938,Très bonne,Moyen,0,0,Aucun,0,Bonne,1,0,Parfois
+1939,1939,Bonne,Moyen,0,0,Aucun,1,Neutre,0,0,Parfois
+1940,1940,Très mauvaise,Moyen,1,0,Aucun,1,Très bonne,1,0,Parfois
+1941,1941,Bonne,Moyen,0,1,Aucun,1,Neutre,0,0,Jamais
+1942,1942,Très mauvaise,Très faible,1,0,Aucun,0,Très bonne,1,1,Parfois
+1943,1943,Neutre,Moyen,0,0,Aucun,1,Neutre,0,0,Jamais
+1944,1944,Bonne,Faible,0,0,Aucun,0,Neutre,0,0,Souvent
+1945,1945,Neutre,Moyen,0,0,Aucun,1,Neutre,1,1,Rarement
+1946,1946,Mauvaise,Moyen,0,0,Aucun,1,Neutre,0,1,Rarement
+1947,1947,Bonne,Élevé,1,0,Aucun,0,Mauvaise,0,0,Parfois
+1948,1948,Neutre,Moyen,0,0,Aucun,0,Mauvaise,1,0,Parfois
+1949,1949,Mauvaise,Moyen,1,0,Aucun,0,Neutre,0,1,Souvent
+1950,1950,Très mauvaise,Très faible,0,0,Aucun,1,Bonne,0,0,Parfois
+1951,1951,Neutre,Faible,0,0,Aucun,1,Mauvaise,0,0,Parfois
+1952,1952,Très bonne,Élevé,0,0,Aucun,0,Très bonne,1,1,Parfois
+1953,1953,Mauvaise,Très élevé,0,1,Aucun,1,Mauvaise,0,1,Parfois
+1954,1954,Très bonne,Élevé,0,0,Aucun,0,Bonne,0,1,Rarement
+1955,1955,Bonne,Élevé,0,0,Aucun,0,Bonne,1,0,Rarement
+1956,1956,Très bonne,Moyen,1,0,Aucun,1,Très bonne,1,1,Parfois
+1957,1957,Bonne,Faible,0,0,Aucun,0,Neutre,0,1,Parfois
+1958,1958,Neutre,Élevé,0,0,Aucun,0,Très bonne,0,0,Parfois
+1959,1959,Bonne,Moyen,0,0,Aucun,0,Bonne,0,1,Rarement
+1960,1960,Très bonne,Moyen,1,0,Aucun,0,Neutre,1,0,Parfois
+1961,1961,Bonne,Faible,0,0,Aucun,1,Bonne,1,1,Rarement
+1962,1962,Bonne,Moyen,0,0,Aucun,1,Très bonne,1,0,Souvent
+1963,1963,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Jamais
+1964,1964,Neutre,Très élevé,0,0,Aucun,0,Neutre,0,1,Rarement
+1965,1965,Bonne,Élevé,1,0,Aucun,1,Très mauvaise,0,0,Jamais
+1966,1966,Neutre,Faible,0,1,Aucun,0,Très mauvaise,1,0,Rarement
+1967,1967,Neutre,Élevé,0,0,Aucun,1,Bonne,1,0,Souvent
+1968,1968,Très bonne,Élevé,1,0,Aucun,0,Neutre,0,0,Souvent
+1969,1969,Neutre,Très faible,0,0,Aucun,0,Très bonne,1,0,Rarement
+1970,1970,Neutre,Moyen,0,0,Aucun,0,Bonne,0,0,Jamais
+1971,1971,Très mauvaise,Très faible,0,0,Moral,0,Bonne,1,0,Rarement
+1972,1972,Neutre,Faible,0,0,Aucun,0,Très bonne,0,0,Jamais
+1973,1973,Très mauvaise,Faible,0,0,Aucun,0,Bonne,0,1,Jamais
+1974,1974,Bonne,Faible,0,0,Aucun,1,Très bonne,1,0,Souvent
+1975,1975,Neutre,Très faible,0,0,Aucun,0,Bonne,0,1,Parfois
+1976,1976,Bonne,Très élevé,0,0,Aucun,0,Neutre,0,0,Parfois
+1977,1977,Très mauvaise,Moyen,0,0,Aucun,0,Bonne,1,0,Jamais
+1978,1978,Très bonne,Élevé,0,0,Aucun,0,Très mauvaise,1,0,Jamais
+1979,1979,Très bonne,Faible,1,0,Aucun,1,Neutre,1,1,Souvent
+1980,1980,Neutre,Très élevé,0,0,Cyberharcèlement,0,Neutre,1,1,Jamais
+1981,1981,Neutre,Faible,0,0,Aucun,0,Bonne,1,1,Souvent
+1982,1982,Neutre,Élevé,0,0,Aucun,0,Bonne,1,0,Parfois
+1983,1983,Bonne,Faible,1,0,Aucun,0,Très bonne,1,0,Rarement
+1984,1984,Neutre,Faible,0,0,Aucun,0,Bonne,1,1,Souvent
+1985,1985,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Jamais
+1986,1986,Neutre,Faible,0,0,Aucun,1,Très mauvaise,0,0,Jamais
+1987,1987,Bonne,Faible,0,0,Verbal,0,Bonne,1,0,Parfois
+1988,1988,Très bonne,Très élevé,1,0,Aucun,0,Très bonne,0,1,Parfois
+1989,1989,Très bonne,Très faible,0,0,Aucun,0,Bonne,1,0,Jamais
+1990,1990,Neutre,Très élevé,0,0,Aucun,0,Neutre,1,1,Rarement
+1991,1991,Bonne,Très élevé,0,0,Aucun,0,Neutre,1,0,Parfois
+1992,1992,Neutre,Faible,1,1,Aucun,0,Très mauvaise,0,1,Jamais
+1993,1993,Bonne,Moyen,0,0,Aucun,1,Bonne,1,1,Parfois
+1994,1994,Neutre,Élevé,0,0,Aucun,1,Bonne,1,1,Souvent
+1995,1995,Neutre,Élevé,0,0,Aucun,1,Très bonne,1,0,Jamais
+1996,1996,Bonne,Élevé,0,0,Aucun,1,Bonne,1,0,Parfois
+1997,1997,Bonne,Très élevé,0,0,Aucun,0,Très bonne,1,1,Souvent
+1998,1998,Bonne,Moyen,1,0,Aucun,1,Neutre,1,1,Jamais
+1999,1999,Très mauvaise,Moyen,0,0,Aucun,1,Mauvaise,0,0,Jamais
+2000,2000,Mauvaise,Très faible,0,1,Aucun,0,Mauvaise,1,0,Rarement

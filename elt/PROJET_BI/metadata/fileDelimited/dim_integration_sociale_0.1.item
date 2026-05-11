@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_hEsAUCcvEfGbt8aaCk4E_Q" name="dim_integration_sociale" id="_hErZQCcvEfGbt8aaCk4E_Q" dataPackage="_hEsAUScvEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_integration_sociale.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_hEsAUScvEfGbt8aaCk4E_Q" name="default" dataManager="_hEsAUCcvEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_hEsAUicvEfGbt8aaCk4E_Q" id="_Vn-FYCcvEfGbt8aaCk4E_Q" comment="integration_sociale_data" label="integration_sociale_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAUycvEfGbt8aaCk4E_Q" label="id_integration" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAVCcvEfGbt8aaCk4E_Q" label="id_etudiant" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAVScvEfGbt8aaCk4E_Q" label="qualite_relation_camarades" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAVicvEfGbt8aaCk4E_Q" label="niveau_integration_sociale" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAVycvEfGbt8aaCk4E_Q" label="isolement_social" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAWCcvEfGbt8aaCk4E_Q" label="victime_harcelement" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAWScvEfGbt8aaCk4E_Q" label="type_harcelement" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAWicvEfGbt8aaCk4E_Q" label="pair_ayant_decroche_avant" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAWycvEfGbt8aaCk4E_Q" label="qualite_relation_enseignants" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAXCcvEfGbt8aaCk4E_Q" label="beneficie_soutien_camarades" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAXScvEfGbt8aaCk4E_Q" label="beneficie_soutien_enseignants" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_hEsAXicvEfGbt8aaCk4E_Q" label="participation_activites_campus" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

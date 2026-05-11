@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_jQcQwCcwEfGbt8aaCk4E_Q" name="dim_temps" id="_jQbpsCcwEfGbt8aaCk4E_Q" dataPackage="_jQcQwScwEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_temps.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_jQcQwScwEfGbt8aaCk4E_Q" name="default" dataManager="_jQcQwCcwEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_jQcQwicwEfGbt8aaCk4E_Q" id="_Za7kMCcwEfGbt8aaCk4E_Q" comment="temps_data" label="temps_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQwycwEfGbt8aaCk4E_Q" label="id_temps" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQxCcwEfGbt8aaCk4E_Q" label="annee_scolaire" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQxScwEfGbt8aaCk4E_Q" label="annee" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQxicwEfGbt8aaCk4E_Q" label="semestre" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQxycwEfGbt8aaCk4E_Q" label="trimestre" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQyCcwEfGbt8aaCk4E_Q" label="periode" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_jQcQyScwEfGbt8aaCk4E_Q" label="mois_debut" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_cDRqACcxEfGbt8aaCk4E_Q" name="fait_abandons" id="_cDRC8CcxEfGbt8aaCk4E_Q" dataPackage="_cDRqAScxEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/fait_abandons.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_cDRqAScxEfGbt8aaCk4E_Q" name="default" dataManager="_cDRqACcxEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_cDRqAicxEfGbt8aaCk4E_Q" id="_QpsioCcxEfGbt8aaCk4E_Q" comment="fait_abandons_data" label="fait_abandons_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqAycxEfGbt8aaCk4E_Q" label="id_abandon" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqBCcxEfGbt8aaCk4E_Q" label="id_etudiant" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqBScxEfGbt8aaCk4E_Q" label="id_filiere" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqBicxEfGbt8aaCk4E_Q" label="annee_scolaire" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqBycxEfGbt8aaCk4E_Q" label="annee_abandon" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqCCcxEfGbt8aaCk4E_Q" label="motif_abandon" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_cDRqCScxEfGbt8aaCk4E_Q" label="semestre_abandon" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,2001 @@
+﻿id_sante,id_etudiant,frequence_consultation,maladie_chronique,probleme_sante_mentale,nb_hospitalisations_annuelles,handicap_physique,acces_assurance_maladie,impact_sante_sur_etudes
+1,1,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+2,2,Jamais,Paludisme chronique,Aucun,0,0,0,Modéré
+3,3,2-3 fois/an,Aucune,Aucun,1,0,1,Faible
+4,4,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+5,5,Jamais,Aucune,Dépression légère,0,0,0,Faible
+6,6,Jamais,Aucune,Dépression sévère,0,0,0,Élevé
+7,7,>1 fois/mois,Aucune,Aucun,2,0,0,Modéré
+8,8,1 fois/an,Paludisme chronique,Anxiété légère,1,0,0,Élevé
+9,9,1 fois/an,Aucune,Aucun,0,0,0,Faible
+10,10,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+11,11,1 fois/an,Aucune,Dépression légère,0,0,1,Modéré
+12,12,1 fois/mois,Aucune,Aucun,0,0,1,Faible
+13,13,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Faible
+14,14,Jamais,Hypertension,Anxiété légère,1,0,0,Modéré
+15,15,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+16,16,1 fois/an,Diabète,Aucun,0,0,0,Élevé
+17,17,Jamais,Aucune,Dépression légère,0,0,0,Faible
+18,18,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+19,19,1 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+20,20,1 fois/mois,Aucune,Anxiété légère,0,0,0,Modéré
+21,21,Jamais,Drépanocytose,Aucun,0,0,1,Faible
+22,22,Jamais,Autre,Anxiété légère,0,0,0,Élevé
+23,23,Jamais,Aucune,Dépression légère,0,0,0,Faible
+24,24,1 fois/an,Paludisme chronique,Aucun,2,0,1,Modéré
+25,25,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+26,26,>1 fois/mois,Aucune,Aucun,2,0,1,Modéré
+27,27,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+28,28,Jamais,Autre,Aucun,3,0,1,Élevé
+29,29,>1 fois/mois,Aucune,Dépression légère,0,0,0,Faible
+30,30,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+31,31,1 fois/an,Aucune,Anxiété légère,2,0,0,Modéré
+32,32,Jamais,Autre,Anxiété sévère,0,0,1,Nul
+33,33,Jamais,Aucune,Dépression légère,0,1,0,Nul
+34,34,1 fois/an,Aucune,Dépression légère,1,0,0,Faible
+35,35,1 fois/an,Aucune,Anxiété légère,2,0,1,Nul
+36,36,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+37,37,Jamais,Aucune,Aucun,3,0,1,Faible
+38,38,2-3 fois/an,Aucune,Dépression légère,2,0,0,Faible
+39,39,Jamais,Autre,Dépression légère,1,0,0,Élevé
+40,40,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+41,41,Jamais,Asthme,Aucun,1,0,0,Faible
+42,42,1 fois/mois,Aucune,Aucun,0,0,0,Nul
+43,43,Jamais,Aucune,Anxiété légère,3,0,1,Nul
+44,44,Jamais,Aucune,Stress post-traumatique,1,1,0,Nul
+45,45,2-3 fois/an,Aucune,Aucun,2,0,0,Faible
+46,46,1 fois/mois,Paludisme chronique,Anxiété légère,0,0,0,Élevé
+47,47,1 fois/mois,Drépanocytose,Anxiété légère,1,0,1,Faible
+48,48,Jamais,Aucune,Stress post-traumatique,1,0,0,Nul
+49,49,1 fois/an,Drépanocytose,Anxiété sévère,0,0,0,Modéré
+50,50,2-3 fois/an,Diabète,Aucun,0,0,0,Modéré
+51,51,1 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+52,52,1 fois/an,Aucune,Aucun,2,0,1,Faible
+53,53,1 fois/an,Autre,Anxiété sévère,0,0,0,Faible
+54,54,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+55,55,Jamais,Aucune,Anxiété légère,0,0,0,Élevé
+56,56,1 fois/mois,Drépanocytose,Anxiété sévère,0,0,0,Élevé
+57,57,1 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+58,58,>1 fois/mois,Aucune,Aucun,0,0,1,Nul
+59,59,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+60,60,1 fois/an,Aucune,Anxiété légère,1,0,1,Faible
+61,61,1 fois/mois,Hypertension,Aucun,3,0,1,Modéré
+62,62,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+63,63,1 fois/an,Aucune,Aucun,0,0,0,Faible
+64,64,Jamais,Aucune,Dépression sévère,2,0,0,Faible
+65,65,1 fois/mois,Paludisme chronique,Aucun,0,0,1,Nul
+66,66,2-3 fois/an,Aucune,Stress post-traumatique,3,0,0,Élevé
+67,67,1 fois/an,Aucune,Aucun,0,0,0,Faible
+68,68,1 fois/an,Aucune,Aucun,0,0,1,Faible
+69,69,1 fois/an,Aucune,Stress post-traumatique,2,0,0,Nul
+70,70,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+71,71,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+72,72,1 fois/an,Aucune,Dépression sévère,0,0,0,Nul
+73,73,>1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+74,74,2-3 fois/an,Autre,Anxiété sévère,0,0,0,Nul
+75,75,1 fois/an,Asthme,Aucun,0,0,1,Nul
+76,76,1 fois/an,Aucune,Aucun,0,0,0,Faible
+77,77,1 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+78,78,1 fois/mois,Aucune,Aucun,0,0,1,Nul
+79,79,Jamais,Aucune,Anxiété légère,0,0,0,Modéré
+80,80,1 fois/an,Hypertension,Aucun,0,0,0,Nul
+81,81,Jamais,Aucune,Anxiété légère,1,0,0,Faible
+82,82,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+83,83,1 fois/an,Autre,Anxiété légère,0,0,0,Faible
+84,84,>1 fois/mois,Paludisme chronique,Anxiété légère,1,0,0,Élevé
+85,85,Jamais,Hypertension,Anxiété légère,0,0,1,Nul
+86,86,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Modéré
+87,87,2-3 fois/an,Asthme,Aucun,0,0,1,Nul
+88,88,1 fois/mois,Aucune,Aucun,1,0,0,Faible
+89,89,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+90,90,1 fois/an,Autre,Dépression sévère,0,0,1,Modéré
+91,91,2-3 fois/an,Hypertension,Aucun,2,0,0,Modéré
+92,92,Jamais,Aucune,Anxiété légère,3,0,0,Faible
+93,93,1 fois/mois,Asthme,Anxiété légère,1,0,1,Modéré
+94,94,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Modéré
+95,95,Jamais,Aucune,Anxiété légère,1,0,0,Faible
+96,96,1 fois/an,Autre,Aucun,0,0,0,Faible
+97,97,Jamais,Aucune,Dépression légère,2,0,1,Faible
+98,98,1 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+99,99,1 fois/an,Aucune,Dépression légère,0,0,1,Faible
+100,100,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Nul
+101,101,1 fois/mois,Aucune,Dépression légère,0,0,1,Faible
+102,102,1 fois/an,Autre,Dépression sévère,0,0,0,Nul
+103,103,1 fois/mois,Paludisme chronique,Anxiété légère,2,0,1,Nul
+104,104,2-3 fois/an,Asthme,Dépression légère,1,0,0,Nul
+105,105,1 fois/an,Aucune,Anxiété sévère,1,0,0,Modéré
+106,106,1 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+107,107,Jamais,Aucune,Aucun,3,0,1,Faible
+108,108,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Faible
+109,109,2-3 fois/an,Hypertension,Aucun,1,0,0,Nul
+110,110,2-3 fois/an,Aucune,Anxiété légère,2,0,0,Faible
+111,111,1 fois/an,Aucune,Dépression légère,0,0,0,Nul
+112,112,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Nul
+113,113,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+114,114,1 fois/an,Aucune,Anxiété sévère,0,0,1,Élevé
+115,115,1 fois/an,Drépanocytose,Aucun,1,0,0,Faible
+116,116,Jamais,Autre,Dépression sévère,1,0,0,Modéré
+117,117,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+118,118,1 fois/an,Drépanocytose,Anxiété sévère,0,0,0,Nul
+119,119,Jamais,Aucune,Anxiété sévère,3,0,0,Élevé
+120,120,>1 fois/mois,Aucune,Aucun,2,0,1,Faible
+121,121,Jamais,Aucune,Dépression légère,0,0,0,Nul
+122,122,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+123,123,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Élevé
+124,124,1 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+125,125,2-3 fois/an,Aucune,Dépression légère,1,0,0,Élevé
+126,126,1 fois/mois,Aucune,Aucun,0,0,1,Nul
+127,127,1 fois/an,Aucune,Dépression sévère,0,0,1,Modéré
+128,128,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Faible
+129,129,1 fois/an,Aucune,Aucun,0,0,0,Nul
+130,130,Jamais,Aucune,Dépression sévère,3,0,0,Faible
+131,131,1 fois/an,Asthme,Dépression sévère,0,0,0,Élevé
+132,132,Jamais,Paludisme chronique,Aucun,0,0,0,Faible
+133,133,2-3 fois/an,Diabète,Anxiété sévère,0,0,0,Élevé
+134,134,1 fois/an,Aucune,Dépression légère,0,0,0,Nul
+135,135,1 fois/an,Asthme,Anxiété sévère,0,0,1,Modéré
+136,136,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+137,137,>1 fois/mois,Diabète,Dépression sévère,0,0,0,Faible
+138,138,Jamais,Aucune,Anxiété sévère,0,0,0,Modéré
+139,139,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+140,140,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+141,141,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+142,142,Jamais,Aucune,Aucun,0,0,1,Élevé
+143,143,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+144,144,1 fois/mois,Autre,Stress post-traumatique,0,0,0,Élevé
+145,145,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Faible
+146,146,Jamais,Aucune,Aucun,0,0,0,Faible
+147,147,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+148,148,1 fois/an,Aucune,Anxiété sévère,0,0,1,Faible
+149,149,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+150,150,1 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+151,151,1 fois/an,Aucune,Dépression légère,0,1,0,Nul
+152,152,Jamais,Aucune,Anxiété sévère,1,0,1,Faible
+153,153,2-3 fois/an,Aucune,Aucun,1,0,0,Faible
+154,154,>1 fois/mois,Aucune,Dépression légère,2,0,0,Élevé
+155,155,Jamais,Paludisme chronique,Aucun,3,0,0,Modéré
+156,156,Jamais,Paludisme chronique,Dépression sévère,1,0,1,Modéré
+157,157,1 fois/mois,Paludisme chronique,Aucun,0,0,1,Modéré
+158,158,Jamais,Paludisme chronique,Dépression légère,0,0,0,Nul
+159,159,1 fois/mois,Hypertension,Dépression légère,2,1,1,Nul
+160,160,Jamais,Aucune,Aucun,0,0,0,Modéré
+161,161,1 fois/an,Autre,Aucun,0,0,0,Faible
+162,162,1 fois/mois,Diabète,Anxiété légère,0,0,1,Nul
+163,163,1 fois/an,Paludisme chronique,Anxiété légère,1,0,0,Nul
+164,164,1 fois/an,Asthme,Dépression légère,0,0,0,Faible
+165,165,2-3 fois/an,Aucune,Aucun,2,0,0,Modéré
+166,166,Jamais,Asthme,Dépression sévère,2,0,0,Faible
+167,167,1 fois/an,Drépanocytose,Dépression légère,0,0,1,Modéré
+168,168,Jamais,Asthme,Anxiété légère,1,0,1,Faible
+169,169,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+170,170,2-3 fois/an,Paludisme chronique,Dépression légère,0,0,0,Modéré
+171,171,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+172,172,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+173,173,1 fois/an,Aucune,Aucun,0,0,1,Faible
+174,174,Jamais,Aucune,Stress post-traumatique,0,0,0,Nul
+175,175,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+176,176,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+177,177,2-3 fois/an,Diabète,Dépression sévère,0,0,0,Faible
+178,178,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+179,179,2-3 fois/an,Aucune,Dépression légère,0,0,1,Faible
+180,180,Jamais,Aucune,Aucun,0,0,1,Modéré
+181,181,1 fois/an,Asthme,Dépression sévère,0,0,0,Faible
+182,182,>1 fois/mois,Aucune,Anxiété légère,1,0,1,Modéré
+183,183,1 fois/an,Aucune,Aucun,0,0,1,Nul
+184,184,2-3 fois/an,Autre,Stress post-traumatique,0,0,0,Modéré
+185,185,Jamais,Aucune,Aucun,0,0,1,Faible
+186,186,1 fois/an,Aucune,Aucun,1,0,1,Nul
+187,187,1 fois/an,Aucune,Dépression légère,3,0,0,Modéré
+188,188,1 fois/mois,Drépanocytose,Stress post-traumatique,0,0,0,Nul
+189,189,1 fois/an,Autre,Dépression légère,0,0,1,Faible
+190,190,Jamais,Asthme,Aucun,0,0,0,Nul
+191,191,2-3 fois/an,Aucune,Stress post-traumatique,0,0,1,Faible
+192,192,1 fois/an,Aucune,Anxiété sévère,0,0,1,Modéré
+193,193,Jamais,Paludisme chronique,Anxiété sévère,0,0,0,Faible
+194,194,1 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+195,195,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+196,196,1 fois/an,Aucune,Aucun,2,0,1,Nul
+197,197,1 fois/mois,Aucune,Anxiété légère,1,0,0,Faible
+198,198,Jamais,Aucune,Aucun,0,0,0,Élevé
+199,199,2-3 fois/an,Autre,Dépression légère,0,0,1,Modéré
+200,200,1 fois/mois,Paludisme chronique,Aucun,0,0,1,Faible
+201,201,2-3 fois/an,Aucune,Dépression légère,0,0,0,Nul
+202,202,1 fois/mois,Aucune,Anxiété légère,0,0,0,Élevé
+203,203,Jamais,Paludisme chronique,Anxiété sévère,0,1,0,Faible
+204,204,1 fois/an,Aucune,Dépression légère,1,0,0,Modéré
+205,205,Jamais,Aucune,Stress post-traumatique,0,0,0,Élevé
+206,206,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+207,207,1 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+208,208,>1 fois/mois,Aucune,Stress post-traumatique,0,0,1,Élevé
+209,209,Jamais,Aucune,Dépression sévère,1,0,0,Faible
+210,210,1 fois/mois,Paludisme chronique,Aucun,0,0,0,Faible
+211,211,2-3 fois/an,Hypertension,Anxiété légère,2,0,1,Modéré
+212,212,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+213,213,1 fois/mois,Paludisme chronique,Dépression légère,0,0,0,Nul
+214,214,Jamais,Aucune,Anxiété sévère,0,0,0,Nul
+215,215,Jamais,Aucune,Anxiété sévère,1,0,1,Élevé
+216,216,2-3 fois/an,Aucune,Dépression sévère,2,0,0,Modéré
+217,217,Jamais,Hypertension,Anxiété légère,0,0,0,Élevé
+218,218,1 fois/an,Aucune,Anxiété légère,1,0,1,Faible
+219,219,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Nul
+220,220,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+221,221,Jamais,Aucune,Aucun,0,0,1,Élevé
+222,222,1 fois/an,Aucune,Dépression sévère,2,0,1,Faible
+223,223,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+224,224,1 fois/an,Aucune,Aucun,0,0,1,Faible
+225,225,2-3 fois/an,Autre,Aucun,0,0,1,Modéré
+226,226,2-3 fois/an,Hypertension,Dépression légère,1,0,0,Faible
+227,227,1 fois/an,Aucune,Aucun,0,0,0,Nul
+228,228,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+229,229,1 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+230,230,1 fois/an,Asthme,Dépression sévère,1,0,1,Faible
+231,231,1 fois/an,Hypertension,Aucun,1,0,0,Élevé
+232,232,>1 fois/mois,Aucune,Aucun,2,0,0,Modéré
+233,233,1 fois/mois,Paludisme chronique,Aucun,3,0,1,Modéré
+234,234,2-3 fois/an,Aucune,Dépression légère,2,0,1,Faible
+235,235,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+236,236,Jamais,Aucune,Aucun,0,0,0,Faible
+237,237,2-3 fois/an,Aucune,Anxiété sévère,2,0,1,Faible
+238,238,Jamais,Aucune,Stress post-traumatique,1,0,0,Nul
+239,239,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+240,240,2-3 fois/an,Aucune,Anxiété sévère,2,0,0,Faible
+241,241,1 fois/an,Hypertension,Dépression sévère,1,0,0,Élevé
+242,242,Jamais,Aucune,Aucun,1,0,0,Élevé
+243,243,Jamais,Aucune,Aucun,0,0,1,Faible
+244,244,1 fois/mois,Drépanocytose,Dépression légère,0,0,0,Faible
+245,245,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+246,246,1 fois/mois,Aucune,Anxiété sévère,1,0,0,Élevé
+247,247,Jamais,Paludisme chronique,Dépression légère,0,0,0,Modéré
+248,248,Jamais,Aucune,Aucun,0,0,1,Faible
+249,249,Jamais,Aucune,Aucun,0,0,0,Faible
+250,250,1 fois/an,Diabète,Aucun,1,0,1,Nul
+251,251,2-3 fois/an,Autre,Aucun,0,0,0,Faible
+252,252,1 fois/mois,Paludisme chronique,Aucun,0,0,0,Nul
+253,253,>1 fois/mois,Aucune,Dépression légère,0,0,0,Faible
+254,254,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Faible
+255,255,Jamais,Drépanocytose,Dépression légère,0,0,1,Faible
+256,256,1 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+257,257,1 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+258,258,2-3 fois/an,Aucune,Aucun,2,0,0,Élevé
+259,259,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+260,260,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+261,261,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+262,262,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+263,263,Jamais,Aucune,Aucun,1,0,0,Nul
+264,264,Jamais,Hypertension,Dépression sévère,0,0,1,Faible
+265,265,1 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+266,266,>1 fois/mois,Aucune,Dépression sévère,0,0,1,Faible
+267,267,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+268,268,Jamais,Aucune,Dépression sévère,0,0,0,Faible
+269,269,1 fois/mois,Aucune,Anxiété légère,0,0,0,Faible
+270,270,2-3 fois/an,Aucune,Aucun,1,0,1,Faible
+271,271,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+272,272,1 fois/an,Aucune,Aucun,0,0,0,Faible
+273,273,>1 fois/mois,Aucune,Aucun,0,0,1,Nul
+274,274,1 fois/an,Aucune,Anxiété sévère,2,0,0,Nul
+275,275,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Nul
+276,276,2-3 fois/an,Autre,Dépression sévère,0,0,1,Modéré
+277,277,1 fois/mois,Aucune,Anxiété sévère,0,0,1,Élevé
+278,278,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+279,279,1 fois/an,Aucune,Aucun,0,0,1,Faible
+280,280,1 fois/an,Hypertension,Aucun,0,0,1,Faible
+281,281,Jamais,Aucune,Dépression légère,1,0,0,Nul
+282,282,1 fois/an,Hypertension,Stress post-traumatique,0,0,0,Nul
+283,283,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+284,284,1 fois/an,Asthme,Aucun,0,0,0,Modéré
+285,285,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+286,286,>1 fois/mois,Aucune,Aucun,1,0,0,Nul
+287,287,1 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+288,288,Jamais,Hypertension,Dépression légère,0,0,0,Nul
+289,289,Jamais,Aucune,Anxiété sévère,0,0,0,Élevé
+290,290,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+291,291,Jamais,Paludisme chronique,Dépression légère,1,0,1,Modéré
+292,292,Jamais,Aucune,Stress post-traumatique,0,0,0,Modéré
+293,293,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+294,294,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Élevé
+295,295,1 fois/an,Aucune,Aucun,3,0,0,Nul
+296,296,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+297,297,Jamais,Aucune,Dépression légère,0,0,0,Modéré
+298,298,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+299,299,1 fois/an,Aucune,Stress post-traumatique,0,0,1,Modéré
+300,300,2-3 fois/an,Paludisme chronique,Anxiété légère,2,0,1,Nul
+301,301,Jamais,Aucune,Anxiété sévère,0,0,1,Modéré
+302,302,1 fois/an,Autre,Aucun,0,0,1,Faible
+303,303,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Modéré
+304,304,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Nul
+305,305,2-3 fois/an,Aucune,Aucun,1,0,1,Nul
+306,306,1 fois/an,Aucune,Dépression sévère,0,0,1,Faible
+307,307,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+308,308,1 fois/an,Autre,Aucun,0,0,0,Modéré
+309,309,1 fois/mois,Paludisme chronique,Anxiété légère,1,0,0,Modéré
+310,310,>1 fois/mois,Autre,Aucun,0,0,0,Faible
+311,311,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+312,312,1 fois/an,Asthme,Dépression légère,2,0,0,Élevé
+313,313,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+314,314,1 fois/an,Aucune,Anxiété sévère,0,0,1,Faible
+315,315,1 fois/mois,Hypertension,Aucun,0,0,1,Nul
+316,316,1 fois/an,Paludisme chronique,Anxiété légère,2,1,0,Faible
+317,317,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+318,318,1 fois/mois,Aucune,Aucun,1,0,1,Nul
+319,319,Jamais,Aucune,Anxiété sévère,0,1,0,Élevé
+320,320,Jamais,Aucune,Stress post-traumatique,2,0,0,Modéré
+321,321,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+322,322,Jamais,Drépanocytose,Dépression sévère,0,0,0,Modéré
+323,323,Jamais,Aucune,Aucun,0,0,1,Faible
+324,324,1 fois/an,Aucune,Aucun,0,0,1,Faible
+325,325,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+326,326,1 fois/mois,Aucune,Aucun,1,0,0,Modéré
+327,327,1 fois/mois,Aucune,Stress post-traumatique,0,0,0,Élevé
+328,328,1 fois/mois,Diabète,Stress post-traumatique,0,0,0,Faible
+329,329,Jamais,Diabète,Aucun,0,0,0,Faible
+330,330,1 fois/an,Aucune,Aucun,0,0,0,Nul
+331,331,1 fois/mois,Drépanocytose,Aucun,0,0,1,Modéré
+332,332,1 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Modéré
+333,333,1 fois/an,Drépanocytose,Stress post-traumatique,0,0,0,Élevé
+334,334,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+335,335,2-3 fois/an,Aucune,Anxiété légère,2,0,0,Faible
+336,336,1 fois/an,Autre,Anxiété sévère,0,0,0,Nul
+337,337,2-3 fois/an,Autre,Anxiété sévère,0,0,0,Faible
+338,338,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+339,339,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Faible
+340,340,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+341,341,Jamais,Aucune,Dépression sévère,2,0,1,Nul
+342,342,2-3 fois/an,Aucune,Anxiété légère,3,0,0,Nul
+343,343,1 fois/an,Autre,Aucun,0,1,1,Nul
+344,344,Jamais,Paludisme chronique,Aucun,1,0,1,Nul
+345,345,Jamais,Aucune,Dépression sévère,0,0,1,Élevé
+346,346,1 fois/mois,Hypertension,Aucun,2,1,0,Faible
+347,347,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+348,348,1 fois/an,Aucune,Dépression sévère,1,0,0,Nul
+349,349,1 fois/an,Aucune,Aucun,0,0,0,Faible
+350,350,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+351,351,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Faible
+352,352,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+353,353,Jamais,Hypertension,Stress post-traumatique,2,0,1,Faible
+354,354,2-3 fois/an,Aucune,Aucun,2,0,1,Nul
+355,355,1 fois/an,Asthme,Aucun,0,0,0,Modéré
+356,356,2-3 fois/an,Diabète,Aucun,0,0,1,Nul
+357,357,1 fois/mois,Drépanocytose,Anxiété légère,2,0,0,Nul
+358,358,Jamais,Aucune,Aucun,0,0,0,Élevé
+359,359,2-3 fois/an,Autre,Aucun,0,0,0,Modéré
+360,360,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+361,361,2-3 fois/an,Aucune,Anxiété légère,2,0,0,Nul
+362,362,1 fois/an,Drépanocytose,Anxiété sévère,0,0,1,Nul
+363,363,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+364,364,Jamais,Aucune,Aucun,0,0,0,Faible
+365,365,>1 fois/mois,Paludisme chronique,Dépression légère,0,0,0,Faible
+366,366,1 fois/an,Diabète,Anxiété sévère,0,0,0,Faible
+367,367,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+368,368,1 fois/mois,Hypertension,Anxiété sévère,0,0,1,Modéré
+369,369,2-3 fois/an,Asthme,Aucun,1,0,1,Faible
+370,370,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+371,371,2-3 fois/an,Aucune,Aucun,1,0,0,Modéré
+372,372,1 fois/mois,Aucune,Aucun,1,0,0,Faible
+373,373,Jamais,Aucune,Aucun,0,0,0,Faible
+374,374,2-3 fois/an,Hypertension,Anxiété sévère,1,0,0,Modéré
+375,375,Jamais,Diabète,Aucun,0,0,1,Faible
+376,376,2-3 fois/an,Autre,Aucun,0,0,0,Modéré
+377,377,Jamais,Drépanocytose,Anxiété légère,0,0,0,Modéré
+378,378,1 fois/an,Aucune,Anxiété légère,0,0,1,Élevé
+379,379,2-3 fois/an,Diabète,Aucun,0,0,0,Modéré
+380,380,>1 fois/mois,Drépanocytose,Aucun,0,0,0,Modéré
+381,381,2-3 fois/an,Drépanocytose,Aucun,0,0,0,Nul
+382,382,>1 fois/mois,Diabète,Stress post-traumatique,2,0,0,Faible
+383,383,Jamais,Hypertension,Anxiété légère,0,1,0,Nul
+384,384,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+385,385,Jamais,Paludisme chronique,Aucun,1,0,0,Faible
+386,386,Jamais,Autre,Dépression légère,0,0,0,Faible
+387,387,2-3 fois/an,Autre,Aucun,0,0,1,Faible
+388,388,Jamais,Aucune,Aucun,2,0,0,Modéré
+389,389,1 fois/an,Paludisme chronique,Aucun,0,0,1,Modéré
+390,390,1 fois/an,Diabète,Aucun,0,0,1,Nul
+391,391,1 fois/an,Paludisme chronique,Anxiété légère,2,0,0,Faible
+392,392,2-3 fois/an,Diabète,Anxiété légère,0,0,0,Nul
+393,393,1 fois/an,Aucune,Anxiété sévère,1,0,0,Faible
+394,394,Jamais,Asthme,Anxiété légère,0,0,0,Modéré
+395,395,1 fois/mois,Aucune,Aucun,0,0,1,Faible
+396,396,1 fois/an,Drépanocytose,Aucun,0,0,1,Élevé
+397,397,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+398,398,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Modéré
+399,399,1 fois/mois,Paludisme chronique,Aucun,0,0,1,Faible
+400,400,1 fois/an,Aucune,Aucun,0,0,1,Nul
+401,401,1 fois/an,Aucune,Aucun,3,0,0,Faible
+402,402,1 fois/an,Drépanocytose,Aucun,1,0,1,Élevé
+403,403,Jamais,Aucune,Aucun,0,0,1,Élevé
+404,404,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+405,405,1 fois/mois,Paludisme chronique,Anxiété légère,0,0,1,Faible
+406,406,1 fois/an,Aucune,Aucun,1,0,1,Nul
+407,407,Jamais,Paludisme chronique,Aucun,0,0,0,Faible
+408,408,1 fois/mois,Aucune,Dépression légère,0,0,1,Nul
+409,409,1 fois/an,Autre,Aucun,0,0,1,Nul
+410,410,Jamais,Asthme,Aucun,1,0,0,Faible
+411,411,Jamais,Aucune,Aucun,0,0,0,Nul
+412,412,1 fois/an,Aucune,Stress post-traumatique,1,0,0,Faible
+413,413,Jamais,Aucune,Aucun,0,0,0,Nul
+414,414,Jamais,Aucune,Anxiété légère,3,0,0,Faible
+415,415,Jamais,Aucune,Anxiété légère,0,1,0,Faible
+416,416,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+417,417,2-3 fois/an,Aucune,Dépression légère,0,0,0,Nul
+418,418,1 fois/an,Aucune,Aucun,0,0,0,Nul
+419,419,Jamais,Aucune,Anxiété légère,0,0,0,Modéré
+420,420,1 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Élevé
+421,421,Jamais,Diabète,Dépression sévère,2,0,0,Modéré
+422,422,2-3 fois/an,Aucune,Anxiété légère,0,1,0,Faible
+423,423,Jamais,Aucune,Aucun,0,0,0,Nul
+424,424,Jamais,Asthme,Dépression sévère,0,0,0,Modéré
+425,425,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+426,426,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+427,427,2-3 fois/an,Drépanocytose,Stress post-traumatique,0,0,0,Faible
+428,428,2-3 fois/an,Paludisme chronique,Dépression légère,1,0,1,Nul
+429,429,1 fois/an,Asthme,Anxiété sévère,0,0,0,Modéré
+430,430,1 fois/an,Drépanocytose,Dépression légère,1,0,0,Faible
+431,431,Jamais,Aucune,Aucun,0,0,1,Faible
+432,432,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+433,433,2-3 fois/an,Autre,Anxiété légère,1,0,0,Faible
+434,434,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+435,435,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+436,436,Jamais,Aucune,Anxiété légère,1,0,0,Modéré
+437,437,1 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+438,438,Jamais,Paludisme chronique,Aucun,1,0,1,Modéré
+439,439,Jamais,Paludisme chronique,Dépression sévère,2,0,0,Faible
+440,440,Jamais,Aucune,Stress post-traumatique,3,0,0,Nul
+441,441,2-3 fois/an,Paludisme chronique,Anxiété sévère,1,0,0,Modéré
+442,442,1 fois/mois,Aucune,Dépression sévère,0,0,1,Élevé
+443,443,Jamais,Aucune,Dépression légère,0,0,1,Modéré
+444,444,>1 fois/mois,Aucune,Dépression légère,0,0,0,Nul
+445,445,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+446,446,2-3 fois/an,Asthme,Anxiété légère,0,1,0,Faible
+447,447,Jamais,Aucune,Aucun,1,0,0,Modéré
+448,448,1 fois/an,Aucune,Aucun,2,0,0,Élevé
+449,449,1 fois/an,Aucune,Anxiété légère,1,0,1,Faible
+450,450,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+451,451,Jamais,Aucune,Aucun,1,0,0,Faible
+452,452,2-3 fois/an,Asthme,Aucun,0,0,0,Modéré
+453,453,2-3 fois/an,Aucune,Dépression légère,0,0,1,Nul
+454,454,1 fois/an,Drépanocytose,Anxiété légère,0,0,0,Faible
+455,455,Jamais,Aucune,Anxiété sévère,1,0,1,Faible
+456,456,2-3 fois/an,Hypertension,Aucun,0,0,1,Nul
+457,457,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+458,458,Jamais,Aucune,Dépression sévère,1,0,0,Faible
+459,459,1 fois/mois,Autre,Aucun,0,0,1,Faible
+460,460,2-3 fois/an,Aucune,Aucun,1,0,0,Modéré
+461,461,1 fois/an,Aucune,Anxiété sévère,2,0,0,Faible
+462,462,1 fois/an,Aucune,Anxiété légère,1,0,0,Modéré
+463,463,1 fois/mois,Diabète,Anxiété sévère,0,0,1,Modéré
+464,464,1 fois/an,Aucune,Dépression sévère,2,0,0,Nul
+465,465,1 fois/mois,Diabète,Aucun,0,0,1,Faible
+466,466,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+467,467,2-3 fois/an,Aucune,Stress post-traumatique,1,0,1,Nul
+468,468,1 fois/an,Paludisme chronique,Aucun,0,0,1,Modéré
+469,469,2-3 fois/an,Diabète,Anxiété légère,0,0,1,Nul
+470,470,>1 fois/mois,Aucune,Anxiété légère,2,0,0,Modéré
+471,471,1 fois/an,Aucune,Dépression légère,2,0,1,Nul
+472,472,1 fois/an,Aucune,Anxiété sévère,1,0,0,Élevé
+473,473,1 fois/an,Autre,Dépression sévère,2,0,1,Nul
+474,474,1 fois/mois,Aucune,Anxiété sévère,0,0,1,Modéré
+475,475,Jamais,Aucune,Anxiété sévère,1,0,0,Nul
+476,476,Jamais,Aucune,Anxiété légère,1,0,1,Faible
+477,477,1 fois/mois,Diabète,Aucun,0,0,1,Modéré
+478,478,Jamais,Aucune,Aucun,0,0,1,Modéré
+479,479,Jamais,Aucune,Anxiété légère,1,0,0,Modéré
+480,480,1 fois/an,Hypertension,Stress post-traumatique,0,0,1,Modéré
+481,481,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+482,482,Jamais,Asthme,Aucun,2,0,0,Nul
+483,483,>1 fois/mois,Paludisme chronique,Aucun,0,0,0,Nul
+484,484,1 fois/an,Aucune,Aucun,0,0,0,Faible
+485,485,1 fois/an,Aucune,Dépression sévère,0,0,0,Faible
+486,486,2-3 fois/an,Aucune,Anxiété légère,2,0,0,Faible
+487,487,1 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+488,488,2-3 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Faible
+489,489,1 fois/an,Aucune,Dépression légère,2,0,0,Nul
+490,490,>1 fois/mois,Aucune,Aucun,0,0,0,Faible
+491,491,1 fois/an,Hypertension,Aucun,0,0,1,Faible
+492,492,2-3 fois/an,Autre,Dépression sévère,0,0,0,Faible
+493,493,2-3 fois/an,Hypertension,Aucun,1,0,0,Modéré
+494,494,2-3 fois/an,Drépanocytose,Dépression légère,0,0,1,Nul
+495,495,Jamais,Hypertension,Aucun,1,0,1,Faible
+496,496,Jamais,Aucune,Aucun,0,0,1,Modéré
+497,497,1 fois/mois,Paludisme chronique,Dépression légère,0,0,0,Élevé
+498,498,1 fois/an,Paludisme chronique,Anxiété légère,2,0,1,Faible
+499,499,1 fois/mois,Aucune,Dépression légère,0,0,1,Élevé
+500,500,Jamais,Drépanocytose,Aucun,1,0,0,Élevé
+501,501,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+502,502,2-3 fois/an,Asthme,Aucun,0,0,0,Modéré
+503,503,>1 fois/mois,Drépanocytose,Anxiété légère,0,0,1,Faible
+504,504,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,1,Élevé
+505,505,1 fois/mois,Asthme,Dépression légère,0,0,0,Nul
+506,506,1 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+507,507,Jamais,Aucune,Aucun,0,0,1,Nul
+508,508,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+509,509,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Nul
+510,510,Jamais,Aucune,Aucun,0,0,1,Modéré
+511,511,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+512,512,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+513,513,>1 fois/mois,Aucune,Aucun,0,0,0,Faible
+514,514,Jamais,Aucune,Aucun,1,0,0,Nul
+515,515,1 fois/an,Aucune,Aucun,1,0,1,Modéré
+516,516,1 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+517,517,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+518,518,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+519,519,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+520,520,2-3 fois/an,Asthme,Anxiété sévère,0,0,0,Faible
+521,521,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+522,522,Jamais,Aucune,Anxiété légère,0,0,0,Modéré
+523,523,Jamais,Paludisme chronique,Dépression légère,0,0,0,Modéré
+524,524,1 fois/an,Autre,Anxiété sévère,0,0,0,Modéré
+525,525,2-3 fois/an,Aucune,Aucun,1,0,0,Faible
+526,526,Jamais,Aucune,Dépression légère,0,0,0,Modéré
+527,527,1 fois/an,Aucune,Anxiété sévère,0,0,1,Modéré
+528,528,1 fois/mois,Aucune,Aucun,0,0,1,Nul
+529,529,1 fois/mois,Asthme,Aucun,2,0,0,Modéré
+530,530,Jamais,Asthme,Aucun,1,0,0,Faible
+531,531,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+532,532,1 fois/an,Autre,Aucun,0,0,0,Élevé
+533,533,>1 fois/mois,Asthme,Aucun,2,0,1,Nul
+534,534,1 fois/mois,Paludisme chronique,Aucun,2,0,1,Modéré
+535,535,1 fois/an,Drépanocytose,Aucun,1,0,0,Modéré
+536,536,1 fois/an,Paludisme chronique,Anxiété légère,0,0,1,Faible
+537,537,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Faible
+538,538,1 fois/mois,Paludisme chronique,Dépression légère,0,0,0,Nul
+539,539,Jamais,Asthme,Aucun,0,0,0,Modéré
+540,540,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+541,541,2-3 fois/an,Diabète,Anxiété légère,3,0,1,Modéré
+542,542,1 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+543,543,Jamais,Aucune,Anxiété légère,1,0,0,Faible
+544,544,1 fois/mois,Aucune,Anxiété légère,1,0,1,Nul
+545,545,2-3 fois/an,Aucune,Dépression sévère,2,0,0,Élevé
+546,546,1 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+547,547,1 fois/mois,Aucune,Dépression légère,0,0,1,Modéré
+548,548,1 fois/mois,Hypertension,Dépression sévère,0,0,0,Élevé
+549,549,1 fois/an,Asthme,Anxiété sévère,1,0,1,Nul
+550,550,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Nul
+551,551,Jamais,Hypertension,Aucun,0,0,1,Modéré
+552,552,2-3 fois/an,Hypertension,Aucun,0,0,0,Nul
+553,553,>1 fois/mois,Hypertension,Aucun,3,0,0,Modéré
+554,554,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+555,555,1 fois/an,Autre,Anxiété légère,0,0,1,Nul
+556,556,Jamais,Aucune,Aucun,1,0,0,Modéré
+557,557,Jamais,Aucune,Stress post-traumatique,0,0,0,Faible
+558,558,1 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+559,559,1 fois/mois,Aucune,Anxiété sévère,0,0,1,Faible
+560,560,1 fois/an,Autre,Dépression sévère,0,0,1,Élevé
+561,561,>1 fois/mois,Diabète,Aucun,2,0,0,Élevé
+562,562,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Nul
+563,563,1 fois/mois,Aucune,Anxiété sévère,0,0,1,Faible
+564,564,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+565,565,1 fois/an,Aucune,Aucun,0,0,1,Faible
+566,566,2-3 fois/an,Hypertension,Aucun,0,1,0,Faible
+567,567,1 fois/an,Drépanocytose,Anxiété légère,1,0,0,Modéré
+568,568,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+569,569,1 fois/mois,Asthme,Aucun,0,0,1,Nul
+570,570,1 fois/an,Aucune,Aucun,0,0,0,Nul
+571,571,Jamais,Aucune,Aucun,1,0,0,Modéré
+572,572,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Faible
+573,573,1 fois/mois,Autre,Aucun,0,0,0,Élevé
+574,574,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+575,575,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+576,576,2-3 fois/an,Asthme,Aucun,1,0,1,Faible
+577,577,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+578,578,2-3 fois/an,Paludisme chronique,Anxiété légère,1,0,1,Faible
+579,579,Jamais,Aucune,Aucun,1,0,1,Faible
+580,580,2-3 fois/an,Aucune,Aucun,2,0,1,Modéré
+581,581,Jamais,Aucune,Dépression légère,0,0,1,Faible
+582,582,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+583,583,1 fois/an,Aucune,Dépression légère,2,0,1,Nul
+584,584,Jamais,Drépanocytose,Aucun,0,0,1,Faible
+585,585,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+586,586,Jamais,Aucune,Aucun,0,0,0,Modéré
+587,587,2-3 fois/an,Aucune,Aucun,0,1,0,Élevé
+588,588,2-3 fois/an,Drépanocytose,Aucun,1,0,0,Élevé
+589,589,1 fois/an,Drépanocytose,Anxiété légère,0,0,0,Faible
+590,590,Jamais,Aucune,Aucun,0,0,1,Faible
+591,591,1 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+592,592,Jamais,Aucune,Aucun,0,0,0,Faible
+593,593,1 fois/an,Aucune,Aucun,0,0,0,Faible
+594,594,Jamais,Hypertension,Anxiété légère,0,0,1,Élevé
+595,595,1 fois/mois,Aucune,Aucun,2,0,1,Faible
+596,596,1 fois/an,Aucune,Aucun,0,0,1,Faible
+597,597,1 fois/an,Asthme,Aucun,0,0,1,Faible
+598,598,Jamais,Autre,Dépression sévère,3,0,1,Faible
+599,599,1 fois/an,Aucune,Aucun,0,0,0,Faible
+600,600,2-3 fois/an,Aucune,Dépression sévère,1,0,0,Faible
+601,601,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+602,602,Jamais,Aucune,Aucun,0,0,1,Nul
+603,603,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Nul
+604,604,Jamais,Aucune,Anxiété légère,1,0,0,Modéré
+605,605,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+606,606,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+607,607,1 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+608,608,1 fois/mois,Hypertension,Aucun,0,0,0,Modéré
+609,609,Jamais,Aucune,Aucun,2,1,0,Modéré
+610,610,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+611,611,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+612,612,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+613,613,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+614,614,1 fois/an,Hypertension,Anxiété légère,0,0,0,Élevé
+615,615,1 fois/mois,Autre,Dépression légère,0,0,1,Élevé
+616,616,2-3 fois/an,Asthme,Anxiété légère,1,0,1,Élevé
+617,617,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+618,618,Jamais,Drépanocytose,Stress post-traumatique,0,0,0,Élevé
+619,619,1 fois/an,Aucune,Anxiété légère,2,0,1,Nul
+620,620,Jamais,Autre,Dépression légère,0,0,0,Modéré
+621,621,2-3 fois/an,Paludisme chronique,Dépression sévère,1,0,1,Faible
+622,622,Jamais,Paludisme chronique,Anxiété légère,1,0,0,Faible
+623,623,Jamais,Aucune,Aucun,1,0,0,Élevé
+624,624,Jamais,Paludisme chronique,Dépression sévère,0,0,0,Modéré
+625,625,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Modéré
+626,626,Jamais,Hypertension,Dépression sévère,0,0,0,Élevé
+627,627,>1 fois/mois,Aucune,Dépression légère,3,0,0,Nul
+628,628,Jamais,Aucune,Aucun,0,0,0,Faible
+629,629,1 fois/an,Aucune,Aucun,0,0,1,Faible
+630,630,1 fois/mois,Asthme,Anxiété légère,1,0,0,Faible
+631,631,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+632,632,1 fois/an,Drépanocytose,Anxiété légère,0,0,0,Élevé
+633,633,1 fois/mois,Aucune,Anxiété légère,0,0,0,Faible
+634,634,1 fois/an,Aucune,Dépression légère,2,0,0,Faible
+635,635,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+636,636,>1 fois/mois,Autre,Dépression sévère,0,0,0,Modéré
+637,637,Jamais,Aucune,Aucun,1,0,1,Nul
+638,638,Jamais,Aucune,Dépression sévère,1,0,0,Élevé
+639,639,1 fois/an,Aucune,Anxiété légère,1,0,0,Modéré
+640,640,1 fois/an,Paludisme chronique,Aucun,0,0,1,Nul
+641,641,2-3 fois/an,Aucune,Dépression légère,1,0,1,Modéré
+642,642,1 fois/an,Aucune,Dépression légère,1,0,0,Élevé
+643,643,1 fois/an,Paludisme chronique,Aucun,0,0,1,Nul
+644,644,1 fois/an,Paludisme chronique,Aucun,2,0,0,Faible
+645,645,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+646,646,1 fois/an,Diabète,Aucun,1,0,1,Faible
+647,647,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+648,648,1 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+649,649,1 fois/an,Aucune,Anxiété légère,0,0,1,Élevé
+650,650,1 fois/mois,Autre,Aucun,0,0,1,Modéré
+651,651,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+652,652,1 fois/an,Hypertension,Aucun,0,0,1,Nul
+653,653,Jamais,Asthme,Aucun,0,0,0,Faible
+654,654,2-3 fois/an,Diabète,Aucun,0,0,0,Élevé
+655,655,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Nul
+656,656,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+657,657,2-3 fois/an,Autre,Dépression sévère,0,0,0,Faible
+658,658,1 fois/mois,Aucune,Dépression sévère,0,0,0,Faible
+659,659,1 fois/an,Diabète,Anxiété légère,0,0,0,Nul
+660,660,2-3 fois/an,Autre,Anxiété légère,1,0,0,Modéré
+661,661,Jamais,Aucune,Stress post-traumatique,0,0,0,Modéré
+662,662,Jamais,Asthme,Anxiété sévère,0,0,0,Élevé
+663,663,Jamais,Aucune,Anxiété légère,0,1,1,Élevé
+664,664,1 fois/an,Aucune,Aucun,0,0,1,Nul
+665,665,1 fois/mois,Aucune,Aucun,1,0,0,Modéré
+666,666,2-3 fois/an,Asthme,Aucun,0,0,1,Élevé
+667,667,1 fois/an,Asthme,Aucun,1,0,1,Élevé
+668,668,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+669,669,Jamais,Aucune,Anxiété sévère,0,0,1,Nul
+670,670,Jamais,Autre,Aucun,2,0,1,Nul
+671,671,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+672,672,Jamais,Aucune,Aucun,0,0,1,Modéré
+673,673,Jamais,Aucune,Dépression légère,2,0,0,Élevé
+674,674,2-3 fois/an,Hypertension,Dépression légère,0,0,1,Modéré
+675,675,1 fois/mois,Asthme,Dépression légère,0,0,0,Élevé
+676,676,2-3 fois/an,Aucune,Dépression sévère,0,1,0,Faible
+677,677,1 fois/mois,Autre,Aucun,0,0,0,Élevé
+678,678,Jamais,Diabète,Anxiété légère,2,0,0,Modéré
+679,679,2-3 fois/an,Aucune,Aucun,1,0,0,Nul
+680,680,1 fois/an,Asthme,Dépression légère,0,0,0,Faible
+681,681,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+682,682,>1 fois/mois,Aucune,Anxiété légère,1,0,1,Nul
+683,683,1 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Élevé
+684,684,1 fois/an,Aucune,Anxiété sévère,0,0,1,Nul
+685,685,Jamais,Aucune,Aucun,0,0,1,Nul
+686,686,1 fois/mois,Aucune,Anxiété légère,1,0,0,Modéré
+687,687,Jamais,Aucune,Anxiété légère,2,0,0,Nul
+688,688,>1 fois/mois,Drépanocytose,Aucun,2,0,1,Élevé
+689,689,>1 fois/mois,Diabète,Anxiété sévère,0,1,0,Modéré
+690,690,Jamais,Aucune,Aucun,2,0,0,Modéré
+691,691,1 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+692,692,1 fois/an,Paludisme chronique,Aucun,3,0,1,Modéré
+693,693,Jamais,Aucune,Aucun,1,0,0,Modéré
+694,694,1 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+695,695,1 fois/mois,Hypertension,Anxiété légère,0,0,1,Nul
+696,696,>1 fois/mois,Autre,Aucun,0,0,0,Élevé
+697,697,1 fois/an,Aucune,Anxiété sévère,0,0,1,Modéré
+698,698,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,1,Nul
+699,699,1 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+700,700,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+701,701,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+702,702,Jamais,Paludisme chronique,Aucun,1,0,1,Nul
+703,703,>1 fois/mois,Paludisme chronique,Aucun,0,0,0,Nul
+704,704,>1 fois/mois,Hypertension,Aucun,0,0,0,Faible
+705,705,1 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+706,706,1 fois/an,Drépanocytose,Anxiété légère,0,0,0,Nul
+707,707,Jamais,Drépanocytose,Aucun,0,0,0,Modéré
+708,708,>1 fois/mois,Aucune,Aucun,1,0,0,Faible
+709,709,2-3 fois/an,Paludisme chronique,Dépression légère,0,0,0,Faible
+710,710,1 fois/mois,Diabète,Dépression sévère,0,0,0,Nul
+711,711,2-3 fois/an,Autre,Anxiété légère,2,0,1,Modéré
+712,712,1 fois/mois,Diabète,Aucun,0,0,0,Modéré
+713,713,1 fois/an,Aucune,Dépression sévère,1,0,1,Modéré
+714,714,Jamais,Aucune,Aucun,1,0,0,Nul
+715,715,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+716,716,1 fois/an,Aucune,Aucun,0,0,1,Nul
+717,717,1 fois/mois,Asthme,Anxiété sévère,1,0,1,Faible
+718,718,2-3 fois/an,Aucune,Aucun,1,0,0,Nul
+719,719,2-3 fois/an,Asthme,Aucun,0,0,1,Modéré
+720,720,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+721,721,1 fois/mois,Aucune,Anxiété légère,0,0,0,Nul
+722,722,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+723,723,1 fois/an,Aucune,Aucun,0,1,0,Modéré
+724,724,Jamais,Aucune,Aucun,0,0,0,Modéré
+725,725,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+726,726,2-3 fois/an,Paludisme chronique,Dépression légère,0,0,0,Élevé
+727,727,Jamais,Aucune,Anxiété légère,0,0,1,Nul
+728,728,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Modéré
+729,729,>1 fois/mois,Asthme,Dépression légère,0,0,0,Nul
+730,730,1 fois/an,Aucune,Aucun,2,0,1,Élevé
+731,731,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+732,732,1 fois/an,Autre,Aucun,1,0,0,Nul
+733,733,1 fois/an,Aucune,Aucun,1,0,0,Modéré
+734,734,Jamais,Aucune,Aucun,1,0,0,Nul
+735,735,1 fois/an,Hypertension,Aucun,0,0,0,Modéré
+736,736,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+737,737,1 fois/an,Aucune,Anxiété légère,3,0,0,Nul
+738,738,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+739,739,Jamais,Aucune,Dépression légère,2,0,0,Élevé
+740,740,Jamais,Aucune,Dépression sévère,3,0,1,Élevé
+741,741,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+742,742,1 fois/mois,Aucune,Aucun,1,0,0,Élevé
+743,743,Jamais,Aucune,Aucun,2,1,0,Nul
+744,744,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+745,745,2-3 fois/an,Drépanocytose,Aucun,3,0,1,Faible
+746,746,1 fois/an,Aucune,Anxiété sévère,1,0,1,Faible
+747,747,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+748,748,Jamais,Aucune,Aucun,2,0,0,Faible
+749,749,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+750,750,1 fois/mois,Aucune,Dépression sévère,0,0,0,Modéré
+751,751,2-3 fois/an,Hypertension,Aucun,0,0,0,Modéré
+752,752,1 fois/mois,Autre,Anxiété légère,0,0,0,Élevé
+753,753,1 fois/an,Paludisme chronique,Dépression légère,2,0,1,Faible
+754,754,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+755,755,Jamais,Paludisme chronique,Anxiété légère,0,0,0,Nul
+756,756,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+757,757,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Modéré
+758,758,>1 fois/mois,Aucune,Stress post-traumatique,0,0,0,Nul
+759,759,>1 fois/mois,Drépanocytose,Aucun,1,0,0,Nul
+760,760,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+761,761,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+762,762,1 fois/an,Aucune,Aucun,0,0,0,Nul
+763,763,1 fois/an,Drépanocytose,Anxiété légère,0,0,0,Faible
+764,764,1 fois/mois,Paludisme chronique,Dépression sévère,0,0,0,Nul
+765,765,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+766,766,1 fois/an,Diabète,Aucun,2,0,1,Nul
+767,767,Jamais,Aucune,Anxiété légère,0,0,1,Élevé
+768,768,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Élevé
+769,769,1 fois/an,Drépanocytose,Aucun,0,0,1,Modéré
+770,770,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+771,771,1 fois/an,Aucune,Aucun,3,0,0,Nul
+772,772,1 fois/an,Aucune,Anxiété sévère,0,0,1,Modéré
+773,773,1 fois/an,Autre,Anxiété sévère,1,0,0,Élevé
+774,774,1 fois/mois,Aucune,Anxiété légère,0,0,0,Élevé
+775,775,1 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+776,776,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+777,777,>1 fois/mois,Autre,Stress post-traumatique,0,0,0,Faible
+778,778,>1 fois/mois,Aucune,Aucun,0,0,0,Nul
+779,779,2-3 fois/an,Hypertension,Anxiété sévère,0,0,0,Élevé
+780,780,Jamais,Aucune,Anxiété sévère,0,0,0,Faible
+781,781,2-3 fois/an,Drépanocytose,Aucun,3,0,0,Faible
+782,782,1 fois/mois,Aucune,Anxiété légère,0,0,0,Modéré
+783,783,Jamais,Aucune,Dépression légère,1,0,1,Faible
+784,784,1 fois/mois,Aucune,Anxiété légère,2,0,1,Faible
+785,785,1 fois/an,Aucune,Dépression légère,1,0,0,Faible
+786,786,1 fois/an,Autre,Aucun,1,0,0,Faible
+787,787,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Faible
+788,788,>1 fois/mois,Asthme,Anxiété légère,0,0,0,Élevé
+789,789,Jamais,Paludisme chronique,Dépression légère,0,0,0,Modéré
+790,790,Jamais,Paludisme chronique,Aucun,0,0,0,Modéré
+791,791,1 fois/an,Aucune,Aucun,0,0,1,Faible
+792,792,1 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+793,793,2-3 fois/an,Hypertension,Dépression légère,0,0,0,Élevé
+794,794,1 fois/mois,Paludisme chronique,Aucun,0,0,0,Nul
+795,795,1 fois/an,Diabète,Anxiété sévère,1,0,0,Faible
+796,796,Jamais,Autre,Aucun,0,0,0,Modéré
+797,797,1 fois/an,Aucune,Dépression sévère,0,0,0,Faible
+798,798,Jamais,Aucune,Dépression légère,0,0,0,Élevé
+799,799,1 fois/mois,Aucune,Aucun,1,0,1,Nul
+800,800,1 fois/mois,Paludisme chronique,Aucun,3,0,0,Faible
+801,801,2-3 fois/an,Diabète,Anxiété légère,0,0,0,Nul
+802,802,1 fois/an,Asthme,Aucun,0,0,0,Faible
+803,803,1 fois/an,Paludisme chronique,Anxiété légère,0,1,0,Modéré
+804,804,1 fois/an,Aucune,Anxiété légère,2,0,1,Nul
+805,805,Jamais,Autre,Anxiété sévère,0,0,0,Faible
+806,806,2-3 fois/an,Diabète,Dépression légère,0,0,0,Faible
+807,807,2-3 fois/an,Aucune,Aucun,1,1,0,Modéré
+808,808,1 fois/an,Asthme,Aucun,0,0,0,Nul
+809,809,1 fois/mois,Hypertension,Aucun,1,0,0,Nul
+810,810,1 fois/mois,Paludisme chronique,Dépression légère,0,0,1,Faible
+811,811,1 fois/an,Aucune,Aucun,1,0,0,Élevé
+812,812,2-3 fois/an,Aucune,Aucun,2,0,1,Nul
+813,813,Jamais,Aucune,Aucun,1,0,1,Modéré
+814,814,1 fois/mois,Aucune,Anxiété sévère,2,0,0,Élevé
+815,815,1 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+816,816,2-3 fois/an,Aucune,Aucun,1,0,0,Nul
+817,817,2-3 fois/an,Aucune,Aucun,0,1,0,Élevé
+818,818,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+819,819,Jamais,Aucune,Anxiété légère,1,0,1,Nul
+820,820,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+821,821,Jamais,Aucune,Aucun,0,0,0,Modéré
+822,822,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+823,823,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+824,824,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+825,825,Jamais,Aucune,Aucun,1,0,1,Nul
+826,826,1 fois/an,Aucune,Anxiété sévère,0,0,1,Modéré
+827,827,Jamais,Aucune,Anxiété légère,1,0,0,Nul
+828,828,1 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+829,829,2-3 fois/an,Aucune,Aucun,3,0,0,Élevé
+830,830,2-3 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+831,831,Jamais,Aucune,Aucun,2,0,0,Faible
+832,832,>1 fois/mois,Hypertension,Anxiété sévère,0,0,1,Élevé
+833,833,1 fois/an,Paludisme chronique,Aucun,3,0,0,Élevé
+834,834,2-3 fois/an,Diabète,Dépression légère,0,0,0,Faible
+835,835,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+836,836,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+837,837,Jamais,Aucune,Aucun,0,0,0,Faible
+838,838,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+839,839,2-3 fois/an,Aucune,Aucun,3,0,1,Modéré
+840,840,>1 fois/mois,Aucune,Dépression sévère,0,0,0,Élevé
+841,841,1 fois/an,Aucune,Anxiété légère,3,0,1,Modéré
+842,842,1 fois/an,Autre,Aucun,0,0,1,Faible
+843,843,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+844,844,1 fois/mois,Asthme,Anxiété légère,2,0,0,Faible
+845,845,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+846,846,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+847,847,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Modéré
+848,848,2-3 fois/an,Diabète,Anxiété sévère,0,0,1,Faible
+849,849,1 fois/mois,Aucune,Aucun,1,0,1,Faible
+850,850,1 fois/an,Aucune,Anxiété légère,1,0,0,Élevé
+851,851,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+852,852,1 fois/an,Hypertension,Aucun,0,0,1,Nul
+853,853,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Modéré
+854,854,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+855,855,2-3 fois/an,Drépanocytose,Aucun,1,0,0,Faible
+856,856,1 fois/mois,Autre,Aucun,0,0,0,Faible
+857,857,Jamais,Aucune,Aucun,0,0,1,Faible
+858,858,1 fois/an,Diabète,Dépression légère,1,0,0,Nul
+859,859,2-3 fois/an,Drépanocytose,Aucun,0,0,1,Modéré
+860,860,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Modéré
+861,861,1 fois/an,Diabète,Anxiété légère,0,0,0,Faible
+862,862,>1 fois/mois,Aucune,Aucun,0,0,1,Faible
+863,863,Jamais,Asthme,Aucun,0,0,0,Élevé
+864,864,2-3 fois/an,Aucune,Aucun,1,0,0,Nul
+865,865,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Nul
+866,866,>1 fois/mois,Aucune,Aucun,0,0,0,Élevé
+867,867,1 fois/an,Diabète,Anxiété sévère,0,0,0,Faible
+868,868,2-3 fois/an,Aucune,Anxiété légère,2,0,1,Nul
+869,869,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Modéré
+870,870,1 fois/an,Paludisme chronique,Dépression légère,0,1,0,Élevé
+871,871,Jamais,Aucune,Aucun,0,0,0,Faible
+872,872,Jamais,Aucune,Aucun,1,0,0,Faible
+873,873,>1 fois/mois,Aucune,Dépression sévère,0,0,1,Élevé
+874,874,1 fois/an,Aucune,Aucun,0,0,0,Nul
+875,875,1 fois/mois,Aucune,Stress post-traumatique,0,0,0,Élevé
+876,876,1 fois/an,Aucune,Aucun,0,0,1,Faible
+877,877,1 fois/an,Asthme,Anxiété légère,0,0,0,Nul
+878,878,Jamais,Paludisme chronique,Dépression sévère,1,0,1,Modéré
+879,879,>1 fois/mois,Autre,Aucun,2,0,1,Nul
+880,880,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+881,881,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+882,882,1 fois/an,Aucune,Aucun,0,0,1,Faible
+883,883,>1 fois/mois,Autre,Aucun,0,0,1,Faible
+884,884,1 fois/an,Aucune,Dépression légère,2,0,0,Faible
+885,885,1 fois/mois,Aucune,Anxiété légère,0,0,0,Modéré
+886,886,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Nul
+887,887,1 fois/an,Autre,Anxiété sévère,0,0,0,Nul
+888,888,1 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Modéré
+889,889,2-3 fois/an,Aucune,Dépression légère,0,0,0,Nul
+890,890,1 fois/an,Aucune,Dépression légère,1,0,0,Faible
+891,891,1 fois/mois,Asthme,Anxiété sévère,1,0,1,Élevé
+892,892,1 fois/mois,Autre,Aucun,0,0,1,Modéré
+893,893,2-3 fois/an,Drépanocytose,Aucun,0,0,0,Modéré
+894,894,>1 fois/mois,Asthme,Anxiété légère,1,0,1,Faible
+895,895,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+896,896,1 fois/an,Autre,Anxiété sévère,1,0,0,Modéré
+897,897,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+898,898,1 fois/mois,Paludisme chronique,Aucun,0,0,0,Modéré
+899,899,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+900,900,1 fois/mois,Paludisme chronique,Aucun,3,0,1,Faible
+901,901,1 fois/mois,Aucune,Aucun,1,0,1,Nul
+902,902,Jamais,Aucune,Aucun,0,0,0,Nul
+903,903,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+904,904,1 fois/an,Paludisme chronique,Stress post-traumatique,0,0,0,Nul
+905,905,1 fois/mois,Asthme,Aucun,0,0,1,Élevé
+906,906,1 fois/an,Paludisme chronique,Aucun,1,0,0,Faible
+907,907,Jamais,Aucune,Aucun,0,0,0,Nul
+908,908,2-3 fois/an,Aucune,Anxiété légère,3,0,0,Faible
+909,909,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+910,910,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+911,911,1 fois/an,Aucune,Aucun,0,0,1,Nul
+912,912,Jamais,Diabète,Anxiété sévère,0,0,1,Élevé
+913,913,1 fois/an,Aucune,Aucun,1,0,0,Nul
+914,914,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+915,915,1 fois/an,Aucune,Aucun,0,0,0,Faible
+916,916,1 fois/an,Asthme,Dépression légère,0,0,1,Modéré
+917,917,2-3 fois/an,Paludisme chronique,Aucun,1,0,0,Élevé
+918,918,1 fois/an,Aucune,Stress post-traumatique,1,0,0,Nul
+919,919,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Modéré
+920,920,>1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+921,921,1 fois/an,Autre,Aucun,0,0,0,Modéré
+922,922,1 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+923,923,1 fois/mois,Aucune,Aucun,1,0,0,Élevé
+924,924,Jamais,Aucune,Dépression sévère,0,0,0,Nul
+925,925,2-3 fois/an,Drépanocytose,Anxiété légère,0,0,1,Nul
+926,926,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+927,927,1 fois/an,Aucune,Aucun,0,0,1,Faible
+928,928,1 fois/mois,Aucune,Stress post-traumatique,2,0,0,Faible
+929,929,2-3 fois/an,Drépanocytose,Dépression légère,0,0,0,Faible
+930,930,1 fois/an,Autre,Aucun,0,0,1,Nul
+931,931,2-3 fois/an,Hypertension,Anxiété sévère,0,0,0,Élevé
+932,932,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+933,933,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+934,934,Jamais,Asthme,Dépression légère,0,0,0,Modéré
+935,935,1 fois/an,Hypertension,Anxiété sévère,0,0,1,Faible
+936,936,2-3 fois/an,Autre,Anxiété sévère,0,0,1,Élevé
+937,937,Jamais,Aucune,Aucun,0,0,0,Nul
+938,938,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Élevé
+939,939,Jamais,Aucune,Anxiété légère,0,0,1,Modéré
+940,940,Jamais,Paludisme chronique,Dépression légère,0,0,0,Faible
+941,941,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+942,942,1 fois/an,Autre,Dépression légère,0,0,1,Nul
+943,943,>1 fois/mois,Aucune,Aucun,0,0,0,Faible
+944,944,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+945,945,1 fois/an,Aucune,Aucun,0,0,1,Nul
+946,946,1 fois/an,Hypertension,Aucun,2,0,0,Faible
+947,947,Jamais,Aucune,Dépression légère,2,0,0,Modéré
+948,948,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+949,949,2-3 fois/an,Diabète,Stress post-traumatique,2,0,0,Élevé
+950,950,>1 fois/mois,Asthme,Aucun,0,0,0,Modéré
+951,951,1 fois/an,Aucune,Dépression légère,0,0,1,Nul
+952,952,1 fois/an,Aucune,Anxiété sévère,2,0,0,Nul
+953,953,1 fois/mois,Paludisme chronique,Stress post-traumatique,0,0,1,Modéré
+954,954,1 fois/an,Hypertension,Anxiété légère,0,0,0,Élevé
+955,955,Jamais,Aucune,Aucun,0,0,0,Nul
+956,956,1 fois/mois,Aucune,Dépression légère,2,0,0,Élevé
+957,957,Jamais,Aucune,Anxiété sévère,1,0,0,Modéré
+958,958,2-3 fois/an,Diabète,Aucun,0,0,0,Nul
+959,959,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+960,960,1 fois/an,Aucune,Anxiété légère,1,0,0,Faible
+961,961,1 fois/mois,Autre,Aucun,1,0,0,Faible
+962,962,>1 fois/mois,Paludisme chronique,Dépression sévère,0,0,0,Modéré
+963,963,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Nul
+964,964,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+965,965,1 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+966,966,2-3 fois/an,Paludisme chronique,Anxiété légère,0,1,1,Modéré
+967,967,1 fois/mois,Aucune,Anxiété légère,0,0,0,Faible
+968,968,1 fois/mois,Paludisme chronique,Aucun,1,0,0,Faible
+969,969,2-3 fois/an,Asthme,Anxiété légère,0,0,0,Modéré
+970,970,Jamais,Aucune,Dépression légère,0,0,1,Nul
+971,971,2-3 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Faible
+972,972,2-3 fois/an,Autre,Anxiété sévère,0,0,0,Faible
+973,973,1 fois/mois,Autre,Aucun,0,0,1,Nul
+974,974,>1 fois/mois,Aucune,Anxiété sévère,0,0,0,Nul
+975,975,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+976,976,Jamais,Drépanocytose,Dépression sévère,0,0,1,Faible
+977,977,1 fois/an,Paludisme chronique,Dépression légère,1,0,0,Modéré
+978,978,2-3 fois/an,Aucune,Aucun,1,0,0,Modéré
+979,979,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+980,980,Jamais,Aucune,Anxiété sévère,0,0,0,Faible
+981,981,Jamais,Aucune,Dépression légère,0,0,0,Nul
+982,982,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+983,983,2-3 fois/an,Drépanocytose,Aucun,0,0,1,Nul
+984,984,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+985,985,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+986,986,>1 fois/mois,Aucune,Aucun,0,0,1,Élevé
+987,987,1 fois/mois,Aucune,Aucun,1,0,0,Modéré
+988,988,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+989,989,1 fois/mois,Aucune,Dépression légère,2,0,0,Modéré
+990,990,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+991,991,1 fois/an,Aucune,Aucun,2,0,0,Faible
+992,992,1 fois/an,Aucune,Anxiété légère,2,0,1,Élevé
+993,993,Jamais,Autre,Anxiété légère,0,0,0,Faible
+994,994,1 fois/mois,Hypertension,Dépression sévère,0,0,0,Faible
+995,995,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+996,996,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+997,997,1 fois/an,Aucune,Aucun,0,0,1,Faible
+998,998,2-3 fois/an,Autre,Anxiété légère,0,0,0,Faible
+999,999,Jamais,Aucune,Dépression légère,1,0,0,Faible
+1000,1000,1 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+1001,1001,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1002,1002,1 fois/mois,Autre,Aucun,0,0,0,Faible
+1003,1003,>1 fois/mois,Paludisme chronique,Dépression sévère,1,0,0,Élevé
+1004,1004,1 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1005,1005,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1006,1006,1 fois/an,Hypertension,Aucun,0,0,1,Élevé
+1007,1007,2-3 fois/an,Hypertension,Aucun,0,0,1,Élevé
+1008,1008,2-3 fois/an,Aucune,Stress post-traumatique,0,0,0,Élevé
+1009,1009,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1010,1010,1 fois/mois,Paludisme chronique,Aucun,0,0,0,Faible
+1011,1011,Jamais,Aucune,Anxiété sévère,0,0,0,Modéré
+1012,1012,1 fois/an,Aucune,Anxiété légère,1,0,1,Élevé
+1013,1013,1 fois/an,Drépanocytose,Aucun,0,0,0,Élevé
+1014,1014,2-3 fois/an,Asthme,Dépression sévère,0,0,0,Faible
+1015,1015,1 fois/an,Diabète,Aucun,1,0,1,Faible
+1016,1016,Jamais,Drépanocytose,Anxiété sévère,2,0,0,Nul
+1017,1017,Jamais,Diabète,Anxiété sévère,0,0,0,Faible
+1018,1018,2-3 fois/an,Drépanocytose,Anxiété légère,0,0,0,Nul
+1019,1019,>1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1020,1020,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1021,1021,2-3 fois/an,Hypertension,Aucun,3,0,0,Faible
+1022,1022,2-3 fois/an,Paludisme chronique,Anxiété légère,1,0,0,Modéré
+1023,1023,1 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+1024,1024,2-3 fois/an,Diabète,Aucun,0,0,1,Faible
+1025,1025,2-3 fois/an,Paludisme chronique,Anxiété légère,1,0,0,Nul
+1026,1026,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+1027,1027,1 fois/mois,Asthme,Anxiété légère,0,0,1,Faible
+1028,1028,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1029,1029,Jamais,Asthme,Anxiété sévère,0,0,1,Modéré
+1030,1030,1 fois/an,Aucune,Anxiété légère,0,1,1,Modéré
+1031,1031,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1032,1032,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+1033,1033,1 fois/mois,Hypertension,Anxiété légère,1,0,0,Nul
+1034,1034,1 fois/an,Asthme,Aucun,0,0,0,Modéré
+1035,1035,Jamais,Autre,Aucun,2,0,0,Faible
+1036,1036,Jamais,Paludisme chronique,Aucun,1,0,0,Faible
+1037,1037,1 fois/an,Drépanocytose,Aucun,2,0,0,Faible
+1038,1038,1 fois/an,Aucune,Stress post-traumatique,1,0,1,Faible
+1039,1039,Jamais,Aucune,Aucun,0,0,0,Modéré
+1040,1040,1 fois/mois,Autre,Dépression sévère,1,0,0,Faible
+1041,1041,1 fois/mois,Aucune,Anxiété sévère,1,0,0,Élevé
+1042,1042,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1043,1043,1 fois/mois,Autre,Anxiété légère,0,0,0,Modéré
+1044,1044,Jamais,Autre,Aucun,2,0,0,Élevé
+1045,1045,1 fois/mois,Diabète,Aucun,1,1,0,Faible
+1046,1046,2-3 fois/an,Asthme,Aucun,0,0,1,Faible
+1047,1047,Jamais,Diabète,Dépression légère,1,0,1,Faible
+1048,1048,1 fois/mois,Aucune,Aucun,1,0,0,Faible
+1049,1049,2-3 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Modéré
+1050,1050,Jamais,Diabète,Anxiété sévère,1,0,1,Faible
+1051,1051,Jamais,Aucune,Dépression légère,2,0,1,Nul
+1052,1052,1 fois/an,Paludisme chronique,Anxiété sévère,1,0,0,Faible
+1053,1053,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+1054,1054,1 fois/an,Aucune,Aucun,2,0,1,Nul
+1055,1055,2-3 fois/an,Aucune,Anxiété sévère,1,0,0,Nul
+1056,1056,Jamais,Paludisme chronique,Aucun,0,0,1,Nul
+1057,1057,Jamais,Aucune,Aucun,0,0,0,Nul
+1058,1058,2-3 fois/an,Diabète,Aucun,0,0,0,Nul
+1059,1059,Jamais,Paludisme chronique,Anxiété sévère,0,0,1,Faible
+1060,1060,Jamais,Drépanocytose,Dépression légère,0,0,1,Modéré
+1061,1061,1 fois/an,Aucune,Dépression sévère,0,0,1,Nul
+1062,1062,1 fois/an,Aucune,Dépression sévère,0,0,1,Modéré
+1063,1063,2-3 fois/an,Drépanocytose,Aucun,0,0,1,Élevé
+1064,1064,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+1065,1065,Jamais,Aucune,Aucun,0,0,0,Faible
+1066,1066,1 fois/an,Aucune,Aucun,1,0,1,Élevé
+1067,1067,>1 fois/mois,Hypertension,Dépression sévère,0,0,0,Faible
+1068,1068,1 fois/an,Aucune,Aucun,2,0,0,Élevé
+1069,1069,1 fois/an,Aucune,Aucun,0,0,1,Faible
+1070,1070,2-3 fois/an,Aucune,Aucun,1,0,0,Nul
+1071,1071,Jamais,Aucune,Anxiété sévère,3,0,0,Faible
+1072,1072,Jamais,Autre,Dépression sévère,1,0,0,Élevé
+1073,1073,2-3 fois/an,Autre,Anxiété sévère,1,0,1,Faible
+1074,1074,>1 fois/mois,Drépanocytose,Anxiété sévère,1,0,1,Modéré
+1075,1075,1 fois/an,Aucune,Aucun,3,0,0,Modéré
+1076,1076,2-3 fois/an,Asthme,Aucun,0,0,0,Élevé
+1077,1077,Jamais,Aucune,Dépression légère,0,0,1,Faible
+1078,1078,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+1079,1079,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Nul
+1080,1080,>1 fois/mois,Aucune,Anxiété légère,0,0,1,Nul
+1081,1081,Jamais,Aucune,Aucun,1,0,1,Élevé
+1082,1082,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+1083,1083,Jamais,Aucune,Aucun,0,0,1,Nul
+1084,1084,1 fois/an,Autre,Aucun,0,0,1,Nul
+1085,1085,2-3 fois/an,Paludisme chronique,Anxiété sévère,0,0,1,Nul
+1086,1086,>1 fois/mois,Asthme,Aucun,0,0,0,Faible
+1087,1087,Jamais,Diabète,Dépression sévère,1,0,0,Faible
+1088,1088,Jamais,Aucune,Dépression légère,0,0,0,Nul
+1089,1089,2-3 fois/an,Diabète,Anxiété sévère,0,0,0,Nul
+1090,1090,Jamais,Aucune,Stress post-traumatique,0,0,1,Modéré
+1091,1091,1 fois/mois,Asthme,Dépression sévère,0,0,0,Élevé
+1092,1092,Jamais,Aucune,Aucun,0,0,0,Nul
+1093,1093,Jamais,Aucune,Aucun,0,0,0,Faible
+1094,1094,1 fois/an,Hypertension,Aucun,0,0,0,Élevé
+1095,1095,Jamais,Asthme,Anxiété légère,0,0,0,Faible
+1096,1096,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+1097,1097,Jamais,Aucune,Anxiété sévère,0,0,0,Faible
+1098,1098,1 fois/an,Aucune,Dépression sévère,0,0,0,Élevé
+1099,1099,Jamais,Aucune,Dépression sévère,0,0,1,Modéré
+1100,1100,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Nul
+1101,1101,Jamais,Diabète,Aucun,1,0,1,Élevé
+1102,1102,2-3 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+1103,1103,1 fois/an,Aucune,Aucun,2,0,0,Nul
+1104,1104,1 fois/an,Hypertension,Aucun,0,0,0,Élevé
+1105,1105,1 fois/mois,Aucune,Aucun,0,0,0,Élevé
+1106,1106,2-3 fois/an,Hypertension,Anxiété légère,1,0,0,Faible
+1107,1107,>1 fois/mois,Aucune,Stress post-traumatique,0,0,0,Modéré
+1108,1108,1 fois/mois,Aucune,Aucun,1,0,1,Nul
+1109,1109,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+1110,1110,Jamais,Aucune,Anxiété légère,0,0,0,Élevé
+1111,1111,2-3 fois/an,Aucune,Dépression légère,2,0,1,Nul
+1112,1112,>1 fois/mois,Asthme,Aucun,3,0,1,Élevé
+1113,1113,Jamais,Aucune,Stress post-traumatique,0,0,0,Nul
+1114,1114,1 fois/mois,Hypertension,Aucun,0,0,1,Nul
+1115,1115,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1116,1116,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Faible
+1117,1117,1 fois/an,Drépanocytose,Aucun,0,0,0,Élevé
+1118,1118,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1119,1119,1 fois/an,Aucune,Anxiété légère,2,0,1,Faible
+1120,1120,2-3 fois/an,Aucune,Stress post-traumatique,0,0,1,Faible
+1121,1121,>1 fois/mois,Autre,Aucun,0,0,0,Modéré
+1122,1122,1 fois/an,Aucune,Dépression légère,2,1,0,Nul
+1123,1123,1 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Modéré
+1124,1124,2-3 fois/an,Aucune,Stress post-traumatique,2,0,0,Faible
+1125,1125,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+1126,1126,1 fois/mois,Paludisme chronique,Dépression légère,0,0,0,Élevé
+1127,1127,1 fois/an,Autre,Aucun,0,0,0,Faible
+1128,1128,2-3 fois/an,Autre,Aucun,0,0,0,Faible
+1129,1129,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1130,1130,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,1,Nul
+1131,1131,Jamais,Aucune,Aucun,1,0,0,Élevé
+1132,1132,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Modéré
+1133,1133,2-3 fois/an,Diabète,Aucun,0,0,1,Faible
+1134,1134,1 fois/mois,Aucune,Anxiété légère,1,0,0,Élevé
+1135,1135,Jamais,Aucune,Anxiété sévère,2,0,1,Faible
+1136,1136,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1137,1137,1 fois/mois,Drépanocytose,Aucun,2,0,0,Nul
+1138,1138,2-3 fois/an,Drépanocytose,Aucun,0,0,0,Modéré
+1139,1139,1 fois/an,Diabète,Aucun,1,0,0,Élevé
+1140,1140,Jamais,Asthme,Dépression légère,0,0,1,Faible
+1141,1141,Jamais,Hypertension,Aucun,1,0,0,Nul
+1142,1142,2-3 fois/an,Paludisme chronique,Dépression légère,0,0,0,Élevé
+1143,1143,1 fois/an,Aucune,Anxiété légère,1,0,1,Faible
+1144,1144,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+1145,1145,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+1146,1146,Jamais,Aucune,Anxiété légère,0,0,0,Élevé
+1147,1147,2-3 fois/an,Paludisme chronique,Aucun,2,0,0,Nul
+1148,1148,Jamais,Aucune,Dépression sévère,0,0,0,Nul
+1149,1149,Jamais,Aucune,Dépression légère,0,0,0,Nul
+1150,1150,2-3 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1151,1151,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1152,1152,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1153,1153,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1154,1154,2-3 fois/an,Aucune,Aucun,1,0,0,Modéré
+1155,1155,Jamais,Aucune,Anxiété sévère,1,0,1,Modéré
+1156,1156,1 fois/an,Aucune,Aucun,0,0,1,Faible
+1157,1157,1 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+1158,1158,1 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1159,1159,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Faible
+1160,1160,2-3 fois/an,Aucune,Aucun,1,0,0,Nul
+1161,1161,2-3 fois/an,Aucune,Dépression légère,3,0,0,Nul
+1162,1162,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+1163,1163,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1164,1164,2-3 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+1165,1165,2-3 fois/an,Aucune,Aucun,2,0,0,Faible
+1166,1166,1 fois/mois,Autre,Anxiété légère,0,0,1,Faible
+1167,1167,1 fois/an,Hypertension,Aucun,2,0,1,Faible
+1168,1168,2-3 fois/an,Autre,Anxiété sévère,0,0,0,Faible
+1169,1169,1 fois/an,Aucune,Anxiété légère,1,0,1,Faible
+1170,1170,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Nul
+1171,1171,2-3 fois/an,Aucune,Dépression légère,0,0,1,Modéré
+1172,1172,1 fois/mois,Paludisme chronique,Dépression sévère,0,0,1,Faible
+1173,1173,Jamais,Aucune,Dépression sévère,0,0,1,Nul
+1174,1174,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+1175,1175,2-3 fois/an,Asthme,Aucun,0,0,1,Faible
+1176,1176,1 fois/mois,Paludisme chronique,Aucun,2,0,1,Faible
+1177,1177,2-3 fois/an,Diabète,Aucun,0,0,0,Nul
+1178,1178,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+1179,1179,2-3 fois/an,Aucune,Anxiété sévère,2,0,0,Élevé
+1180,1180,1 fois/mois,Asthme,Dépression légère,0,0,1,Modéré
+1181,1181,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1182,1182,1 fois/an,Aucune,Stress post-traumatique,2,0,0,Faible
+1183,1183,1 fois/an,Drépanocytose,Aucun,0,0,1,Faible
+1184,1184,1 fois/an,Aucune,Aucun,1,0,0,Nul
+1185,1185,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+1186,1186,Jamais,Paludisme chronique,Anxiété sévère,1,0,0,Modéré
+1187,1187,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1188,1188,Jamais,Aucune,Aucun,0,0,1,Nul
+1189,1189,2-3 fois/an,Asthme,Dépression sévère,2,0,0,Élevé
+1190,1190,Jamais,Aucune,Anxiété sévère,0,0,0,Nul
+1191,1191,1 fois/mois,Hypertension,Dépression légère,0,0,0,Modéré
+1192,1192,Jamais,Hypertension,Anxiété sévère,0,0,0,Nul
+1193,1193,Jamais,Aucune,Aucun,0,0,1,Nul
+1194,1194,2-3 fois/an,Asthme,Aucun,1,0,0,Nul
+1195,1195,Jamais,Aucune,Dépression légère,0,0,0,Élevé
+1196,1196,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1197,1197,1 fois/an,Drépanocytose,Anxiété légère,1,0,0,Nul
+1198,1198,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1199,1199,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Faible
+1200,1200,>1 fois/mois,Aucune,Aucun,0,0,0,Nul
+1201,1201,2-3 fois/an,Asthme,Aucun,0,0,0,Nul
+1202,1202,2-3 fois/an,Autre,Aucun,0,0,1,Faible
+1203,1203,1 fois/an,Autre,Aucun,0,0,0,Modéré
+1204,1204,Jamais,Aucune,Aucun,0,0,0,Faible
+1205,1205,2-3 fois/an,Aucune,Anxiété sévère,1,0,1,Nul
+1206,1206,>1 fois/mois,Aucune,Aucun,0,0,0,Faible
+1207,1207,2-3 fois/an,Autre,Dépression sévère,0,0,1,Faible
+1208,1208,2-3 fois/an,Aucune,Aucun,1,0,0,Modéré
+1209,1209,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1210,1210,1 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1211,1211,1 fois/mois,Asthme,Dépression légère,1,0,1,Nul
+1212,1212,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+1213,1213,1 fois/an,Autre,Aucun,0,0,1,Nul
+1214,1214,2-3 fois/an,Aucune,Aucun,2,0,1,Modéré
+1215,1215,>1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1216,1216,1 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+1217,1217,Jamais,Diabète,Aucun,0,0,0,Élevé
+1218,1218,1 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Faible
+1219,1219,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Nul
+1220,1220,Jamais,Hypertension,Stress post-traumatique,3,0,0,Nul
+1221,1221,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+1222,1222,2-3 fois/an,Aucune,Aucun,1,0,1,Nul
+1223,1223,1 fois/an,Aucune,Aucun,2,0,0,Faible
+1224,1224,1 fois/an,Aucune,Anxiété sévère,1,0,0,Modéré
+1225,1225,1 fois/an,Aucune,Aucun,1,0,0,Modéré
+1226,1226,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+1227,1227,Jamais,Paludisme chronique,Aucun,0,0,1,Élevé
+1228,1228,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Élevé
+1229,1229,2-3 fois/an,Drépanocytose,Anxiété légère,1,0,1,Faible
+1230,1230,1 fois/an,Aucune,Aucun,0,0,1,Faible
+1231,1231,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1232,1232,>1 fois/mois,Diabète,Stress post-traumatique,1,0,1,Faible
+1233,1233,1 fois/mois,Aucune,Dépression sévère,3,0,0,Élevé
+1234,1234,1 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+1235,1235,1 fois/an,Aucune,Anxiété sévère,1,0,0,Faible
+1236,1236,Jamais,Aucune,Dépression légère,0,0,0,Élevé
+1237,1237,>1 fois/mois,Aucune,Anxiété sévère,0,0,0,Modéré
+1238,1238,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Nul
+1239,1239,1 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1240,1240,1 fois/an,Asthme,Anxiété légère,0,0,0,Faible
+1241,1241,Jamais,Aucune,Anxiété sévère,0,0,1,Élevé
+1242,1242,>1 fois/mois,Aucune,Aucun,1,0,1,Élevé
+1243,1243,1 fois/an,Paludisme chronique,Aucun,0,0,0,Modéré
+1244,1244,Jamais,Aucune,Aucun,0,0,0,Faible
+1245,1245,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1246,1246,1 fois/mois,Paludisme chronique,Stress post-traumatique,0,0,0,Modéré
+1247,1247,Jamais,Drépanocytose,Stress post-traumatique,0,0,0,Faible
+1248,1248,2-3 fois/an,Diabète,Anxiété légère,0,0,1,Nul
+1249,1249,1 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1250,1250,2-3 fois/an,Hypertension,Aucun,1,0,0,Élevé
+1251,1251,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Élevé
+1252,1252,Jamais,Aucune,Anxiété légère,0,0,0,Modéré
+1253,1253,Jamais,Paludisme chronique,Anxiété légère,1,0,1,Faible
+1254,1254,2-3 fois/an,Asthme,Anxiété légère,0,0,0,Nul
+1255,1255,Jamais,Asthme,Dépression légère,2,0,0,Nul
+1256,1256,Jamais,Paludisme chronique,Dépression sévère,0,0,0,Modéré
+1257,1257,1 fois/an,Paludisme chronique,Stress post-traumatique,0,0,0,Élevé
+1258,1258,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+1259,1259,1 fois/mois,Drépanocytose,Dépression sévère,0,0,0,Modéré
+1260,1260,2-3 fois/an,Aucune,Dépression légère,0,0,1,Faible
+1261,1261,1 fois/an,Drépanocytose,Aucun,1,0,0,Faible
+1262,1262,Jamais,Aucune,Aucun,0,0,0,Faible
+1263,1263,Jamais,Drépanocytose,Anxiété légère,0,0,0,Nul
+1264,1264,2-3 fois/an,Paludisme chronique,Stress post-traumatique,0,0,0,Nul
+1265,1265,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1266,1266,Jamais,Drépanocytose,Aucun,3,0,1,Élevé
+1267,1267,2-3 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1268,1268,Jamais,Paludisme chronique,Aucun,0,0,0,Nul
+1269,1269,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+1270,1270,1 fois/an,Diabète,Aucun,1,0,1,Nul
+1271,1271,Jamais,Aucune,Aucun,0,0,0,Faible
+1272,1272,1 fois/an,Hypertension,Anxiété légère,0,0,0,Modéré
+1273,1273,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+1274,1274,Jamais,Drépanocytose,Dépression légère,0,0,0,Nul
+1275,1275,>1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+1276,1276,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+1277,1277,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+1278,1278,1 fois/an,Drépanocytose,Stress post-traumatique,0,0,0,Modéré
+1279,1279,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+1280,1280,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1281,1281,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+1282,1282,2-3 fois/an,Diabète,Stress post-traumatique,0,0,0,Modéré
+1283,1283,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1284,1284,1 fois/mois,Autre,Aucun,1,0,0,Nul
+1285,1285,Jamais,Aucune,Aucun,0,0,0,Élevé
+1286,1286,1 fois/an,Hypertension,Aucun,0,0,0,Nul
+1287,1287,1 fois/an,Diabète,Dépression sévère,0,0,1,Nul
+1288,1288,Jamais,Aucune,Dépression sévère,0,1,0,Nul
+1289,1289,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Nul
+1290,1290,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Nul
+1291,1291,1 fois/an,Asthme,Anxiété légère,1,0,1,Nul
+1292,1292,1 fois/an,Aucune,Dépression sévère,3,0,1,Nul
+1293,1293,1 fois/mois,Aucune,Anxiété légère,0,0,1,Nul
+1294,1294,2-3 fois/an,Paludisme chronique,Anxiété légère,2,0,0,Modéré
+1295,1295,1 fois/an,Diabète,Anxiété légère,0,0,0,Faible
+1296,1296,Jamais,Paludisme chronique,Dépression légère,0,0,0,Faible
+1297,1297,1 fois/mois,Asthme,Aucun,0,0,0,Faible
+1298,1298,2-3 fois/an,Paludisme chronique,Stress post-traumatique,0,0,0,Faible
+1299,1299,2-3 fois/an,Aucune,Anxiété sévère,2,0,0,Modéré
+1300,1300,1 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1301,1301,Jamais,Aucune,Anxiété légère,1,0,0,Élevé
+1302,1302,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+1303,1303,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1304,1304,Jamais,Aucune,Aucun,0,0,0,Modéré
+1305,1305,2-3 fois/an,Aucune,Aucun,2,0,1,Élevé
+1306,1306,2-3 fois/an,Aucune,Dépression légère,2,0,0,Nul
+1307,1307,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Modéré
+1308,1308,1 fois/an,Asthme,Anxiété sévère,0,0,0,Modéré
+1309,1309,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1310,1310,1 fois/an,Autre,Dépression légère,0,0,0,Faible
+1311,1311,Jamais,Aucune,Dépression légère,0,0,0,Modéré
+1312,1312,Jamais,Aucune,Anxiété sévère,2,0,0,Nul
+1313,1313,1 fois/an,Aucune,Anxiété légère,0,0,1,Élevé
+1314,1314,Jamais,Paludisme chronique,Aucun,1,0,0,Faible
+1315,1315,Jamais,Hypertension,Anxiété légère,1,0,0,Modéré
+1316,1316,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1317,1317,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+1318,1318,Jamais,Aucune,Aucun,0,0,1,Nul
+1319,1319,1 fois/mois,Paludisme chronique,Anxiété légère,0,0,1,Nul
+1320,1320,1 fois/an,Paludisme chronique,Dépression légère,0,0,1,Modéré
+1321,1321,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Nul
+1322,1322,Jamais,Aucune,Anxiété sévère,3,0,0,Modéré
+1323,1323,2-3 fois/an,Hypertension,Dépression sévère,0,0,0,Modéré
+1324,1324,>1 fois/mois,Aucune,Dépression légère,0,0,0,Nul
+1325,1325,1 fois/mois,Aucune,Aucun,0,0,1,Nul
+1326,1326,2-3 fois/an,Diabète,Anxiété sévère,2,0,0,Élevé
+1327,1327,2-3 fois/an,Aucune,Stress post-traumatique,3,0,0,Nul
+1328,1328,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1329,1329,2-3 fois/an,Aucune,Stress post-traumatique,0,0,1,Élevé
+1330,1330,Jamais,Aucune,Dépression sévère,2,0,1,Faible
+1331,1331,Jamais,Aucune,Stress post-traumatique,0,0,0,Élevé
+1332,1332,1 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1333,1333,2-3 fois/an,Autre,Aucun,1,0,1,Nul
+1334,1334,Jamais,Aucune,Aucun,1,0,0,Faible
+1335,1335,Jamais,Aucune,Dépression légère,0,0,0,Modéré
+1336,1336,Jamais,Asthme,Anxiété sévère,0,0,0,Faible
+1337,1337,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+1338,1338,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1339,1339,Jamais,Aucune,Anxiété légère,0,0,0,Nul
+1340,1340,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+1341,1341,2-3 fois/an,Diabète,Aucun,1,0,0,Faible
+1342,1342,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1343,1343,Jamais,Hypertension,Aucun,0,0,1,Modéré
+1344,1344,1 fois/mois,Paludisme chronique,Aucun,3,0,0,Élevé
+1345,1345,Jamais,Aucune,Dépression sévère,1,0,1,Modéré
+1346,1346,Jamais,Drépanocytose,Dépression légère,0,0,1,Modéré
+1347,1347,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+1348,1348,Jamais,Paludisme chronique,Dépression sévère,0,0,0,Faible
+1349,1349,>1 fois/mois,Aucune,Dépression légère,0,0,0,Nul
+1350,1350,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+1351,1351,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1352,1352,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1353,1353,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1354,1354,Jamais,Aucune,Dépression légère,1,0,0,Élevé
+1355,1355,Jamais,Aucune,Aucun,0,0,1,Modéré
+1356,1356,>1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1357,1357,Jamais,Aucune,Aucun,0,0,0,Modéré
+1358,1358,Jamais,Drépanocytose,Anxiété légère,0,0,1,Faible
+1359,1359,1 fois/an,Aucune,Aucun,3,0,0,Faible
+1360,1360,1 fois/an,Aucune,Anxiété sévère,0,0,1,Élevé
+1361,1361,2-3 fois/an,Hypertension,Aucun,0,0,1,Nul
+1362,1362,Jamais,Aucune,Dépression légère,0,0,0,Élevé
+1363,1363,1 fois/an,Hypertension,Aucun,0,0,0,Nul
+1364,1364,1 fois/an,Asthme,Aucun,1,0,0,Modéré
+1365,1365,Jamais,Asthme,Dépression légère,0,0,1,Modéré
+1366,1366,Jamais,Hypertension,Anxiété sévère,0,0,1,Modéré
+1367,1367,Jamais,Autre,Aucun,0,0,1,Nul
+1368,1368,1 fois/an,Aucune,Anxiété sévère,1,0,0,Faible
+1369,1369,1 fois/an,Hypertension,Anxiété légère,0,0,1,Élevé
+1370,1370,Jamais,Aucune,Aucun,0,0,0,Faible
+1371,1371,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+1372,1372,1 fois/an,Aucune,Stress post-traumatique,0,0,1,Faible
+1373,1373,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1374,1374,1 fois/an,Asthme,Aucun,1,0,0,Modéré
+1375,1375,2-3 fois/an,Aucune,Dépression légère,0,0,0,Nul
+1376,1376,1 fois/an,Diabète,Anxiété légère,0,0,0,Faible
+1377,1377,2-3 fois/an,Hypertension,Anxiété sévère,0,0,0,Élevé
+1378,1378,Jamais,Aucune,Aucun,0,0,1,Modéré
+1379,1379,1 fois/mois,Asthme,Aucun,0,0,0,Faible
+1380,1380,2-3 fois/an,Aucune,Dépression légère,1,0,0,Faible
+1381,1381,1 fois/an,Drépanocytose,Anxiété légère,1,1,1,Nul
+1382,1382,Jamais,Autre,Aucun,0,0,0,Nul
+1383,1383,Jamais,Aucune,Aucun,2,0,1,Élevé
+1384,1384,1 fois/an,Aucune,Aucun,1,1,0,Faible
+1385,1385,2-3 fois/an,Asthme,Anxiété légère,1,0,1,Faible
+1386,1386,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1387,1387,1 fois/an,Asthme,Aucun,1,0,0,Faible
+1388,1388,1 fois/an,Aucune,Aucun,0,0,1,Faible
+1389,1389,1 fois/mois,Aucune,Aucun,0,0,0,Nul
+1390,1390,1 fois/an,Aucune,Dépression sévère,1,0,0,Modéré
+1391,1391,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,1,Nul
+1392,1392,2-3 fois/an,Drépanocytose,Aucun,0,0,0,Nul
+1393,1393,1 fois/an,Drépanocytose,Anxiété sévère,1,0,0,Modéré
+1394,1394,2-3 fois/an,Asthme,Aucun,0,0,0,Faible
+1395,1395,Jamais,Aucune,Aucun,0,0,0,Faible
+1396,1396,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Faible
+1397,1397,1 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+1398,1398,1 fois/an,Paludisme chronique,Anxiété légère,1,0,1,Nul
+1399,1399,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+1400,1400,1 fois/an,Asthme,Anxiété sévère,2,0,0,Faible
+1401,1401,2-3 fois/an,Hypertension,Aucun,0,0,0,Modéré
+1402,1402,>1 fois/mois,Paludisme chronique,Anxiété légère,0,0,0,Nul
+1403,1403,Jamais,Autre,Anxiété légère,0,0,0,Nul
+1404,1404,1 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+1405,1405,1 fois/an,Autre,Aucun,0,0,1,Nul
+1406,1406,2-3 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+1407,1407,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+1408,1408,Jamais,Aucune,Aucun,0,0,0,Modéré
+1409,1409,Jamais,Paludisme chronique,Aucun,0,0,1,Nul
+1410,1410,1 fois/an,Aucune,Anxiété sévère,3,0,1,Nul
+1411,1411,1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1412,1412,>1 fois/mois,Aucune,Dépression légère,0,0,0,Nul
+1413,1413,Jamais,Diabète,Anxiété légère,0,0,0,Modéré
+1414,1414,2-3 fois/an,Asthme,Dépression sévère,0,0,0,Nul
+1415,1415,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Élevé
+1416,1416,Jamais,Autre,Dépression légère,0,0,0,Modéré
+1417,1417,1 fois/an,Autre,Anxiété sévère,0,0,0,Faible
+1418,1418,>1 fois/mois,Asthme,Anxiété sévère,0,0,0,Faible
+1419,1419,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Faible
+1420,1420,Jamais,Asthme,Anxiété sévère,0,0,0,Élevé
+1421,1421,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Modéré
+1422,1422,2-3 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+1423,1423,Jamais,Paludisme chronique,Dépression légère,0,0,0,Faible
+1424,1424,1 fois/an,Aucune,Aucun,1,0,0,Faible
+1425,1425,1 fois/an,Asthme,Anxiété légère,1,0,0,Nul
+1426,1426,1 fois/an,Aucune,Aucun,2,0,0,Nul
+1427,1427,2-3 fois/an,Autre,Anxiété légère,0,0,0,Nul
+1428,1428,2-3 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Nul
+1429,1429,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1430,1430,2-3 fois/an,Aucune,Anxiété sévère,1,0,1,Nul
+1431,1431,>1 fois/mois,Aucune,Aucun,0,0,1,Nul
+1432,1432,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Élevé
+1433,1433,2-3 fois/an,Asthme,Anxiété légère,1,1,0,Nul
+1434,1434,>1 fois/mois,Autre,Dépression légère,0,0,0,Faible
+1435,1435,2-3 fois/an,Hypertension,Aucun,0,0,1,Faible
+1436,1436,>1 fois/mois,Asthme,Aucun,0,0,1,Faible
+1437,1437,>1 fois/mois,Paludisme chronique,Aucun,0,0,0,Nul
+1438,1438,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1439,1439,1 fois/mois,Asthme,Aucun,0,0,0,Faible
+1440,1440,1 fois/an,Autre,Aucun,0,0,0,Faible
+1441,1441,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Faible
+1442,1442,2-3 fois/an,Aucune,Aucun,0,1,1,Nul
+1443,1443,Jamais,Aucune,Aucun,0,0,0,Modéré
+1444,1444,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Modéré
+1445,1445,Jamais,Aucune,Aucun,2,0,1,Faible
+1446,1446,1 fois/an,Paludisme chronique,Anxiété légère,0,0,0,Élevé
+1447,1447,Jamais,Aucune,Aucun,1,0,1,Faible
+1448,1448,2-3 fois/an,Aucune,Dépression sévère,0,0,1,Nul
+1449,1449,2-3 fois/an,Drépanocytose,Anxiété légère,2,0,1,Nul
+1450,1450,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1451,1451,1 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1452,1452,1 fois/an,Autre,Anxiété légère,0,0,1,Nul
+1453,1453,Jamais,Aucune,Anxiété sévère,0,0,1,Modéré
+1454,1454,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+1455,1455,Jamais,Aucune,Dépression sévère,0,0,0,Faible
+1456,1456,1 fois/an,Paludisme chronique,Dépression légère,0,1,0,Nul
+1457,1457,Jamais,Aucune,Anxiété sévère,0,0,0,Nul
+1458,1458,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1459,1459,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1460,1460,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Nul
+1461,1461,1 fois/an,Aucune,Aucun,2,0,0,Nul
+1462,1462,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+1463,1463,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Nul
+1464,1464,1 fois/an,Aucune,Dépression sévère,1,0,1,Modéré
+1465,1465,1 fois/mois,Aucune,Dépression légère,2,0,1,Nul
+1466,1466,1 fois/an,Asthme,Stress post-traumatique,0,0,0,Élevé
+1467,1467,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Élevé
+1468,1468,2-3 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Élevé
+1469,1469,>1 fois/mois,Aucune,Anxiété sévère,1,0,0,Élevé
+1470,1470,Jamais,Hypertension,Dépression sévère,2,0,0,Modéré
+1471,1471,>1 fois/mois,Aucune,Dépression sévère,0,0,1,Modéré
+1472,1472,2-3 fois/an,Aucune,Aucun,1,0,0,Faible
+1473,1473,1 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+1474,1474,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1475,1475,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+1476,1476,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1477,1477,Jamais,Aucune,Anxiété légère,0,0,0,Faible
+1478,1478,1 fois/an,Aucune,Aucun,2,0,1,Nul
+1479,1479,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Faible
+1480,1480,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1481,1481,2-3 fois/an,Aucune,Aucun,0,0,0,Nul
+1482,1482,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1483,1483,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1484,1484,1 fois/mois,Autre,Anxiété légère,2,0,1,Élevé
+1485,1485,Jamais,Asthme,Stress post-traumatique,1,0,0,Nul
+1486,1486,Jamais,Paludisme chronique,Aucun,0,0,0,Modéré
+1487,1487,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+1488,1488,2-3 fois/an,Asthme,Aucun,0,0,0,Nul
+1489,1489,2-3 fois/an,Aucune,Aucun,1,0,0,Élevé
+1490,1490,2-3 fois/an,Aucune,Stress post-traumatique,2,0,0,Modéré
+1491,1491,Jamais,Aucune,Dépression légère,1,0,0,Nul
+1492,1492,Jamais,Hypertension,Dépression sévère,1,0,0,Nul
+1493,1493,Jamais,Aucune,Aucun,1,0,0,Modéré
+1494,1494,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+1495,1495,1 fois/an,Drépanocytose,Aucun,0,0,0,Faible
+1496,1496,2-3 fois/an,Autre,Anxiété légère,2,0,0,Faible
+1497,1497,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1498,1498,1 fois/an,Aucune,Anxiété légère,1,0,0,Faible
+1499,1499,Jamais,Hypertension,Aucun,0,0,0,Élevé
+1500,1500,1 fois/an,Asthme,Anxiété légère,0,0,0,Élevé
+1501,1501,1 fois/mois,Diabète,Aucun,2,0,1,Modéré
+1502,1502,Jamais,Asthme,Anxiété légère,0,0,1,Faible
+1503,1503,2-3 fois/an,Asthme,Dépression sévère,0,0,1,Modéré
+1504,1504,1 fois/an,Drépanocytose,Aucun,0,0,1,Nul
+1505,1505,1 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1506,1506,1 fois/an,Aucune,Dépression sévère,0,0,1,Nul
+1507,1507,Jamais,Aucune,Dépression légère,0,0,0,Faible
+1508,1508,Jamais,Aucune,Aucun,2,0,1,Faible
+1509,1509,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+1510,1510,1 fois/mois,Aucune,Anxiété sévère,1,1,0,Nul
+1511,1511,2-3 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Nul
+1512,1512,1 fois/mois,Aucune,Dépression légère,0,0,0,Élevé
+1513,1513,2-3 fois/an,Aucune,Dépression légère,3,0,1,Faible
+1514,1514,1 fois/an,Aucune,Anxiété sévère,1,0,0,Nul
+1515,1515,1 fois/an,Aucune,Dépression légère,1,0,0,Faible
+1516,1516,1 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1517,1517,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+1518,1518,1 fois/an,Paludisme chronique,Aucun,0,0,0,Élevé
+1519,1519,>1 fois/mois,Hypertension,Aucun,0,0,0,Faible
+1520,1520,1 fois/an,Hypertension,Anxiété sévère,0,0,1,Élevé
+1521,1521,>1 fois/mois,Paludisme chronique,Aucun,1,0,1,Modéré
+1522,1522,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1523,1523,1 fois/mois,Diabète,Aucun,0,0,1,Nul
+1524,1524,>1 fois/mois,Aucune,Stress post-traumatique,2,0,0,Nul
+1525,1525,2-3 fois/an,Aucune,Dépression légère,1,0,1,Nul
+1526,1526,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Faible
+1527,1527,1 fois/mois,Aucune,Aucun,0,0,1,Nul
+1528,1528,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+1529,1529,Jamais,Aucune,Aucun,0,0,1,Modéré
+1530,1530,1 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1531,1531,>1 fois/mois,Paludisme chronique,Aucun,0,0,0,Élevé
+1532,1532,Jamais,Diabète,Stress post-traumatique,0,0,1,Modéré
+1533,1533,1 fois/mois,Aucune,Dépression sévère,1,0,1,Nul
+1534,1534,1 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+1535,1535,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1536,1536,2-3 fois/an,Aucune,Dépression légère,3,1,0,Nul
+1537,1537,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1538,1538,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1539,1539,>1 fois/mois,Asthme,Dépression légère,0,0,1,Modéré
+1540,1540,1 fois/an,Hypertension,Aucun,0,0,0,Faible
+1541,1541,1 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1542,1542,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Faible
+1543,1543,>1 fois/mois,Aucune,Anxiété légère,0,0,0,Faible
+1544,1544,Jamais,Paludisme chronique,Aucun,0,0,0,Nul
+1545,1545,1 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Élevé
+1546,1546,Jamais,Aucune,Anxiété sévère,0,0,0,Élevé
+1547,1547,2-3 fois/an,Autre,Aucun,3,0,1,Élevé
+1548,1548,1 fois/an,Aucune,Anxiété légère,3,0,1,Nul
+1549,1549,2-3 fois/an,Asthme,Anxiété légère,0,0,0,Modéré
+1550,1550,1 fois/an,Drépanocytose,Anxiété légère,0,0,0,Modéré
+1551,1551,>1 fois/mois,Hypertension,Aucun,1,0,1,Faible
+1552,1552,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Faible
+1553,1553,1 fois/mois,Diabète,Aucun,0,0,0,Élevé
+1554,1554,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+1555,1555,1 fois/mois,Autre,Dépression légère,2,0,1,Nul
+1556,1556,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Élevé
+1557,1557,1 fois/an,Drépanocytose,Aucun,1,0,1,Modéré
+1558,1558,2-3 fois/an,Aucune,Aucun,0,0,1,Élevé
+1559,1559,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1560,1560,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+1561,1561,2-3 fois/an,Aucune,Dépression sévère,0,0,1,Modéré
+1562,1562,1 fois/an,Aucune,Aucun,1,0,0,Nul
+1563,1563,Jamais,Aucune,Aucun,2,0,0,Faible
+1564,1564,2-3 fois/an,Aucune,Aucun,1,0,0,Élevé
+1565,1565,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,0,Élevé
+1566,1566,2-3 fois/an,Aucune,Dépression légère,1,0,1,Faible
+1567,1567,1 fois/an,Paludisme chronique,Anxiété légère,1,0,0,Faible
+1568,1568,Jamais,Aucune,Dépression sévère,0,0,0,Modéré
+1569,1569,2-3 fois/an,Asthme,Aucun,0,0,0,Nul
+1570,1570,1 fois/an,Asthme,Dépression légère,0,0,0,Modéré
+1571,1571,1 fois/mois,Aucune,Aucun,0,0,0,Élevé
+1572,1572,1 fois/an,Autre,Dépression légère,0,0,1,Faible
+1573,1573,1 fois/an,Drépanocytose,Aucun,0,0,0,Modéré
+1574,1574,1 fois/mois,Aucune,Aucun,2,0,1,Faible
+1575,1575,1 fois/an,Aucune,Aucun,1,0,1,Nul
+1576,1576,>1 fois/mois,Paludisme chronique,Aucun,0,0,0,Nul
+1577,1577,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1578,1578,Jamais,Aucune,Dépression sévère,0,0,0,Modéré
+1579,1579,>1 fois/mois,Aucune,Aucun,0,0,1,Élevé
+1580,1580,1 fois/an,Autre,Anxiété sévère,2,0,1,Faible
+1581,1581,1 fois/an,Aucune,Anxiété sévère,1,0,0,Faible
+1582,1582,1 fois/an,Aucune,Anxiété sévère,2,0,0,Nul
+1583,1583,Jamais,Paludisme chronique,Aucun,1,0,0,Faible
+1584,1584,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1585,1585,2-3 fois/an,Aucune,Aucun,3,0,0,Faible
+1586,1586,1 fois/an,Hypertension,Stress post-traumatique,0,0,0,Élevé
+1587,1587,Jamais,Hypertension,Aucun,3,0,0,Faible
+1588,1588,1 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1589,1589,1 fois/mois,Autre,Anxiété légère,1,0,1,Élevé
+1590,1590,1 fois/an,Asthme,Anxiété sévère,1,0,0,Faible
+1591,1591,1 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1592,1592,2-3 fois/an,Asthme,Aucun,1,0,0,Faible
+1593,1593,Jamais,Diabète,Aucun,0,0,0,Élevé
+1594,1594,1 fois/an,Autre,Anxiété légère,1,0,0,Modéré
+1595,1595,1 fois/an,Hypertension,Anxiété sévère,0,0,1,Nul
+1596,1596,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1597,1597,1 fois/an,Diabète,Dépression sévère,0,0,0,Modéré
+1598,1598,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1599,1599,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+1600,1600,Jamais,Paludisme chronique,Anxiété sévère,1,0,0,Modéré
+1601,1601,2-3 fois/an,Hypertension,Aucun,0,0,0,Nul
+1602,1602,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1603,1603,1 fois/mois,Aucune,Anxiété sévère,2,0,0,Faible
+1604,1604,1 fois/mois,Diabète,Anxiété légère,0,0,1,Élevé
+1605,1605,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Élevé
+1606,1606,Jamais,Aucune,Stress post-traumatique,0,0,0,Faible
+1607,1607,1 fois/an,Drépanocytose,Aucun,2,0,1,Modéré
+1608,1608,Jamais,Aucune,Aucun,0,0,1,Faible
+1609,1609,>1 fois/mois,Aucune,Aucun,0,0,1,Élevé
+1610,1610,Jamais,Asthme,Anxiété sévère,0,0,0,Faible
+1611,1611,Jamais,Paludisme chronique,Aucun,0,0,0,Élevé
+1612,1612,2-3 fois/an,Aucune,Anxiété légère,2,1,0,Modéré
+1613,1613,1 fois/an,Aucune,Anxiété sévère,0,0,0,Faible
+1614,1614,1 fois/an,Aucune,Anxiété légère,2,0,0,Modéré
+1615,1615,>1 fois/mois,Aucune,Anxiété sévère,1,0,1,Élevé
+1616,1616,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+1617,1617,1 fois/an,Drépanocytose,Aucun,1,0,0,Nul
+1618,1618,2-3 fois/an,Aucune,Aucun,1,0,0,Modéré
+1619,1619,Jamais,Aucune,Anxiété légère,0,0,1,Modéré
+1620,1620,1 fois/an,Paludisme chronique,Aucun,1,0,0,Élevé
+1621,1621,1 fois/mois,Drépanocytose,Aucun,1,0,1,Modéré
+1622,1622,1 fois/an,Aucune,Aucun,1,0,1,Modéré
+1623,1623,1 fois/mois,Paludisme chronique,Aucun,0,0,1,Faible
+1624,1624,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+1625,1625,1 fois/an,Paludisme chronique,Aucun,3,0,1,Modéré
+1626,1626,1 fois/an,Drépanocytose,Anxiété sévère,0,0,0,Faible
+1627,1627,2-3 fois/an,Aucune,Aucun,2,0,0,Nul
+1628,1628,1 fois/an,Diabète,Dépression légère,1,0,0,Élevé
+1629,1629,1 fois/mois,Aucune,Stress post-traumatique,0,0,0,Élevé
+1630,1630,>1 fois/mois,Paludisme chronique,Aucun,0,0,1,Nul
+1631,1631,Jamais,Paludisme chronique,Anxiété légère,0,0,0,Faible
+1632,1632,1 fois/an,Diabète,Aucun,0,0,0,Élevé
+1633,1633,2-3 fois/an,Autre,Dépression légère,0,0,0,Modéré
+1634,1634,1 fois/an,Asthme,Dépression légère,0,0,0,Élevé
+1635,1635,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Nul
+1636,1636,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+1637,1637,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+1638,1638,2-3 fois/an,Aucune,Dépression sévère,2,0,0,Modéré
+1639,1639,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1640,1640,2-3 fois/an,Aucune,Aucun,1,0,1,Élevé
+1641,1641,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1642,1642,1 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+1643,1643,1 fois/an,Autre,Aucun,1,0,0,Nul
+1644,1644,2-3 fois/an,Aucune,Aucun,1,0,0,Faible
+1645,1645,1 fois/an,Aucune,Dépression sévère,3,0,0,Faible
+1646,1646,1 fois/an,Aucune,Dépression sévère,0,0,0,Faible
+1647,1647,2-3 fois/an,Aucune,Dépression légère,0,0,1,Faible
+1648,1648,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+1649,1649,Jamais,Aucune,Aucun,1,0,0,Faible
+1650,1650,1 fois/an,Drépanocytose,Aucun,0,0,0,Faible
+1651,1651,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Modéré
+1652,1652,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1653,1653,Jamais,Hypertension,Aucun,1,0,1,Faible
+1654,1654,1 fois/mois,Hypertension,Aucun,2,0,0,Faible
+1655,1655,1 fois/mois,Autre,Dépression sévère,0,0,1,Faible
+1656,1656,1 fois/an,Aucune,Anxiété sévère,2,0,0,Faible
+1657,1657,Jamais,Aucune,Stress post-traumatique,1,0,1,Modéré
+1658,1658,1 fois/an,Drépanocytose,Stress post-traumatique,2,0,1,Modéré
+1659,1659,Jamais,Paludisme chronique,Anxiété légère,0,0,1,Modéré
+1660,1660,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1661,1661,1 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1662,1662,2-3 fois/an,Diabète,Anxiété légère,3,0,0,Élevé
+1663,1663,Jamais,Aucune,Anxiété sévère,0,0,0,Modéré
+1664,1664,>1 fois/mois,Paludisme chronique,Stress post-traumatique,0,0,0,Élevé
+1665,1665,1 fois/mois,Aucune,Aucun,0,0,1,Nul
+1666,1666,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Élevé
+1667,1667,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1668,1668,2-3 fois/an,Asthme,Aucun,0,1,1,Nul
+1669,1669,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1670,1670,1 fois/an,Aucune,Anxiété sévère,1,1,1,Modéré
+1671,1671,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1672,1672,2-3 fois/an,Aucune,Dépression légère,1,1,0,Modéré
+1673,1673,2-3 fois/an,Autre,Dépression sévère,1,0,0,Élevé
+1674,1674,Jamais,Aucune,Dépression légère,0,0,1,Modéré
+1675,1675,Jamais,Aucune,Stress post-traumatique,0,0,1,Modéré
+1676,1676,1 fois/an,Aucune,Aucun,0,0,1,Faible
+1677,1677,1 fois/an,Diabète,Anxiété légère,0,0,0,Nul
+1678,1678,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1679,1679,2-3 fois/an,Paludisme chronique,Anxiété légère,0,1,0,Élevé
+1680,1680,>1 fois/mois,Aucune,Dépression légère,1,0,0,Élevé
+1681,1681,1 fois/mois,Aucune,Aucun,0,0,0,Modéré
+1682,1682,1 fois/an,Hypertension,Aucun,2,0,0,Nul
+1683,1683,Jamais,Aucune,Anxiété sévère,2,0,0,Faible
+1684,1684,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1685,1685,Jamais,Aucune,Dépression sévère,0,0,0,Faible
+1686,1686,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1687,1687,2-3 fois/an,Hypertension,Dépression sévère,0,0,1,Nul
+1688,1688,2-3 fois/an,Autre,Anxiété légère,0,0,0,Élevé
+1689,1689,Jamais,Aucune,Aucun,2,0,0,Modéré
+1690,1690,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+1691,1691,1 fois/an,Diabète,Dépression sévère,0,0,0,Élevé
+1692,1692,Jamais,Aucune,Aucun,0,0,1,Modéré
+1693,1693,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Modéré
+1694,1694,1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1695,1695,1 fois/an,Paludisme chronique,Dépression légère,0,0,0,Nul
+1696,1696,1 fois/an,Autre,Dépression légère,0,0,0,Nul
+1697,1697,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Élevé
+1698,1698,2-3 fois/an,Aucune,Dépression sévère,0,0,1,Élevé
+1699,1699,1 fois/mois,Paludisme chronique,Anxiété légère,0,0,1,Faible
+1700,1700,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1701,1701,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+1702,1702,2-3 fois/an,Aucune,Anxiété légère,1,1,1,Nul
+1703,1703,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1704,1704,Jamais,Aucune,Stress post-traumatique,0,0,0,Nul
+1705,1705,1 fois/an,Aucune,Dépression sévère,0,0,1,Faible
+1706,1706,Jamais,Aucune,Dépression sévère,0,0,0,Faible
+1707,1707,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1708,1708,1 fois/an,Autre,Anxiété sévère,0,0,0,Faible
+1709,1709,>1 fois/mois,Asthme,Anxiété sévère,0,0,0,Faible
+1710,1710,2-3 fois/an,Aucune,Aucun,2,0,1,Modéré
+1711,1711,2-3 fois/an,Aucune,Aucun,0,0,1,Modéré
+1712,1712,1 fois/an,Hypertension,Anxiété légère,0,0,0,Faible
+1713,1713,Jamais,Autre,Aucun,1,0,0,Faible
+1714,1714,>1 fois/mois,Aucune,Aucun,0,0,0,Nul
+1715,1715,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+1716,1716,1 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+1717,1717,>1 fois/mois,Aucune,Anxiété sévère,1,0,0,Élevé
+1718,1718,1 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+1719,1719,1 fois/mois,Paludisme chronique,Anxiété sévère,1,0,1,Modéré
+1720,1720,2-3 fois/an,Diabète,Anxiété légère,0,0,0,Faible
+1721,1721,1 fois/an,Diabète,Dépression sévère,0,0,1,Nul
+1722,1722,1 fois/mois,Autre,Aucun,0,0,1,Faible
+1723,1723,1 fois/an,Drépanocytose,Dépression légère,0,0,1,Modéré
+1724,1724,1 fois/an,Aucune,Aucun,1,0,1,Faible
+1725,1725,1 fois/an,Paludisme chronique,Dépression sévère,0,0,0,Faible
+1726,1726,Jamais,Paludisme chronique,Anxiété légère,0,0,1,Nul
+1727,1727,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1728,1728,1 fois/mois,Hypertension,Aucun,1,0,0,Modéré
+1729,1729,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Nul
+1730,1730,2-3 fois/an,Drépanocytose,Aucun,1,0,0,Faible
+1731,1731,2-3 fois/an,Aucune,Dépression légère,0,0,1,Nul
+1732,1732,Jamais,Aucune,Dépression légère,1,0,1,Élevé
+1733,1733,1 fois/mois,Aucune,Anxiété légère,0,0,1,Nul
+1734,1734,1 fois/an,Aucune,Aucun,1,0,0,Faible
+1735,1735,1 fois/an,Aucune,Dépression sévère,1,0,0,Modéré
+1736,1736,Jamais,Hypertension,Aucun,1,0,0,Élevé
+1737,1737,Jamais,Hypertension,Aucun,0,0,0,Modéré
+1738,1738,1 fois/an,Hypertension,Dépression légère,0,0,0,Élevé
+1739,1739,1 fois/an,Aucune,Aucun,1,0,0,Modéré
+1740,1740,1 fois/mois,Aucune,Dépression légère,0,0,0,Élevé
+1741,1741,Jamais,Asthme,Anxiété sévère,0,0,0,Faible
+1742,1742,>1 fois/mois,Aucune,Anxiété légère,1,1,0,Élevé
+1743,1743,1 fois/mois,Paludisme chronique,Aucun,3,0,1,Modéré
+1744,1744,Jamais,Paludisme chronique,Aucun,2,0,0,Modéré
+1745,1745,2-3 fois/an,Aucune,Dépression légère,0,0,1,Faible
+1746,1746,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1747,1747,1 fois/an,Aucune,Dépression légère,2,0,0,Faible
+1748,1748,Jamais,Aucune,Aucun,0,0,0,Nul
+1749,1749,>1 fois/mois,Aucune,Stress post-traumatique,1,0,0,Modéré
+1750,1750,1 fois/mois,Aucune,Aucun,1,0,0,Nul
+1751,1751,Jamais,Asthme,Anxiété légère,0,0,0,Modéré
+1752,1752,Jamais,Aucune,Aucun,0,0,1,Faible
+1753,1753,Jamais,Aucune,Aucun,0,0,0,Modéré
+1754,1754,2-3 fois/an,Aucune,Dépression légère,0,0,0,Élevé
+1755,1755,2-3 fois/an,Aucune,Dépression légère,1,0,1,Faible
+1756,1756,1 fois/an,Paludisme chronique,Anxiété légère,2,0,0,Élevé
+1757,1757,2-3 fois/an,Aucune,Aucun,0,0,1,Faible
+1758,1758,2-3 fois/an,Drépanocytose,Aucun,0,0,1,Nul
+1759,1759,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1760,1760,1 fois/an,Drépanocytose,Aucun,3,0,0,Faible
+1761,1761,2-3 fois/an,Aucune,Dépression sévère,1,0,0,Nul
+1762,1762,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1763,1763,1 fois/an,Aucune,Aucun,2,0,0,Nul
+1764,1764,1 fois/mois,Aucune,Aucun,0,0,0,Nul
+1765,1765,1 fois/an,Diabète,Anxiété sévère,0,0,0,Modéré
+1766,1766,1 fois/an,Asthme,Anxiété légère,0,0,1,Faible
+1767,1767,2-3 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1768,1768,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+1769,1769,1 fois/an,Hypertension,Anxiété sévère,1,0,0,Élevé
+1770,1770,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+1771,1771,Jamais,Aucune,Aucun,1,0,0,Modéré
+1772,1772,1 fois/an,Paludisme chronique,Anxiété légère,0,0,1,Nul
+1773,1773,2-3 fois/an,Drépanocytose,Aucun,0,0,1,Nul
+1774,1774,1 fois/mois,Drépanocytose,Aucun,0,0,0,Modéré
+1775,1775,1 fois/mois,Aucune,Stress post-traumatique,0,0,0,Modéré
+1776,1776,1 fois/mois,Aucune,Dépression légère,2,0,0,Nul
+1777,1777,1 fois/mois,Hypertension,Aucun,1,0,1,Faible
+1778,1778,Jamais,Hypertension,Aucun,0,0,0,Nul
+1779,1779,1 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1780,1780,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1781,1781,1 fois/an,Aucune,Aucun,1,0,0,Modéré
+1782,1782,>1 fois/mois,Aucune,Aucun,0,1,0,Nul
+1783,1783,Jamais,Aucune,Anxiété légère,1,0,0,Modéré
+1784,1784,1 fois/an,Aucune,Dépression légère,1,0,0,Élevé
+1785,1785,2-3 fois/an,Aucune,Dépression légère,0,0,1,Nul
+1786,1786,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1787,1787,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1788,1788,1 fois/mois,Aucune,Aucun,0,0,0,Nul
+1789,1789,2-3 fois/an,Autre,Aucun,0,0,1,Nul
+1790,1790,2-3 fois/an,Asthme,Aucun,2,0,0,Élevé
+1791,1791,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1792,1792,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1793,1793,2-3 fois/an,Diabète,Anxiété sévère,0,0,1,Faible
+1794,1794,1 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1795,1795,2-3 fois/an,Paludisme chronique,Aucun,0,0,1,Faible
+1796,1796,2-3 fois/an,Paludisme chronique,Dépression sévère,0,0,1,Faible
+1797,1797,1 fois/mois,Paludisme chronique,Anxiété légère,0,0,0,Modéré
+1798,1798,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Élevé
+1799,1799,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Élevé
+1800,1800,1 fois/an,Paludisme chronique,Dépression sévère,0,0,0,Modéré
+1801,1801,1 fois/an,Aucune,Dépression légère,0,0,0,Nul
+1802,1802,1 fois/an,Paludisme chronique,Anxiété sévère,0,1,1,Nul
+1803,1803,>1 fois/mois,Aucune,Anxiété sévère,0,0,1,Faible
+1804,1804,Jamais,Paludisme chronique,Anxiété légère,0,0,0,Faible
+1805,1805,1 fois/an,Drépanocytose,Aucun,0,0,0,Élevé
+1806,1806,>1 fois/mois,Diabète,Aucun,1,0,0,Modéré
+1807,1807,1 fois/an,Drépanocytose,Aucun,0,0,0,Modéré
+1808,1808,Jamais,Asthme,Dépression légère,1,0,0,Élevé
+1809,1809,Jamais,Aucune,Anxiété sévère,0,0,0,Faible
+1810,1810,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1811,1811,1 fois/an,Diabète,Aucun,0,0,0,Faible
+1812,1812,2-3 fois/an,Aucune,Aucun,2,0,1,Faible
+1813,1813,1 fois/mois,Aucune,Dépression sévère,2,0,0,Faible
+1814,1814,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Modéré
+1815,1815,2-3 fois/an,Asthme,Anxiété légère,2,0,0,Modéré
+1816,1816,1 fois/an,Aucune,Dépression sévère,1,0,0,Élevé
+1817,1817,1 fois/an,Paludisme chronique,Aucun,2,0,0,Faible
+1818,1818,Jamais,Autre,Stress post-traumatique,0,0,0,Faible
+1819,1819,Jamais,Paludisme chronique,Aucun,0,0,1,Nul
+1820,1820,>1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1821,1821,1 fois/mois,Aucune,Anxiété légère,1,0,0,Modéré
+1822,1822,2-3 fois/an,Aucune,Aucun,0,0,0,Élevé
+1823,1823,1 fois/mois,Aucune,Anxiété légère,3,0,1,Modéré
+1824,1824,2-3 fois/an,Hypertension,Dépression sévère,0,0,0,Nul
+1825,1825,Jamais,Autre,Dépression légère,0,0,0,Modéré
+1826,1826,1 fois/an,Drépanocytose,Dépression légère,1,0,0,Faible
+1827,1827,1 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1828,1828,2-3 fois/an,Asthme,Aucun,0,0,0,Élevé
+1829,1829,Jamais,Autre,Aucun,0,0,0,Élevé
+1830,1830,1 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1831,1831,1 fois/an,Drépanocytose,Anxiété sévère,0,0,0,Élevé
+1832,1832,1 fois/mois,Autre,Aucun,0,0,0,Nul
+1833,1833,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Élevé
+1834,1834,1 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1835,1835,1 fois/an,Autre,Aucun,0,0,0,Faible
+1836,1836,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Faible
+1837,1837,1 fois/an,Aucune,Anxiété sévère,0,0,1,Nul
+1838,1838,2-3 fois/an,Aucune,Aucun,1,0,1,Nul
+1839,1839,1 fois/mois,Drépanocytose,Dépression légère,0,0,0,Élevé
+1840,1840,Jamais,Aucune,Aucun,1,0,0,Modéré
+1841,1841,Jamais,Aucune,Anxiété sévère,0,0,1,Modéré
+1842,1842,1 fois/an,Aucune,Aucun,1,0,0,Nul
+1843,1843,1 fois/an,Drépanocytose,Dépression légère,0,0,0,Faible
+1844,1844,Jamais,Paludisme chronique,Dépression sévère,0,0,0,Faible
+1845,1845,Jamais,Aucune,Anxiété sévère,0,0,1,Nul
+1846,1846,1 fois/mois,Paludisme chronique,Anxiété légère,0,0,0,Modéré
+1847,1847,1 fois/mois,Diabète,Anxiété légère,0,0,0,Faible
+1848,1848,1 fois/an,Autre,Anxiété légère,0,0,0,Modéré
+1849,1849,1 fois/an,Hypertension,Aucun,2,0,1,Nul
+1850,1850,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+1851,1851,Jamais,Aucune,Aucun,0,0,0,Faible
+1852,1852,1 fois/mois,Aucune,Anxiété légère,0,0,1,Faible
+1853,1853,1 fois/an,Paludisme chronique,Anxiété sévère,0,0,1,Nul
+1854,1854,2-3 fois/an,Diabète,Aucun,0,0,0,Faible
+1855,1855,Jamais,Aucune,Anxiété sévère,0,0,1,Faible
+1856,1856,>1 fois/mois,Aucune,Anxiété légère,2,0,0,Modéré
+1857,1857,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Nul
+1858,1858,Jamais,Paludisme chronique,Aucun,3,0,1,Modéré
+1859,1859,1 fois/an,Aucune,Aucun,0,0,1,Modéré
+1860,1860,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Modéré
+1861,1861,>1 fois/mois,Aucune,Aucun,0,0,0,Élevé
+1862,1862,1 fois/an,Aucune,Stress post-traumatique,0,0,0,Modéré
+1863,1863,2-3 fois/an,Asthme,Aucun,0,0,0,Nul
+1864,1864,2-3 fois/an,Aucune,Dépression légère,0,0,1,Nul
+1865,1865,1 fois/an,Diabète,Anxiété sévère,0,0,0,Modéré
+1866,1866,1 fois/an,Autre,Aucun,0,0,0,Faible
+1867,1867,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1868,1868,1 fois/mois,Aucune,Stress post-traumatique,1,0,0,Modéré
+1869,1869,1 fois/an,Aucune,Anxiété sévère,1,0,1,Élevé
+1870,1870,1 fois/mois,Paludisme chronique,Anxiété légère,1,0,0,Nul
+1871,1871,1 fois/an,Aucune,Aucun,1,0,0,Élevé
+1872,1872,1 fois/mois,Autre,Aucun,3,0,1,Faible
+1873,1873,2-3 fois/an,Asthme,Anxiété légère,1,0,0,Élevé
+1874,1874,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+1875,1875,Jamais,Aucune,Aucun,0,0,0,Nul
+1876,1876,1 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1877,1877,1 fois/mois,Hypertension,Aucun,1,0,1,Faible
+1878,1878,2-3 fois/an,Aucune,Stress post-traumatique,0,0,1,Modéré
+1879,1879,1 fois/an,Diabète,Anxiété sévère,0,0,0,Faible
+1880,1880,2-3 fois/an,Aucune,Anxiété sévère,0,0,1,Élevé
+1881,1881,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Élevé
+1882,1882,Jamais,Diabète,Anxiété sévère,0,0,0,Modéré
+1883,1883,1 fois/an,Aucune,Dépression sévère,0,0,1,Nul
+1884,1884,Jamais,Aucune,Anxiété légère,0,0,1,Faible
+1885,1885,1 fois/an,Hypertension,Anxiété sévère,0,0,1,Modéré
+1886,1886,1 fois/mois,Asthme,Aucun,1,0,0,Nul
+1887,1887,Jamais,Aucune,Stress post-traumatique,0,0,0,Nul
+1888,1888,Jamais,Paludisme chronique,Dépression sévère,1,0,0,Faible
+1889,1889,2-3 fois/an,Aucune,Aucun,0,0,1,Nul
+1890,1890,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1891,1891,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Faible
+1892,1892,Jamais,Aucune,Aucun,0,0,0,Modéré
+1893,1893,2-3 fois/an,Aucune,Aucun,0,0,0,Faible
+1894,1894,1 fois/an,Paludisme chronique,Aucun,0,0,0,Modéré
+1895,1895,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Nul
+1896,1896,Jamais,Aucune,Anxiété sévère,0,0,0,Élevé
+1897,1897,>1 fois/mois,Paludisme chronique,Aucun,0,0,0,Modéré
+1898,1898,2-3 fois/an,Aucune,Aucun,1,0,1,Modéré
+1899,1899,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Faible
+1900,1900,1 fois/an,Aucune,Anxiété légère,3,0,0,Modéré
+1901,1901,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Nul
+1902,1902,1 fois/mois,Aucune,Dépression légère,0,0,0,Nul
+1903,1903,1 fois/an,Aucune,Aucun,1,0,1,Faible
+1904,1904,>1 fois/mois,Aucune,Aucun,0,0,1,Faible
+1905,1905,1 fois/an,Aucune,Dépression légère,0,0,0,Faible
+1906,1906,Jamais,Aucune,Anxiété légère,1,0,0,Élevé
+1907,1907,2-3 fois/an,Aucune,Aucun,1,0,1,Nul
+1908,1908,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+1909,1909,1 fois/mois,Aucune,Aucun,2,0,1,Modéré
+1910,1910,Jamais,Paludisme chronique,Aucun,1,0,0,Nul
+1911,1911,1 fois/an,Aucune,Aucun,0,0,0,Élevé
+1912,1912,2-3 fois/an,Aucune,Aucun,3,0,0,Faible
+1913,1913,1 fois/an,Hypertension,Aucun,0,0,0,Modéré
+1914,1914,Jamais,Drépanocytose,Aucun,0,0,0,Modéré
+1915,1915,Jamais,Drépanocytose,Aucun,0,0,1,Nul
+1916,1916,1 fois/an,Autre,Aucun,0,0,1,Nul
+1917,1917,1 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+1918,1918,2-3 fois/an,Hypertension,Aucun,0,0,0,Élevé
+1919,1919,>1 fois/mois,Autre,Aucun,0,0,1,Faible
+1920,1920,2-3 fois/an,Asthme,Anxiété légère,0,0,1,Élevé
+1921,1921,1 fois/mois,Aucune,Anxiété sévère,0,0,1,Faible
+1922,1922,1 fois/mois,Paludisme chronique,Aucun,0,0,1,Faible
+1923,1923,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Modéré
+1924,1924,1 fois/an,Aucune,Dépression légère,1,0,1,Faible
+1925,1925,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1926,1926,1 fois/mois,Aucune,Anxiété sévère,0,0,0,Faible
+1927,1927,1 fois/an,Aucune,Aucun,0,0,1,Nul
+1928,1928,1 fois/an,Asthme,Anxiété sévère,0,0,1,Élevé
+1929,1929,1 fois/mois,Aucune,Dépression légère,1,0,0,Modéré
+1930,1930,2-3 fois/an,Diabète,Anxiété légère,1,0,1,Faible
+1931,1931,2-3 fois/an,Paludisme chronique,Dépression légère,3,0,1,Faible
+1932,1932,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+1933,1933,2-3 fois/an,Diabète,Dépression sévère,0,0,0,Faible
+1934,1934,1 fois/an,Aucune,Anxiété légère,0,0,0,Modéré
+1935,1935,2-3 fois/an,Aucune,Dépression sévère,1,0,0,Élevé
+1936,1936,Jamais,Aucune,Anxiété sévère,0,0,1,Modéré
+1937,1937,2-3 fois/an,Drépanocytose,Dépression sévère,1,0,0,Modéré
+1938,1938,1 fois/mois,Aucune,Anxiété sévère,1,0,0,Modéré
+1939,1939,Jamais,Drépanocytose,Dépression légère,0,0,1,Nul
+1940,1940,Jamais,Aucune,Aucun,1,0,0,Nul
+1941,1941,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Nul
+1942,1942,2-3 fois/an,Aucune,Dépression légère,0,0,0,Modéré
+1943,1943,2-3 fois/an,Aucune,Dépression sévère,0,0,0,Modéré
+1944,1944,Jamais,Aucune,Aucun,0,0,1,Faible
+1945,1945,1 fois/an,Aucune,Aucun,1,0,1,Élevé
+1946,1946,1 fois/an,Aucune,Anxiété légère,0,0,0,Élevé
+1947,1947,2-3 fois/an,Diabète,Anxiété légère,0,0,0,Nul
+1948,1948,1 fois/mois,Autre,Anxiété sévère,0,0,0,Modéré
+1949,1949,1 fois/an,Aucune,Aucun,0,0,0,Faible
+1950,1950,2-3 fois/an,Aucune,Anxiété sévère,0,0,0,Élevé
+1951,1951,2-3 fois/an,Paludisme chronique,Aucun,0,0,0,Modéré
+1952,1952,2-3 fois/an,Aucune,Aucun,0,0,0,Modéré
+1953,1953,1 fois/an,Hypertension,Aucun,1,0,0,Modéré
+1954,1954,2-3 fois/an,Asthme,Anxiété légère,0,0,0,Élevé
+1955,1955,1 fois/mois,Drépanocytose,Anxiété sévère,1,0,0,Élevé
+1956,1956,Jamais,Asthme,Aucun,0,0,1,Faible
+1957,1957,1 fois/mois,Aucune,Dépression légère,0,0,1,Modéré
+1958,1958,>1 fois/mois,Aucune,Anxiété sévère,0,0,0,Faible
+1959,1959,1 fois/mois,Diabète,Aucun,1,0,1,Élevé
+1960,1960,2-3 fois/an,Aucune,Anxiété légère,1,0,1,Modéré
+1961,1961,1 fois/mois,Paludisme chronique,Aucun,1,0,0,Nul
+1962,1962,1 fois/an,Paludisme chronique,Anxiété légère,1,0,1,Nul
+1963,1963,1 fois/an,Drépanocytose,Aucun,1,0,0,Nul
+1964,1964,1 fois/an,Drépanocytose,Anxiété sévère,0,0,0,Modéré
+1965,1965,2-3 fois/an,Drépanocytose,Aucun,0,0,0,Modéré
+1966,1966,Jamais,Aucune,Anxiété sévère,0,0,0,Élevé
+1967,1967,Jamais,Aucune,Aucun,0,0,1,Faible
+1968,1968,1 fois/an,Aucune,Aucun,0,0,0,Nul
+1969,1969,2-3 fois/an,Aucune,Anxiété légère,0,0,0,Faible
+1970,1970,2-3 fois/an,Aucune,Aucun,2,0,0,Modéré
+1971,1971,1 fois/an,Aucune,Anxiété légère,3,0,1,Modéré
+1972,1972,1 fois/an,Aucune,Anxiété sévère,0,0,0,Modéré
+1973,1973,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Faible
+1974,1974,1 fois/mois,Aucune,Aucun,0,0,0,Faible
+1975,1975,1 fois/an,Drépanocytose,Anxiété sévère,0,0,0,Faible
+1976,1976,1 fois/mois,Paludisme chronique,Stress post-traumatique,0,0,0,Nul
+1977,1977,2-3 fois/an,Aucune,Anxiété légère,0,0,1,Modéré
+1978,1978,Jamais,Aucune,Anxiété légère,0,0,1,Modéré
+1979,1979,Jamais,Paludisme chronique,Dépression légère,0,0,0,Modéré
+1980,1980,>1 fois/mois,Aucune,Aucun,0,0,0,Nul
+1981,1981,1 fois/an,Aucune,Aucun,0,0,0,Modéré
+1982,1982,1 fois/mois,Aucune,Aucun,0,0,1,Modéré
+1983,1983,2-3 fois/an,Hypertension,Anxiété légère,0,0,0,Modéré
+1984,1984,Jamais,Aucune,Aucun,0,0,0,Modéré
+1985,1985,Jamais,Hypertension,Anxiété légère,1,0,1,Modéré
+1986,1986,2-3 fois/an,Aucune,Anxiété sévère,1,0,0,Modéré
+1987,1987,2-3 fois/an,Aucune,Anxiété légère,1,0,0,Élevé
+1988,1988,>1 fois/mois,Aucune,Anxiété sévère,0,0,1,Faible
+1989,1989,1 fois/an,Aucune,Aucun,0,0,1,Élevé
+1990,1990,1 fois/an,Aucune,Aucun,1,0,0,Faible
+1991,1991,>1 fois/mois,Aucune,Anxiété sévère,0,0,1,Élevé
+1992,1992,Jamais,Aucune,Anxiété sévère,1,0,0,Faible
+1993,1993,1 fois/an,Diabète,Anxiété légère,2,0,0,Nul
+1994,1994,>1 fois/mois,Aucune,Aucun,0,0,1,Nul
+1995,1995,Jamais,Hypertension,Aucun,2,1,1,Faible
+1996,1996,Jamais,Aucune,Aucun,1,0,0,Nul
+1997,1997,2-3 fois/an,Aucune,Aucun,1,0,1,Nul
+1998,1998,2-3 fois/an,Aucune,Dépression légère,0,0,1,Nul
+1999,1999,1 fois/an,Aucune,Dépression sévère,0,0,0,Faible
+2000,2000,1 fois/an,Aucune,Anxiété légère,1,0,1,Élevé

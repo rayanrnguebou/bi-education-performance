@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Yyr4cScwEfGbt8aaCk4E_Q" name="dim_filiere" id="_Yyr4cCcwEfGbt8aaCk4E_Q" dataPackage="_Yyr4cicwEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_filiere.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Yyr4cicwEfGbt8aaCk4E_Q" name="default" dataManager="_Yyr4cScwEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_YysfgCcwEfGbt8aaCk4E_Q" id="_6n9mQCcvEfGbt8aaCk4E_Q" comment="filiere_data" label="filiere_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YysfgScwEfGbt8aaCk4E_Q" label="id_filiere" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YysfgicwEfGbt8aaCk4E_Q" label="code_filiere" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YysfgycwEfGbt8aaCk4E_Q" label="nom_filiere" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YysfhCcwEfGbt8aaCk4E_Q" label="domaine" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YysfhScwEfGbt8aaCk4E_Q" label="duree_annees" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_YysfhicwEfGbt8aaCk4E_Q" label="niveau_diplome" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

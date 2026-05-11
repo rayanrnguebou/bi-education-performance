@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_InzasCcvEfGbt8aaCk4E_Q" name="dim_sante_etudiant" id="_InyMkCcvEfGbt8aaCk4E_Q" dataPackage="_InzasScvEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_sante_etudiant.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_InzasScvEfGbt8aaCk4E_Q" name="default" dataManager="_InzasCcvEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_InzasicvEfGbt8aaCk4E_Q" id="_7Xwg8CcuEfGbt8aaCk4E_Q" comment="sante_etudiant_data" label="sante_etudiant_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzasycvEfGbt8aaCk4E_Q" label="id_sante" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzatCcvEfGbt8aaCk4E_Q" label="id_etudiant" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzatScvEfGbt8aaCk4E_Q" label="frequence_consultation" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzaticvEfGbt8aaCk4E_Q" label="maladie_chronique" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzatycvEfGbt8aaCk4E_Q" label="probleme_sante_mentale" length="23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzauCcvEfGbt8aaCk4E_Q" label="nb_hospitalisations_annuelles" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzauScvEfGbt8aaCk4E_Q" label="handicap_physique" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzauicvEfGbt8aaCk4E_Q" label="acces_assurance_maladie" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_InzauycvEfGbt8aaCk4E_Q" label="impact_sante_sur_etudes" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

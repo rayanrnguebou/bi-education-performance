@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_tTA-YCcvEfGbt8aaCk4E_Q" name="dim_difficulté_academique" id="_tTAXUCcvEfGbt8aaCk4E_Q" dataPackage="_tTA-YScvEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_difficultes_academiques.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_tTA-YScvEfGbt8aaCk4E_Q" name="default" dataManager="_tTA-YCcvEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_tTA-YicvEfGbt8aaCk4E_Q" id="_hgAqYCcvEfGbt8aaCk4E_Q" comment="difficultes_academique_data" label="difficultes_academique_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-YycvEfGbt8aaCk4E_Q" label="id_difficulte" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-ZCcvEfGbt8aaCk4E_Q" label="id_etudiant" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-ZScvEfGbt8aaCk4E_Q" label="maitrise_metier_etudiant" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-ZicvEfGbt8aaCk4E_Q" label="difficulte_adaptation_methodes" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-ZycvEfGbt8aaCk4E_Q" label="difficulte_taille_groupes" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-aCcvEfGbt8aaCk4E_Q" label="interet_lecture_ecriture" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-aScvEfGbt8aaCk4E_Q" label="frequence_etude_lecons" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-aicvEfGbt8aaCk4E_Q" label="attente_veille_examens" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-aycvEfGbt8aaCk4E_Q" label="participation_examens_semestriels" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-bCcvEfGbt8aaCk4E_Q" label="passe_scolaire_difficile" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-bScvEfGbt8aaCk4E_Q" label="decrochage_anterieur_sec_prim" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_tTA-bicvEfGbt8aaCk4E_Q" label="difficultes_pedagogiques_specifiques" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_1nXmwCv8EfG62I5F4JbUAw" name="dim_parent_etudiant" id="_1nQ5ECv8EfG62I5F4JbUAw" dataPackage="_1nXmwSv8EfG62I5F4JbUAw" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_parents_etudiant.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_1nXmwSv8EfG62I5F4JbUAw" name="default" dataManager="_1nXmwCv8EfG62I5F4JbUAw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_1nXmwiv8EfG62I5F4JbUAw" id="_gNI50Cv8EfG62I5F4JbUAw" comment="parent_data" label="parent_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmwyv8EfG62I5F4JbUAw" label="id_parents" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmxCv8EfG62I5F4JbUAw" label="id_etudiant" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmxSv8EfG62I5F4JbUAw" label="pere_vivant" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmxiv8EfG62I5F4JbUAw" label="nom_pere" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmxyv8EfG62I5F4JbUAw" label="prenom_pere" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmyCv8EfG62I5F4JbUAw" label="email_pere" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmySv8EfG62I5F4JbUAw" label="niveau_instruction_pere" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmyiv8EfG62I5F4JbUAw" label="niveau_socioprofessionnel_pere" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmyyv8EfG62I5F4JbUAw" label="revenu_mensuel_pere_fcfa" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmzCv8EfG62I5F4JbUAw" label="mere_vivante" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmzSv8EfG62I5F4JbUAw" label="nom_mere" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmziv8EfG62I5F4JbUAw" label="prenom_mere" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXmzyv8EfG62I5F4JbUAw" label="email_mere" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm0Cv8EfG62I5F4JbUAw" label="niveau_instruction_mere" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm0Sv8EfG62I5F4JbUAw" label="niveau_socioprofessionnel_mere" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm0iv8EfG62I5F4JbUAw" label="revenu_mensuel_mere_fcfa" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm0yv8EfG62I5F4JbUAw" label="nb_enfants_famille" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm1Cv8EfG62I5F4JbUAw" label="revenu_total_famille_fcfa" length="7" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm1Sv8EfG62I5F4JbUAw" label="rang_dans_fratrie" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm1iv8EfG62I5F4JbUAw" label="famille_monoparentale" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1nXm1yv8EfG62I5F4JbUAw" label="soutien_financier_famille" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

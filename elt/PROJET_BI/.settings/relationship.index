@@ -1,0 +1,422 @@
+[ {
+  "baseItem" : {
+    "id" : "_-ytdgCcxEfGbt8aaCk4E_Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_hErZQCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_hErZQCcvEfGbt8aaCk4E_Q - integration_sociale_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_6O4F8CcxEfGbt8aaCk4E_Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1nQ5ECv8EfG62I5F4JbUAw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_1nQ5ECv8EfG62I5F4JbUAw - parent_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_C6ekICcyEfGbt8aaCk4E_Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tTAXUCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tTAXUCcvEfGbt8aaCk4E_Q - difficultes_academique_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_DvP0sCwvEfG62I5F4JbUAw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6HevYCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_hErZQCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_tTAXUCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6HevYCcvEfGbt8aaCk4E_Q - situation_economique_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_hErZQCcvEfGbt8aaCk4E_Q - integration_sociale_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_tTAXUCcvEfGbt8aaCk4E_Q - difficultes_academique_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_H9-IkCpmEfGa8LSY6KhLvA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jQbpsCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jQbpsCcwEfGbt8aaCk4E_Q - temps_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_HY3YICqtEfGoFaaz3F7Pgg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q - filiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_He2HMCcyEfGbt8aaCk4E_Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6HevYCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6HevYCcvEfGbt8aaCk4E_Q - situation_economique_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_I-bkkCqpEfGoFaaz3F7Pgg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q - filiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_IlWEQCqrEfGoFaaz3F7Pgg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_weZf0CcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q - filiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_weZf0CcwEfGbt8aaCk4E_Q - classe_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_N6GgkCbIEfG6Gac-tRpzYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FSJbkCcxEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_P_DDICcxEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_jQbpsCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_weZf0CcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FSJbkCcxEfGbt8aaCk4E_Q - matiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_P_DDICcxEfGbt8aaCk4E_Q - fait_notes_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_jQbpsCcwEfGbt8aaCk4E_Q - temps_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_weZf0CcwEfGbt8aaCk4E_Q - classe_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_R_VQkCbIEfG6Gac-tRpzYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5aTbkCbHEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_5aTbkCbHEfG6Gac-tRpzYQ - faitNotes_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ - fait_notes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WHDT4CbIEfG6Gac-tRpzYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_cDRC8CcxEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q - filiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_cDRC8CcxEfGbt8aaCk4E_Q - fait_abandons_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_bqg8cCbIEfG6Gac-tRpzYQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_InyMkCcvEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_InyMkCcvEfGbt8aaCk4E_Q - sante_etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_M9q80CmiEfGBQO-m5WNZog - etudiant_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_yhuXgCpnEfGa8LSY6KhLvA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FSJbkCcxEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_FSJbkCcxEfGbt8aaCk4E_Q - matiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Yyr4cCcwEfGbt8aaCk4E_Q - filiere_data",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zd6xsCdAEfGbt8aaCk4E_Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_7tgX0CbIEfG6Gac-tRpzYQ - dim_filiere",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

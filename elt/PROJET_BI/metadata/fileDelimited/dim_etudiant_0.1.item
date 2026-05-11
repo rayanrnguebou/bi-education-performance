@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_M98CkCmiEfGBQO-m5WNZog" name="dim_etudiant" id="_M9q80CmiEfGBQO-m5WNZog" dataPackage="_M98CkSmiEfGBQO-m5WNZog" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_etudiant.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_M98CkSmiEfGBQO-m5WNZog" name="default" dataManager="_M98CkCmiEfGBQO-m5WNZog">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_M98poCmiEfGBQO-m5WNZog" id="_-73O8CmhEfGBQO-m5WNZog" comment="etudiant_data" label="etudiant_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98poSmiEfGBQO-m5WNZog" label="id_etudiant" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98poimiEfGBQO-m5WNZog" label="matricule" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98poymiEfGBQO-m5WNZog" label="email_etudiant" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ppCmiEfGBQO-m5WNZog" label="nom" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ppSmiEfGBQO-m5WNZog" label="prenom" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ppimiEfGBQO-m5WNZog" label="genre" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ppymiEfGBQO-m5WNZog" label="date_naissance" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98pqCmiEfGBQO-m5WNZog" label="niveau_socio_economique" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98pqSmiEfGBQO-m5WNZog" label="id_filiere" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98pqimiEfGBQO-m5WNZog" label="annee_entree" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98pqymiEfGBQO-m5WNZog" label="ville_origine" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98prCmiEfGBQO-m5WNZog" label="situation_matrimoniale" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98prSmiEfGBQO-m5WNZog" label="nb_enfants_a_charge" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98primiEfGBQO-m5WNZog" label="estime_de_soi" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98prymiEfGBQO-m5WNZog" label="trait_personnalite" length="13" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98psCmiEfGBQO-m5WNZog" label="mention_baccalaureat" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98psSmiEfGBQO-m5WNZog" label="serie_terminale" length="23" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98psimiEfGBQO-m5WNZog" label="decrochage_anterieur" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98psymiEfGBQO-m5WNZog" label="frequence_etude_lecons" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ptCmiEfGBQO-m5WNZog" label="interet_lecture_ecriture" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ptSmiEfGBQO-m5WNZog" label="adresse_email" length="30" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_M98ptimiEfGBQO-m5WNZog" label="telephone" length="16" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

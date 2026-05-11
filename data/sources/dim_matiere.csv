@@ -1,0 +1,29 @@
+﻿id_matiere,code_matiere,nom_matiere,id_filiere,coefficient,credits,type_matiere,semestre
+1,M001,Algorithmique,1,3,6,Fondamentale,1
+2,M002,Programmation Python,1,3,5,Fondamentale,1
+3,M003,Base de données,1,4,6,Fondamentale,2
+4,M004,Réseaux informatiques,1,3,5,Fondamentale,2
+5,M005,Mathématiques Discrètes,1,2,4,Complémentaire,1
+6,M006,Systèmes d'exploitation,1,3,5,Fondamentale,2
+7,M007,Analyse Mathématique,2,4,7,Fondamentale,1
+8,M008,Algèbre Linéaire,2,4,6,Fondamentale,1
+9,M009,Probabilités-Statistiques,2,3,6,Fondamentale,2
+10,M010,Topologie,2,3,5,Fondamentale,2
+11,M011,Microéconomie,3,3,5,Fondamentale,1
+12,M012,Macroéconomie,3,3,5,Fondamentale,2
+13,M013,Comptabilité Générale,3,3,6,Fondamentale,1
+14,M014,Droit des Affaires,3,2,4,Complémentaire,2
+15,M015,Littérature Française,4,3,5,Fondamentale,1
+16,M016,Linguistique,4,3,5,Fondamentale,2
+17,M017,Biologie Cellulaire,5,4,6,Fondamentale,1
+18,M018,Chimie Organique,5,3,5,Fondamentale,1
+19,M019,Droit Constitutionnel,6,3,6,Fondamentale,1
+20,M020,Droit Civil,6,4,6,Fondamentale,2
+21,M021,Résistance des Matériaux,7,4,7,Fondamentale,1
+22,M022,Mécanique des Fluides,7,3,6,Fondamentale,2
+23,M023,Machine Learning,8,4,7,Fondamentale,1
+24,M024,Big Data & Cloud,8,3,6,Fondamentale,2
+25,M025,Stratégie d'Entreprise,9,3,6,Fondamentale,1
+26,M026,Finance d'Entreprise,10,3,6,Fondamentale,1
+27,M027,Anglais Technique,1,2,3,Transversale,1
+28,M028,Communication Prof.,3,2,3,Transversale,2

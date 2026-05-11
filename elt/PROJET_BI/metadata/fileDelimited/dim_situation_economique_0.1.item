@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_6HfWcCcvEfGbt8aaCk4E_Q" name="dim_situation_economique" id="_6HevYCcvEfGbt8aaCk4E_Q" dataPackage="_6HfWcScvEfGbt8aaCk4E_Q" Server="Localhost 127.0.0.1" FilePath="C:/home/claude/education_bi_v2/dim_situation_economique.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" RemoveEmptyRow="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6HfWcScvEfGbt8aaCk4E_Q" name="default" dataManager="_6HfWcCcvEfGbt8aaCk4E_Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6HfWcicvEfGbt8aaCk4E_Q" id="_t2e30CcvEfGbt8aaCk4E_Q" comment="situation_economique_data" label="situation_economique_data">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWcycvEfGbt8aaCk4E_Q" label="id_situation_eco" length="2" talendType="id_Integer" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWdCcvEfGbt8aaCk4E_Q" label="id_etudiant" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWdScvEfGbt8aaCk4E_Q" label="mode_vie" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWdicvEfGbt8aaCk4E_Q" label="a_emploi_remunere" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWdycvEfGbt8aaCk4E_Q" label="heures_emploi_semaine" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWeCcvEfGbt8aaCk4E_Q" label="type_emploi" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWeScvEfGbt8aaCk4E_Q" label="beneficie_bourse" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWeicvEfGbt8aaCk4E_Q" label="montant_bourse_mensuel_fcfa" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWeycvEfGbt8aaCk4E_Q" label="source_financement_principale" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWfCcvEfGbt8aaCk4E_Q" label="difficultes_financieres_recurrentes" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6HfWfScvEfGbt8aaCk4E_Q" label="depenses_mensuelles_fcfa" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,92 @@
+﻿id_abandon,id_etudiant,id_filiere,annee_scolaire,annee_abandon,motif_abandon,semestre_abandon
+1,14,6,2023-24,2023,Difficultés financières,2
+2,38,4,2021-22,2021,Manque de motivation,1
+3,54,10,2021-22,2021,Problème de santé,2
+4,74,5,2022-23,2022,Raisons familiales,2
+5,93,10,2021-22,2021,Manque de motivation,2
+6,102,4,2021-22,2021,Difficultés académiques,1
+7,121,8,2022-23,2022,Difficultés académiques,1
+8,143,6,2023-24,2023,Difficultés académiques,1
+9,181,10,2023-24,2023,Difficultés financières,2
+10,233,4,2021-22,2021,Difficultés financières,2
+11,254,2,2022-23,2022,Manque de motivation,2
+12,267,3,2021-22,2021,Réorientation,1
+13,279,2,2021-22,2021,Raisons familiales,2
+14,291,2,2022-23,2022,Réorientation,1
+15,302,9,2023-24,2023,Problème de santé,1
+16,306,10,2020-21,2020,Raisons familiales,2
+17,319,10,2023-24,2023,Difficultés financières,1
+18,333,5,2022-23,2022,Raisons familiales,2
+19,341,1,2021-22,2021,Difficultés financières,2
+20,349,9,2023-24,2023,Problème de santé,2
+21,356,4,2022-23,2022,Difficultés financières,2
+22,361,7,2020-21,2020,Autre,2
+23,385,1,2023-24,2023,Difficultés financières,1
+24,416,7,2023-24,2023,Raisons familiales,2
+25,430,3,2022-23,2022,Difficultés financières,2
+26,447,2,2023-24,2023,Difficultés financières,1
+27,461,5,2022-23,2022,Réorientation,2
+28,468,8,2021-22,2021,Difficultés financières,1
+29,470,2,2020-21,2020,Difficultés financières,2
+30,485,5,2021-22,2021,Autre,2
+31,489,9,2021-22,2021,Difficultés académiques,1
+32,500,9,2022-23,2022,Difficultés financières,1
+33,502,3,2022-23,2022,Autre,2
+34,505,5,2020-21,2020,Raisons familiales,1
+35,535,2,2023-24,2023,Difficultés académiques,1
+36,687,3,2022-23,2022,Difficultés académiques,2
+37,699,5,2022-23,2022,Réorientation,1
+38,763,4,2021-22,2021,Raisons familiales,1
+39,809,3,2023-24,2023,Raisons familiales,1
+40,819,8,2021-22,2021,Difficultés académiques,1
+41,821,3,2020-21,2020,Raisons familiales,1
+42,824,2,2022-23,2022,Difficultés financières,2
+43,857,6,2023-24,2023,Difficultés financières,2
+44,876,6,2023-24,2023,Difficultés financières,1
+45,952,2,2020-21,2020,Problème de santé,2
+46,1028,2,2022-23,2022,Difficultés académiques,1
+47,1044,5,2022-23,2022,Raisons familiales,2
+48,1046,4,2022-23,2022,Manque de motivation,2
+49,1130,10,2022-23,2022,Difficultés financières,2
+50,1139,8,2022-23,2022,Raisons familiales,2
+51,1159,6,2020-21,2020,Difficultés financières,1
+52,1174,2,2020-21,2020,Réorientation,2
+53,1193,5,2021-22,2021,Raisons familiales,1
+54,1241,2,2023-24,2023,Raisons familiales,2
+55,1265,1,2022-23,2022,Difficultés financières,2
+56,1303,1,2022-23,2022,Difficultés financières,1
+57,1313,4,2022-23,2022,Difficultés financières,1
+58,1345,5,2021-22,2021,Difficultés académiques,1
+59,1383,5,2022-23,2022,Difficultés financières,2
+60,1409,7,2021-22,2021,Difficultés académiques,2
+61,1414,2,2021-22,2021,Manque de motivation,1
+62,1455,1,2022-23,2022,Difficultés académiques,1
+63,1464,4,2023-24,2023,Difficultés financières,1
+64,1514,8,2021-22,2021,Difficultés académiques,2
+65,1524,3,2023-24,2023,Difficultés financières,1
+66,1535,6,2023-24,2023,Difficultés académiques,1
+67,1599,5,2022-23,2022,Autre,2
+68,1631,5,2022-23,2022,Raisons familiales,1
+69,1634,6,2022-23,2022,Autre,1
+70,1650,3,2021-22,2021,Réorientation,2
+71,1661,5,2020-21,2020,Difficultés académiques,1
+72,1664,7,2021-22,2021,Difficultés financières,1
+73,1680,8,2022-23,2022,Difficultés financières,1
+74,1704,2,2022-23,2022,Difficultés financières,2
+75,1709,3,2022-23,2022,Difficultés financières,2
+76,1790,2,2022-23,2022,Raisons familiales,1
+77,1796,7,2023-24,2023,Difficultés financières,1
+78,1802,6,2022-23,2022,Raisons familiales,2
+79,1809,7,2022-23,2022,Difficultés académiques,2
+80,1822,4,2022-23,2022,Difficultés financières,1
+81,1825,3,2022-23,2022,Difficultés académiques,2
+82,1849,8,2023-24,2023,Raisons familiales,1
+83,1861,7,2022-23,2022,Difficultés financières,1
+84,1865,1,2022-23,2022,Manque de motivation,1
+85,1884,10,2022-23,2022,Autre,1
+86,1887,4,2022-23,2022,Difficultés financières,2
+87,1918,6,2022-23,2022,Difficultés académiques,2
+88,1926,3,2023-24,2023,Raisons familiales,1
+89,1942,10,2021-22,2021,Difficultés académiques,1
+90,1946,9,2023-24,2023,Difficultés académiques,2
+91,1953,1,2021-22,2021,Manque de motivation,2

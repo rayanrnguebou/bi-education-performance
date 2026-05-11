@@ -1,0 +1,2001 @@
+﻿id_difficulte,id_etudiant,maitrise_metier_etudiant,difficulte_adaptation_methodes,difficulte_taille_groupes,interet_lecture_ecriture,frequence_etude_lecons,attente_veille_examens,participation_examens_semestriels,passé_scolaire_difficile,decrochage_anterieur_sec_prim,difficultes_pedagogiques_specifiques
+1,1,Très mauvaise,Légère,0,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+2,2,Moyenne,Légère,1,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+3,3,Très bonne,Sévère,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Expression écrite
+4,4,Bonne,Modérée,0,Moyen,Intensivement,0,Tous,1,0,Compréhension des cours
+5,5,Mauvaise,Modérée,0,Élevé,Jamais,1,Quelques-uns,0,0,Expression écrite
+6,6,Mauvaise,Aucune,0,Élevé,Intensivement,1,Tous,1,0,Expression écrite
+7,7,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Expression écrite
+8,8,Très bonne,Aucune,1,Moyen,Parfois,0,Tous,0,0,Aucune
+9,9,Moyenne,Légère,0,Faible,Régulièrement,1,La plupart,0,0,Aucune
+10,10,Bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+11,11,Très mauvaise,Sévère,0,Faible,Jamais,1,Tous,0,0,Gestion du stress
+12,12,Très mauvaise,Modérée,0,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+13,13,Très bonne,Légère,1,Moyen,Rarement,1,Tous,1,0,Expression écrite
+14,14,Moyenne,Sévère,1,Faible,Jamais,1,Tous,0,0,Aucune
+15,15,Très mauvaise,Sévère,0,Faible,Régulièrement,1,Quelques-uns,0,0,Expression écrite
+16,16,Très mauvaise,Aucune,0,Moyen,Intensivement,0,La plupart,1,0,Organisation du travail
+17,17,Très bonne,Sévère,0,Faible,Parfois,0,Quelques-uns,0,0,Mémorisation
+18,18,Mauvaise,Légère,0,Moyen,Parfois,0,La plupart,0,0,Expression écrite
+19,19,Mauvaise,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+20,20,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+21,21,Très bonne,Légère,1,Moyen,Rarement,1,Tous,0,0,Organisation du travail
+22,22,Très bonne,Modérée,0,Moyen,Rarement,1,Quelques-uns,1,1,Expression écrite
+23,23,Très bonne,Sévère,1,Élevé,Rarement,1,Tous,1,1,Aucune
+24,24,Très mauvaise,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+25,25,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+26,26,Bonne,Légère,0,Élevé,Rarement,1,La plupart,0,0,Aucune
+27,27,Bonne,Légère,1,Faible,Rarement,1,Tous,0,0,Expression écrite
+28,28,Bonne,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+29,29,Bonne,Aucune,1,Moyen,Intensivement,0,Tous,1,0,Aucune
+30,30,Mauvaise,Légère,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+31,31,Moyenne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Expression écrite
+32,32,Bonne,Sévère,1,Élevé,Rarement,0,Tous,0,0,Aucune
+33,33,Mauvaise,Modérée,1,Moyen,Parfois,0,Tous,1,0,Compréhension des cours
+34,34,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+35,35,Moyenne,Modérée,0,Moyen,Intensivement,1,Tous,0,0,Aucune
+36,36,Bonne,Modérée,0,Élevé,Parfois,1,La plupart,0,0,Gestion du stress
+37,37,Très bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Gestion du stress
+38,38,Mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+39,39,Moyenne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+40,40,Moyenne,Légère,0,Élevé,Parfois,1,Tous,1,0,Aucune
+41,41,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+42,42,Bonne,Modérée,1,Élevé,Parfois,1,Tous,1,0,Aucune
+43,43,Moyenne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+44,44,Très bonne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+45,45,Moyenne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Organisation du travail
+46,46,Bonne,Modérée,1,Faible,Jamais,1,Tous,0,0,Mémorisation
+47,47,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+48,48,Bonne,Sévère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+49,49,Très bonne,Légère,0,Élevé,Parfois,1,Tous,0,0,Gestion du stress
+50,50,Bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+51,51,Mauvaise,Sévère,0,Moyen,Parfois,0,Aucun,0,0,Gestion du stress
+52,52,Très bonne,Modérée,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+53,53,Moyenne,Légère,1,Faible,Rarement,1,La plupart,0,0,Aucune
+54,54,Moyenne,Légère,0,Faible,Intensivement,0,Tous,0,0,Mémorisation
+55,55,Moyenne,Modérée,1,Faible,Parfois,0,Tous,0,0,Aucune
+56,56,Moyenne,Sévère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+57,57,Moyenne,Sévère,0,Moyen,Rarement,1,La plupart,0,0,Mémorisation
+58,58,Très bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+59,59,Bonne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Mémorisation
+60,60,Très bonne,Légère,1,Élevé,Parfois,1,Tous,0,0,Aucune
+61,61,Bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+62,62,Très mauvaise,Aucune,1,Élevé,Intensivement,0,Aucun,0,0,Aucune
+63,63,Très mauvaise,Légère,1,Moyen,Rarement,1,Tous,0,0,Aucune
+64,64,Moyenne,Légère,0,Faible,Jamais,1,Tous,0,0,Gestion du stress
+65,65,Bonne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Expression écrite
+66,66,Bonne,Modérée,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Aucune
+67,67,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Mémorisation
+68,68,Moyenne,Modérée,1,Moyen,Intensivement,1,La plupart,0,0,Aucune
+69,69,Très mauvaise,Modérée,1,Faible,Intensivement,0,Tous,0,0,Gestion du stress
+70,70,Moyenne,Aucune,0,Moyen,Régulièrement,1,Quelques-uns,0,0,Mémorisation
+71,71,Bonne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+72,72,Très mauvaise,Aucune,0,Moyen,Régulièrement,1,La plupart,0,0,Mémorisation
+73,73,Très bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Aucune
+74,74,Moyenne,Sévère,1,Moyen,Jamais,1,La plupart,0,0,Mémorisation
+75,75,Bonne,Sévère,0,Élevé,Rarement,1,Tous,0,0,Mémorisation
+76,76,Très mauvaise,Modérée,1,Moyen,Jamais,1,Tous,0,0,Expression écrite
+77,77,Très mauvaise,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+78,78,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+79,79,Bonne,Modérée,0,Moyen,Intensivement,0,Quelques-uns,0,0,Organisation du travail
+80,80,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+81,81,Très mauvaise,Légère,0,Élevé,Intensivement,0,Quelques-uns,0,0,Mémorisation
+82,82,Bonne,Sévère,0,Faible,Parfois,0,Tous,0,0,Aucune
+83,83,Très bonne,Sévère,1,Élevé,Parfois,1,Tous,0,0,Gestion du stress
+84,84,Moyenne,Modérée,0,Moyen,Parfois,1,La plupart,0,0,Aucune
+85,85,Mauvaise,Légère,1,Faible,Parfois,0,Tous,0,0,Compréhension des cours
+86,86,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+87,87,Moyenne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+88,88,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,1,0,Aucune
+89,89,Moyenne,Aucune,0,Faible,Parfois,1,Tous,0,0,Compréhension des cours
+90,90,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+91,91,Bonne,Modérée,1,Moyen,Jamais,1,La plupart,1,0,Organisation du travail
+92,92,Très mauvaise,Aucune,0,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+93,93,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+94,94,Bonne,Modérée,1,Moyen,Parfois,0,Tous,0,0,Aucune
+95,95,Moyenne,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Mémorisation
+96,96,Mauvaise,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+97,97,Mauvaise,Sévère,0,Moyen,Parfois,1,La plupart,1,0,Aucune
+98,98,Très bonne,Aucune,1,Élevé,Intensivement,0,La plupart,0,0,Expression écrite
+99,99,Bonne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Organisation du travail
+100,100,Très bonne,Légère,1,Faible,Régulièrement,1,Tous,1,1,Aucune
+101,101,Bonne,Aucune,0,Faible,Intensivement,0,Tous,0,0,Aucune
+102,102,Moyenne,Aucune,0,Faible,Régulièrement,1,Tous,0,0,Compréhension des cours
+103,103,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+104,104,Bonne,Aucune,1,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+105,105,Très bonne,Modérée,0,Moyen,Parfois,1,Quelques-uns,1,0,Aucune
+106,106,Très bonne,Légère,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+107,107,Moyenne,Aucune,1,Moyen,Parfois,1,Quelques-uns,0,0,Aucune
+108,108,Bonne,Légère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+109,109,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+110,110,Mauvaise,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+111,111,Bonne,Modérée,1,Moyen,Rarement,1,La plupart,1,0,Expression écrite
+112,112,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Gestion du stress
+113,113,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Expression écrite
+114,114,Mauvaise,Légère,0,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+115,115,Moyenne,Aucune,1,Moyen,Régulièrement,0,Tous,1,1,Aucune
+116,116,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+117,117,Moyenne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+118,118,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+119,119,Très bonne,Modérée,1,Élevé,Jamais,1,Tous,1,1,Organisation du travail
+120,120,Très bonne,Aucune,1,Élevé,Régulièrement,1,Tous,1,0,Mémorisation
+121,121,Très mauvaise,Modérée,1,Moyen,Intensivement,0,La plupart,1,1,Mémorisation
+122,122,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+123,123,Moyenne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+124,124,Mauvaise,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+125,125,Moyenne,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+126,126,Très bonne,Sévère,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+127,127,Mauvaise,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+128,128,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,1,1,Aucune
+129,129,Mauvaise,Modérée,0,Élevé,Parfois,0,Aucun,0,0,Expression écrite
+130,130,Très bonne,Aucune,0,Élevé,Parfois,0,Aucun,0,0,Organisation du travail
+131,131,Très mauvaise,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+132,132,Mauvaise,Modérée,0,Moyen,Rarement,1,Tous,0,0,Aucune
+133,133,Mauvaise,Modérée,0,Moyen,Rarement,1,La plupart,0,0,Mémorisation
+134,134,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+135,135,Bonne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+136,136,Très bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Expression écrite
+137,137,Mauvaise,Légère,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+138,138,Mauvaise,Aucune,1,Moyen,Régulièrement,0,Tous,1,1,Aucune
+139,139,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+140,140,Moyenne,Aucune,0,Élevé,Parfois,0,Quelques-uns,0,0,Gestion du stress
+141,141,Très bonne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+142,142,Très bonne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Aucune
+143,143,Très mauvaise,Modérée,0,Faible,Régulièrement,0,Tous,1,1,Aucune
+144,144,Moyenne,Légère,1,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+145,145,Très bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+146,146,Mauvaise,Modérée,0,Faible,Jamais,0,Tous,0,0,Organisation du travail
+147,147,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+148,148,Très bonne,Modérée,1,Élevé,Parfois,1,La plupart,1,1,Aucune
+149,149,Bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+150,150,Bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+151,151,Très mauvaise,Modérée,1,Moyen,Régulièrement,0,Tous,1,0,Mémorisation
+152,152,Mauvaise,Légère,0,Faible,Régulièrement,0,Tous,0,0,Gestion du stress
+153,153,Bonne,Sévère,0,Moyen,Jamais,1,Tous,0,0,Expression écrite
+154,154,Moyenne,Légère,0,Élevé,Intensivement,0,La plupart,1,0,Aucune
+155,155,Moyenne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+156,156,Très mauvaise,Aucune,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Gestion du stress
+157,157,Bonne,Légère,0,Moyen,Parfois,1,Tous,0,0,Organisation du travail
+158,158,Très bonne,Aucune,1,Élevé,Parfois,1,Tous,0,0,Mémorisation
+159,159,Moyenne,Légère,1,Élevé,Intensivement,0,La plupart,0,0,Aucune
+160,160,Bonne,Sévère,1,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+161,161,Très bonne,Légère,0,Faible,Intensivement,0,Quelques-uns,0,0,Compréhension des cours
+162,162,Mauvaise,Légère,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+163,163,Mauvaise,Aucune,0,Faible,Jamais,1,Tous,1,0,Gestion du stress
+164,164,Mauvaise,Modérée,0,Faible,Parfois,0,La plupart,0,0,Organisation du travail
+165,165,Bonne,Sévère,0,Moyen,Jamais,1,Tous,1,0,Gestion du stress
+166,166,Moyenne,Légère,1,Moyen,Jamais,1,La plupart,0,0,Aucune
+167,167,Très bonne,Sévère,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+168,168,Moyenne,Aucune,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+169,169,Bonne,Aucune,0,Élevé,Régulièrement,0,Aucun,0,0,Mémorisation
+170,170,Mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+171,171,Moyenne,Modérée,1,Moyen,Jamais,1,La plupart,1,0,Aucune
+172,172,Moyenne,Aucune,0,Élevé,Rarement,0,La plupart,0,0,Compréhension des cours
+173,173,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Mémorisation
+174,174,Très bonne,Aucune,0,Élevé,Régulièrement,1,Tous,0,0,Aucune
+175,175,Bonne,Légère,0,Élevé,Intensivement,0,La plupart,0,0,Organisation du travail
+176,176,Bonne,Légère,1,Élevé,Intensivement,0,La plupart,0,0,Organisation du travail
+177,177,Bonne,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+178,178,Moyenne,Légère,0,Élevé,Parfois,0,Aucun,0,0,Aucune
+179,179,Moyenne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Mémorisation
+180,180,Très bonne,Modérée,1,Moyen,Intensivement,1,Quelques-uns,0,0,Organisation du travail
+181,181,Mauvaise,Aucune,1,Moyen,Régulièrement,0,Tous,1,0,Aucune
+182,182,Très bonne,Légère,0,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+183,183,Bonne,Sévère,1,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+184,184,Bonne,Légère,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Expression écrite
+185,185,Mauvaise,Modérée,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+186,186,Mauvaise,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+187,187,Mauvaise,Légère,0,Faible,Parfois,1,La plupart,0,0,Compréhension des cours
+188,188,Moyenne,Légère,0,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+189,189,Très bonne,Modérée,0,Élevé,Parfois,1,Tous,1,0,Mémorisation
+190,190,Très mauvaise,Aucune,1,Élevé,Parfois,0,La plupart,0,0,Compréhension des cours
+191,191,Mauvaise,Légère,0,Élevé,Parfois,1,Tous,0,0,Organisation du travail
+192,192,Bonne,Modérée,0,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+193,193,Moyenne,Sévère,0,Faible,Parfois,1,Tous,0,0,Aucune
+194,194,Bonne,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+195,195,Bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+196,196,Bonne,Aucune,0,Élevé,Rarement,0,Tous,0,0,Organisation du travail
+197,197,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+198,198,Très mauvaise,Aucune,0,Faible,Parfois,0,Tous,0,0,Aucune
+199,199,Bonne,Légère,1,Élevé,Régulièrement,0,La plupart,1,0,Mémorisation
+200,200,Bonne,Modérée,1,Faible,Régulièrement,0,La plupart,0,0,Mémorisation
+201,201,Mauvaise,Modérée,1,Moyen,Régulièrement,1,Tous,0,0,Gestion du stress
+202,202,Très bonne,Légère,0,Moyen,Intensivement,0,La plupart,0,0,Organisation du travail
+203,203,Moyenne,Sévère,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+204,204,Moyenne,Sévère,1,Faible,Parfois,1,Quelques-uns,0,0,Compréhension des cours
+205,205,Très mauvaise,Légère,1,Moyen,Régulièrement,0,La plupart,0,0,Expression écrite
+206,206,Bonne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Aucune
+207,207,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+208,208,Mauvaise,Légère,0,Élevé,Rarement,0,Tous,1,1,Aucune
+209,209,Bonne,Légère,0,Moyen,Rarement,1,Tous,1,1,Aucune
+210,210,Moyenne,Sévère,1,Moyen,Rarement,0,Tous,0,0,Aucune
+211,211,Bonne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+212,212,Bonne,Modérée,1,Moyen,Rarement,1,Quelques-uns,1,1,Expression écrite
+213,213,Moyenne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+214,214,Moyenne,Modérée,0,Faible,Parfois,1,Tous,0,0,Organisation du travail
+215,215,Très bonne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Aucune
+216,216,Moyenne,Légère,0,Moyen,Parfois,1,Tous,0,0,Aucune
+217,217,Très bonne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Aucune
+218,218,Moyenne,Aucune,1,Élevé,Régulièrement,0,La plupart,0,0,Organisation du travail
+219,219,Très mauvaise,Légère,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+220,220,Très bonne,Aucune,1,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+221,221,Bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+222,222,Bonne,Aucune,1,Élevé,Intensivement,1,Tous,0,0,Gestion du stress
+223,223,Très bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+224,224,Bonne,Légère,1,Élevé,Jamais,1,Tous,1,1,Compréhension des cours
+225,225,Moyenne,Aucune,1,Élevé,Parfois,0,Quelques-uns,0,0,Mémorisation
+226,226,Moyenne,Modérée,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+227,227,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+228,228,Bonne,Modérée,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+229,229,Bonne,Légère,0,Élevé,Régulièrement,1,La plupart,1,1,Aucune
+230,230,Bonne,Modérée,1,Moyen,Parfois,1,Quelques-uns,1,0,Mémorisation
+231,231,Mauvaise,Modérée,0,Moyen,Régulièrement,0,Tous,1,0,Compréhension des cours
+232,232,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,1,0,Aucune
+233,233,Très bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+234,234,Mauvaise,Aucune,0,Moyen,Régulièrement,1,Tous,1,0,Expression écrite
+235,235,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+236,236,Mauvaise,Sévère,1,Moyen,Parfois,1,Tous,0,0,Expression écrite
+237,237,Moyenne,Légère,1,Élevé,Parfois,1,Tous,0,0,Organisation du travail
+238,238,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+239,239,Bonne,Légère,0,Faible,Intensivement,0,Tous,0,0,Aucune
+240,240,Bonne,Sévère,1,Faible,Régulièrement,0,Tous,0,0,Expression écrite
+241,241,Très bonne,Sévère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+242,242,Bonne,Modérée,0,Moyen,Rarement,0,La plupart,1,0,Compréhension des cours
+243,243,Moyenne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Gestion du stress
+244,244,Mauvaise,Modérée,0,Faible,Rarement,0,La plupart,0,0,Aucune
+245,245,Bonne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+246,246,Bonne,Aucune,0,Moyen,Régulièrement,0,Tous,1,1,Mémorisation
+247,247,Très bonne,Légère,1,Faible,Jamais,1,Tous,0,0,Aucune
+248,248,Bonne,Légère,1,Moyen,Régulièrement,1,Tous,1,0,Mémorisation
+249,249,Bonne,Légère,0,Moyen,Parfois,0,La plupart,1,1,Mémorisation
+250,250,Très bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Aucune
+251,251,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+252,252,Bonne,Sévère,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+253,253,Mauvaise,Sévère,1,Faible,Jamais,1,La plupart,0,0,Organisation du travail
+254,254,Bonne,Aucune,1,Élevé,Parfois,0,Tous,0,0,Mémorisation
+255,255,Bonne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Expression écrite
+256,256,Très mauvaise,Légère,1,Élevé,Rarement,0,Aucun,1,1,Compréhension des cours
+257,257,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+258,258,Mauvaise,Légère,1,Moyen,Régulièrement,1,La plupart,1,0,Organisation du travail
+259,259,Mauvaise,Légère,1,Faible,Parfois,1,Tous,0,0,Aucune
+260,260,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+261,261,Bonne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+262,262,Moyenne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+263,263,Moyenne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Mémorisation
+264,264,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+265,265,Moyenne,Sévère,1,Moyen,Jamais,1,Tous,1,0,Gestion du stress
+266,266,Moyenne,Modérée,0,Faible,Intensivement,0,La plupart,0,0,Organisation du travail
+267,267,Mauvaise,Sévère,0,Élevé,Rarement,0,Tous,0,0,Expression écrite
+268,268,Très mauvaise,Sévère,1,Moyen,Parfois,0,Quelques-uns,0,0,Aucune
+269,269,Mauvaise,Modérée,0,Moyen,Rarement,1,Tous,1,1,Mémorisation
+270,270,Bonne,Aucune,0,Faible,Régulièrement,0,Tous,1,0,Expression écrite
+271,271,Mauvaise,Modérée,0,Faible,Régulièrement,1,Quelques-uns,1,0,Gestion du stress
+272,272,Très bonne,Modérée,1,Élevé,Régulièrement,1,La plupart,0,0,Compréhension des cours
+273,273,Très bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+274,274,Très bonne,Modérée,1,Moyen,Parfois,0,Quelques-uns,1,0,Aucune
+275,275,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Expression écrite
+276,276,Moyenne,Modérée,0,Faible,Régulièrement,0,Tous,1,1,Aucune
+277,277,Mauvaise,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Organisation du travail
+278,278,Moyenne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Compréhension des cours
+279,279,Bonne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Expression écrite
+280,280,Très bonne,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+281,281,Bonne,Modérée,0,Faible,Jamais,0,Tous,0,0,Aucune
+282,282,Bonne,Sévère,0,Faible,Jamais,1,La plupart,0,0,Aucune
+283,283,Très mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,1,1,Expression écrite
+284,284,Moyenne,Aucune,1,Faible,Régulièrement,1,La plupart,0,0,Gestion du stress
+285,285,Bonne,Modérée,0,Moyen,Rarement,0,Tous,0,0,Aucune
+286,286,Moyenne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+287,287,Mauvaise,Modérée,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+288,288,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,1,0,Aucune
+289,289,Très mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Compréhension des cours
+290,290,Moyenne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+291,291,Bonne,Aucune,1,Faible,Parfois,1,La plupart,0,0,Compréhension des cours
+292,292,Mauvaise,Modérée,0,Moyen,Régulièrement,0,Aucun,0,0,Aucune
+293,293,Bonne,Légère,0,Faible,Régulièrement,1,Tous,0,0,Compréhension des cours
+294,294,Bonne,Légère,1,Faible,Parfois,0,Tous,0,0,Mémorisation
+295,295,Moyenne,Modérée,0,Faible,Parfois,0,Tous,1,0,Aucune
+296,296,Mauvaise,Modérée,1,Moyen,Régulièrement,1,La plupart,1,0,Aucune
+297,297,Moyenne,Aucune,0,Élevé,Parfois,1,Tous,0,0,Aucune
+298,298,Mauvaise,Légère,0,Faible,Parfois,1,Tous,0,0,Aucune
+299,299,Mauvaise,Sévère,0,Moyen,Parfois,1,Tous,0,0,Aucune
+300,300,Très bonne,Modérée,1,Moyen,Jamais,1,La plupart,0,0,Aucune
+301,301,Mauvaise,Sévère,0,Moyen,Parfois,0,Tous,1,1,Mémorisation
+302,302,Moyenne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+303,303,Bonne,Modérée,0,Faible,Rarement,1,Tous,0,0,Compréhension des cours
+304,304,Mauvaise,Modérée,0,Faible,Rarement,1,Quelques-uns,1,0,Organisation du travail
+305,305,Moyenne,Aucune,0,Moyen,Intensivement,0,La plupart,1,0,Expression écrite
+306,306,Mauvaise,Modérée,0,Faible,Rarement,1,La plupart,0,0,Aucune
+307,307,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+308,308,Bonne,Modérée,0,Moyen,Intensivement,0,La plupart,0,0,Gestion du stress
+309,309,Mauvaise,Légère,1,Faible,Intensivement,0,Tous,0,0,Mémorisation
+310,310,Moyenne,Légère,0,Faible,Parfois,0,Tous,1,1,Aucune
+311,311,Très bonne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+312,312,Moyenne,Modérée,1,Moyen,Rarement,0,Aucun,1,1,Aucune
+313,313,Bonne,Légère,1,Élevé,Jamais,1,Tous,0,0,Organisation du travail
+314,314,Mauvaise,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+315,315,Mauvaise,Aucune,1,Élevé,Parfois,0,Tous,0,0,Aucune
+316,316,Très mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+317,317,Bonne,Légère,0,Faible,Parfois,1,Tous,0,0,Expression écrite
+318,318,Moyenne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+319,319,Moyenne,Sévère,1,Élevé,Jamais,1,Aucun,0,0,Compréhension des cours
+320,320,Moyenne,Sévère,1,Moyen,Jamais,1,La plupart,0,0,Gestion du stress
+321,321,Mauvaise,Modérée,1,Élevé,Parfois,1,Tous,0,0,Organisation du travail
+322,322,Très mauvaise,Modérée,1,Faible,Rarement,1,Tous,0,0,Aucune
+323,323,Bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+324,324,Très bonne,Légère,1,Élevé,Rarement,1,Tous,0,0,Aucune
+325,325,Bonne,Modérée,1,Faible,Régulièrement,0,La plupart,0,0,Compréhension des cours
+326,326,Mauvaise,Légère,1,Faible,Rarement,1,Tous,0,0,Aucune
+327,327,Bonne,Légère,0,Faible,Rarement,1,Tous,0,0,Compréhension des cours
+328,328,Très bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+329,329,Moyenne,Sévère,0,Moyen,Intensivement,1,La plupart,0,0,Aucune
+330,330,Très bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+331,331,Très bonne,Légère,0,Élevé,Intensivement,0,La plupart,0,0,Aucune
+332,332,Bonne,Légère,1,Élevé,Rarement,0,Tous,0,0,Aucune
+333,333,Mauvaise,Légère,0,Élevé,Rarement,1,La plupart,0,0,Aucune
+334,334,Très bonne,Sévère,1,Moyen,Rarement,1,Tous,0,0,Aucune
+335,335,Bonne,Légère,0,Élevé,Intensivement,0,Tous,1,0,Organisation du travail
+336,336,Très bonne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Expression écrite
+337,337,Moyenne,Aucune,1,Moyen,Régulièrement,1,La plupart,0,0,Organisation du travail
+338,338,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+339,339,Moyenne,Légère,0,Faible,Parfois,0,Aucun,0,0,Expression écrite
+340,340,Bonne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Mémorisation
+341,341,Bonne,Sévère,0,Moyen,Rarement,0,La plupart,1,0,Mémorisation
+342,342,Mauvaise,Sévère,1,Faible,Parfois,0,Tous,1,1,Mémorisation
+343,343,Moyenne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Aucune
+344,344,Moyenne,Modérée,1,Élevé,Intensivement,1,Tous,0,0,Mémorisation
+345,345,Bonne,Légère,1,Faible,Parfois,1,Aucun,0,0,Aucune
+346,346,Bonne,Aucune,0,Faible,Parfois,1,Tous,0,0,Aucune
+347,347,Moyenne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+348,348,Moyenne,Légère,1,Élevé,Intensivement,0,La plupart,0,0,Gestion du stress
+349,349,Moyenne,Légère,0,Moyen,Jamais,0,Quelques-uns,0,0,Compréhension des cours
+350,350,Moyenne,Modérée,0,Élevé,Jamais,1,Tous,0,0,Aucune
+351,351,Bonne,Modérée,0,Faible,Parfois,0,Tous,0,0,Aucune
+352,352,Moyenne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Gestion du stress
+353,353,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+354,354,Bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Aucune
+355,355,Moyenne,Légère,1,Faible,Parfois,0,Tous,1,1,Aucune
+356,356,Bonne,Modérée,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Aucune
+357,357,Bonne,Modérée,0,Élevé,Parfois,1,Tous,1,1,Mémorisation
+358,358,Très bonne,Légère,1,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+359,359,Mauvaise,Sévère,1,Moyen,Jamais,1,Tous,1,0,Organisation du travail
+360,360,Moyenne,Modérée,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+361,361,Bonne,Légère,1,Élevé,Parfois,0,Quelques-uns,0,0,Expression écrite
+362,362,Bonne,Aucune,1,Élevé,Intensivement,0,La plupart,0,0,Compréhension des cours
+363,363,Très mauvaise,Aucune,1,Faible,Parfois,0,Tous,0,0,Organisation du travail
+364,364,Mauvaise,Aucune,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+365,365,Moyenne,Sévère,0,Moyen,Rarement,0,Quelques-uns,0,0,Gestion du stress
+366,366,Moyenne,Aucune,1,Faible,Régulièrement,1,La plupart,0,0,Aucune
+367,367,Très bonne,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+368,368,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+369,369,Très bonne,Sévère,1,Faible,Parfois,1,La plupart,0,0,Expression écrite
+370,370,Bonne,Modérée,0,Élevé,Parfois,1,Quelques-uns,1,0,Aucune
+371,371,Très bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+372,372,Bonne,Modérée,1,Moyen,Parfois,0,La plupart,0,0,Mémorisation
+373,373,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+374,374,Moyenne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Compréhension des cours
+375,375,Moyenne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Expression écrite
+376,376,Moyenne,Aucune,1,Faible,Intensivement,0,Quelques-uns,1,0,Aucune
+377,377,Mauvaise,Sévère,1,Faible,Rarement,0,La plupart,0,0,Organisation du travail
+378,378,Très bonne,Sévère,0,Élevé,Jamais,1,Aucun,0,0,Organisation du travail
+379,379,Très bonne,Aucune,1,Moyen,Parfois,1,Tous,0,0,Aucune
+380,380,Très bonne,Légère,0,Faible,Intensivement,0,Tous,1,1,Expression écrite
+381,381,Moyenne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Mémorisation
+382,382,Moyenne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+383,383,Bonne,Légère,1,Élevé,Parfois,0,Tous,1,0,Gestion du stress
+384,384,Moyenne,Modérée,0,Élevé,Parfois,1,Tous,1,0,Aucune
+385,385,Bonne,Modérée,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Compréhension des cours
+386,386,Bonne,Sévère,0,Faible,Jamais,1,Tous,0,0,Aucune
+387,387,Très bonne,Sévère,0,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+388,388,Moyenne,Légère,0,Moyen,Rarement,1,Tous,0,0,Compréhension des cours
+389,389,Bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+390,390,Bonne,Aucune,1,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+391,391,Mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,1,0,Organisation du travail
+392,392,Mauvaise,Modérée,1,Moyen,Rarement,1,Aucun,1,1,Organisation du travail
+393,393,Mauvaise,Modérée,0,Élevé,Rarement,1,Aucun,1,1,Aucune
+394,394,Mauvaise,Modérée,0,Faible,Intensivement,0,Tous,0,0,Aucune
+395,395,Bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+396,396,Mauvaise,Aucune,1,Moyen,Intensivement,0,La plupart,0,0,Aucune
+397,397,Moyenne,Modérée,0,Élevé,Parfois,1,La plupart,0,0,Mémorisation
+398,398,Bonne,Légère,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+399,399,Moyenne,Légère,0,Moyen,Rarement,0,Tous,0,0,Compréhension des cours
+400,400,Bonne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+401,401,Bonne,Sévère,1,Faible,Parfois,1,Tous,0,0,Mémorisation
+402,402,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+403,403,Moyenne,Sévère,1,Faible,Parfois,1,Tous,0,0,Expression écrite
+404,404,Moyenne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Aucune
+405,405,Bonne,Légère,0,Élevé,Jamais,0,Tous,0,0,Aucune
+406,406,Bonne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+407,407,Bonne,Légère,1,Faible,Parfois,0,Quelques-uns,0,0,Mémorisation
+408,408,Bonne,Modérée,0,Faible,Parfois,0,Tous,1,0,Aucune
+409,409,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+410,410,Moyenne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Expression écrite
+411,411,Moyenne,Modérée,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+412,412,Très mauvaise,Légère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+413,413,Moyenne,Modérée,0,Moyen,Rarement,0,La plupart,0,0,Aucune
+414,414,Moyenne,Légère,1,Moyen,Parfois,1,Tous,0,0,Mémorisation
+415,415,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Mémorisation
+416,416,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+417,417,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+418,418,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+419,419,Mauvaise,Sévère,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Aucune
+420,420,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,1,0,Organisation du travail
+421,421,Mauvaise,Modérée,0,Élevé,Parfois,1,Tous,0,0,Aucune
+422,422,Très mauvaise,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+423,423,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+424,424,Bonne,Modérée,1,Moyen,Parfois,0,La plupart,0,0,Aucune
+425,425,Mauvaise,Légère,0,Moyen,Parfois,0,Tous,0,0,Expression écrite
+426,426,Bonne,Sévère,0,Élevé,Intensivement,0,La plupart,0,0,Gestion du stress
+427,427,Moyenne,Modérée,1,Moyen,Parfois,0,La plupart,1,0,Aucune
+428,428,Moyenne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Mémorisation
+429,429,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+430,430,Très bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+431,431,Bonne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Expression écrite
+432,432,Très mauvaise,Sévère,0,Moyen,Rarement,0,La plupart,1,0,Mémorisation
+433,433,Moyenne,Sévère,1,Faible,Parfois,1,Tous,0,0,Compréhension des cours
+434,434,Moyenne,Légère,1,Faible,Intensivement,0,La plupart,0,0,Aucune
+435,435,Mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Mémorisation
+436,436,Moyenne,Sévère,0,Faible,Rarement,1,Tous,0,0,Mémorisation
+437,437,Bonne,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+438,438,Bonne,Légère,1,Moyen,Parfois,1,La plupart,1,1,Aucune
+439,439,Moyenne,Légère,1,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+440,440,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+441,441,Mauvaise,Légère,0,Moyen,Intensivement,0,La plupart,0,0,Compréhension des cours
+442,442,Bonne,Aucune,1,Faible,Régulièrement,0,Tous,0,0,Organisation du travail
+443,443,Moyenne,Aucune,0,Moyen,Parfois,0,Quelques-uns,1,1,Organisation du travail
+444,444,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+445,445,Bonne,Sévère,1,Faible,Parfois,1,Tous,0,0,Aucune
+446,446,Moyenne,Sévère,1,Faible,Parfois,1,Tous,0,0,Aucune
+447,447,Moyenne,Sévère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+448,448,Très mauvaise,Aucune,0,Élevé,Rarement,1,La plupart,1,1,Mémorisation
+449,449,Mauvaise,Modérée,0,Élevé,Régulièrement,1,Tous,1,0,Aucune
+450,450,Mauvaise,Légère,0,Élevé,Rarement,1,Tous,0,0,Aucune
+451,451,Bonne,Légère,1,Moyen,Parfois,0,Tous,0,0,Gestion du stress
+452,452,Bonne,Sévère,0,Faible,Régulièrement,0,Tous,1,0,Gestion du stress
+453,453,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Gestion du stress
+454,454,Très mauvaise,Sévère,0,Élevé,Rarement,0,Tous,0,0,Organisation du travail
+455,455,Bonne,Sévère,1,Élevé,Jamais,1,Tous,1,1,Aucune
+456,456,Moyenne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+457,457,Moyenne,Sévère,1,Faible,Parfois,0,Tous,0,0,Aucune
+458,458,Moyenne,Aucune,1,Faible,Rarement,1,Tous,0,0,Aucune
+459,459,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,1,0,Mémorisation
+460,460,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+461,461,Mauvaise,Modérée,1,Faible,Intensivement,0,Tous,0,0,Organisation du travail
+462,462,Mauvaise,Légère,0,Moyen,Rarement,1,Tous,1,0,Aucune
+463,463,Bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+464,464,Mauvaise,Légère,1,Faible,Parfois,1,Tous,0,0,Aucune
+465,465,Bonne,Légère,1,Faible,Intensivement,0,Tous,0,0,Aucune
+466,466,Moyenne,Sévère,1,Faible,Rarement,0,Tous,1,0,Gestion du stress
+467,467,Moyenne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Organisation du travail
+468,468,Moyenne,Légère,1,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+469,469,Bonne,Aucune,1,Moyen,Régulièrement,0,La plupart,0,0,Gestion du stress
+470,470,Très bonne,Modérée,1,Moyen,Jamais,0,Tous,0,0,Aucune
+471,471,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,1,0,Aucune
+472,472,Bonne,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Expression écrite
+473,473,Très bonne,Aucune,1,Moyen,Parfois,1,Tous,0,0,Mémorisation
+474,474,Bonne,Sévère,1,Faible,Parfois,0,La plupart,0,0,Compréhension des cours
+475,475,Mauvaise,Modérée,0,Élevé,Rarement,1,La plupart,0,0,Mémorisation
+476,476,Bonne,Aucune,0,Élevé,Régulièrement,1,La plupart,0,0,Expression écrite
+477,477,Très bonne,Modérée,0,Élevé,Parfois,1,Tous,1,0,Gestion du stress
+478,478,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,1,0,Mémorisation
+479,479,Moyenne,Modérée,0,Faible,Rarement,1,Tous,1,0,Mémorisation
+480,480,Bonne,Modérée,0,Moyen,Rarement,1,La plupart,1,1,Organisation du travail
+481,481,Bonne,Légère,1,Élevé,Parfois,1,Tous,1,0,Aucune
+482,482,Mauvaise,Modérée,0,Faible,Régulièrement,0,La plupart,1,1,Aucune
+483,483,Bonne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+484,484,Mauvaise,Modérée,0,Élevé,Jamais,1,Tous,0,0,Aucune
+485,485,Très mauvaise,Légère,0,Moyen,Régulièrement,1,Quelques-uns,1,1,Mémorisation
+486,486,Très bonne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Aucune
+487,487,Moyenne,Aucune,0,Faible,Parfois,0,Tous,0,0,Compréhension des cours
+488,488,Bonne,Sévère,1,Élevé,Rarement,0,Tous,1,1,Aucune
+489,489,Bonne,Modérée,0,Faible,Parfois,1,Tous,0,0,Expression écrite
+490,490,Mauvaise,Modérée,1,Moyen,Rarement,1,Tous,0,0,Expression écrite
+491,491,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+492,492,Moyenne,Aucune,0,Élevé,Parfois,1,Tous,1,1,Expression écrite
+493,493,Moyenne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+494,494,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+495,495,Moyenne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+496,496,Mauvaise,Sévère,1,Moyen,Rarement,1,Tous,0,0,Compréhension des cours
+497,497,Mauvaise,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+498,498,Mauvaise,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+499,499,Bonne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+500,500,Moyenne,Aucune,0,Moyen,Rarement,1,Tous,0,0,Gestion du stress
+501,501,Bonne,Modérée,0,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+502,502,Très bonne,Légère,0,Faible,Jamais,0,Tous,0,0,Mémorisation
+503,503,Moyenne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+504,504,Moyenne,Modérée,1,Moyen,Rarement,1,Tous,0,0,Compréhension des cours
+505,505,Moyenne,Modérée,1,Moyen,Jamais,1,Aucun,0,0,Mémorisation
+506,506,Moyenne,Légère,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+507,507,Mauvaise,Légère,1,Faible,Régulièrement,0,Tous,0,0,Expression écrite
+508,508,Très bonne,Légère,1,Moyen,Jamais,1,Tous,0,0,Compréhension des cours
+509,509,Très bonne,Légère,1,Élevé,Régulièrement,0,Tous,1,0,Expression écrite
+510,510,Moyenne,Aucune,1,Moyen,Intensivement,0,La plupart,0,0,Aucune
+511,511,Moyenne,Légère,1,Élevé,Parfois,0,Aucun,0,0,Aucune
+512,512,Moyenne,Modérée,1,Moyen,Intensivement,0,Tous,1,1,Gestion du stress
+513,513,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+514,514,Bonne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+515,515,Moyenne,Légère,1,Faible,Parfois,0,Quelques-uns,0,0,Compréhension des cours
+516,516,Moyenne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Aucune
+517,517,Très bonne,Modérée,0,Moyen,Rarement,0,La plupart,0,0,Mémorisation
+518,518,Très bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+519,519,Bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+520,520,Très bonne,Légère,1,Élevé,Parfois,1,La plupart,0,0,Mémorisation
+521,521,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+522,522,Mauvaise,Modérée,0,Moyen,Rarement,1,Tous,0,0,Aucune
+523,523,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+524,524,Moyenne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+525,525,Moyenne,Légère,1,Faible,Parfois,1,Tous,0,0,Aucune
+526,526,Moyenne,Légère,0,Faible,Intensivement,0,La plupart,0,0,Aucune
+527,527,Mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Expression écrite
+528,528,Très bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+529,529,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,1,1,Aucune
+530,530,Très bonne,Modérée,1,Moyen,Intensivement,0,La plupart,0,0,Organisation du travail
+531,531,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+532,532,Moyenne,Légère,0,Moyen,Rarement,1,Tous,0,0,Organisation du travail
+533,533,Moyenne,Modérée,0,Faible,Parfois,1,Tous,0,0,Aucune
+534,534,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+535,535,Très bonne,Aucune,1,Élevé,Intensivement,0,La plupart,0,0,Compréhension des cours
+536,536,Bonne,Légère,1,Élevé,Rarement,1,Tous,0,0,Expression écrite
+537,537,Bonne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+538,538,Moyenne,Légère,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+539,539,Mauvaise,Modérée,0,Élevé,Parfois,0,Tous,0,0,Aucune
+540,540,Très bonne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+541,541,Mauvaise,Aucune,0,Faible,Parfois,0,La plupart,0,0,Organisation du travail
+542,542,Bonne,Modérée,0,Élevé,Parfois,1,La plupart,0,0,Compréhension des cours
+543,543,Moyenne,Légère,1,Faible,Parfois,1,Tous,0,0,Expression écrite
+544,544,Bonne,Aucune,1,Élevé,Intensivement,0,La plupart,0,0,Expression écrite
+545,545,Moyenne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Aucune
+546,546,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+547,547,Bonne,Sévère,0,Moyen,Rarement,1,Tous,0,0,Organisation du travail
+548,548,Bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Expression écrite
+549,549,Bonne,Modérée,0,Faible,Rarement,0,Tous,0,0,Compréhension des cours
+550,550,Très bonne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+551,551,Bonne,Légère,0,Élevé,Rarement,1,La plupart,0,0,Organisation du travail
+552,552,Très mauvaise,Modérée,1,Moyen,Parfois,1,Tous,1,1,Organisation du travail
+553,553,Très bonne,Légère,0,Moyen,Parfois,1,Tous,0,0,Expression écrite
+554,554,Bonne,Sévère,1,Faible,Parfois,0,Tous,0,0,Mémorisation
+555,555,Bonne,Légère,0,Élevé,Intensivement,0,La plupart,1,1,Gestion du stress
+556,556,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+557,557,Mauvaise,Modérée,0,Moyen,Jamais,1,La plupart,0,0,Expression écrite
+558,558,Mauvaise,Aucune,0,Moyen,Parfois,1,La plupart,1,1,Aucune
+559,559,Très bonne,Aucune,0,Moyen,Parfois,1,Tous,0,0,Gestion du stress
+560,560,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+561,561,Moyenne,Légère,0,Moyen,Rarement,1,La plupart,0,0,Expression écrite
+562,562,Bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+563,563,Mauvaise,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+564,564,Moyenne,Légère,1,Faible,Régulièrement,0,La plupart,0,0,Mémorisation
+565,565,Moyenne,Légère,0,Moyen,Parfois,1,Tous,0,0,Aucune
+566,566,Bonne,Modérée,1,Moyen,Parfois,0,Tous,1,1,Aucune
+567,567,Bonne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Expression écrite
+568,568,Très bonne,Légère,0,Moyen,Régulièrement,1,Tous,1,0,Mémorisation
+569,569,Très bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+570,570,Bonne,Modérée,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+571,571,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Tous,1,0,Gestion du stress
+572,572,Mauvaise,Aucune,0,Élevé,Intensivement,0,Tous,1,1,Expression écrite
+573,573,Moyenne,Aucune,0,Moyen,Intensivement,0,La plupart,0,0,Expression écrite
+574,574,Moyenne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+575,575,Très mauvaise,Aucune,0,Élevé,Parfois,0,La plupart,0,0,Gestion du stress
+576,576,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+577,577,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+578,578,Bonne,Légère,1,Faible,Parfois,1,Tous,0,0,Gestion du stress
+579,579,Mauvaise,Aucune,1,Élevé,Rarement,0,Tous,0,0,Organisation du travail
+580,580,Bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+581,581,Moyenne,Modérée,1,Élevé,Jamais,0,Aucun,0,0,Expression écrite
+582,582,Très bonne,Aucune,0,Élevé,Parfois,1,Aucun,0,0,Aucune
+583,583,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,1,0,Expression écrite
+584,584,Très bonne,Légère,1,Moyen,Parfois,0,Tous,0,0,Expression écrite
+585,585,Très mauvaise,Modérée,0,Élevé,Parfois,0,La plupart,0,0,Gestion du stress
+586,586,Bonne,Sévère,1,Élevé,Rarement,1,La plupart,1,0,Aucune
+587,587,Très bonne,Aucune,0,Faible,Régulièrement,1,Tous,0,0,Mémorisation
+588,588,Mauvaise,Légère,0,Moyen,Intensivement,0,Tous,1,0,Expression écrite
+589,589,Moyenne,Modérée,0,Élevé,Parfois,0,Aucun,1,0,Compréhension des cours
+590,590,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,1,0,Gestion du stress
+591,591,Moyenne,Légère,1,Faible,Régulièrement,0,Tous,1,1,Aucune
+592,592,Mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Gestion du stress
+593,593,Bonne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Aucune
+594,594,Moyenne,Modérée,0,Moyen,Régulièrement,1,Quelques-uns,1,0,Aucune
+595,595,Mauvaise,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+596,596,Mauvaise,Modérée,0,Élevé,Parfois,1,Tous,1,1,Organisation du travail
+597,597,Bonne,Légère,1,Moyen,Parfois,0,Tous,0,0,Organisation du travail
+598,598,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+599,599,Très bonne,Modérée,0,Élevé,Parfois,0,La plupart,0,0,Organisation du travail
+600,600,Moyenne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+601,601,Très bonne,Modérée,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+602,602,Bonne,Modérée,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Expression écrite
+603,603,Très bonne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+604,604,Très bonne,Modérée,0,Faible,Régulièrement,0,Aucun,0,0,Expression écrite
+605,605,Bonne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Aucune
+606,606,Moyenne,Modérée,0,Moyen,Intensivement,1,Tous,0,0,Aucune
+607,607,Bonne,Légère,1,Moyen,Jamais,1,Tous,0,0,Compréhension des cours
+608,608,Moyenne,Légère,1,Faible,Parfois,0,Quelques-uns,0,0,Aucune
+609,609,Bonne,Légère,0,Moyen,Jamais,1,Tous,1,0,Aucune
+610,610,Mauvaise,Aucune,0,Moyen,Parfois,1,La plupart,0,0,Organisation du travail
+611,611,Moyenne,Légère,0,Moyen,Rarement,0,La plupart,1,0,Organisation du travail
+612,612,Mauvaise,Légère,1,Élevé,Régulièrement,1,La plupart,0,0,Gestion du stress
+613,613,Moyenne,Modérée,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+614,614,Bonne,Légère,0,Élevé,Parfois,1,La plupart,0,0,Aucune
+615,615,Moyenne,Légère,1,Moyen,Parfois,0,Tous,0,0,Aucune
+616,616,Mauvaise,Modérée,0,Élevé,Parfois,0,La plupart,0,0,Aucune
+617,617,Moyenne,Légère,0,Élevé,Régulièrement,0,La plupart,1,0,Aucune
+618,618,Très bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+619,619,Bonne,Modérée,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+620,620,Très mauvaise,Légère,1,Faible,Régulièrement,1,La plupart,0,0,Aucune
+621,621,Moyenne,Modérée,0,Moyen,Régulièrement,1,La plupart,0,0,Gestion du stress
+622,622,Bonne,Aucune,1,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+623,623,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+624,624,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+625,625,Bonne,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Expression écrite
+626,626,Bonne,Aucune,1,Élevé,Parfois,0,Tous,1,1,Aucune
+627,627,Bonne,Modérée,0,Moyen,Parfois,0,La plupart,1,1,Mémorisation
+628,628,Moyenne,Légère,1,Faible,Régulièrement,0,Tous,1,1,Organisation du travail
+629,629,Très bonne,Modérée,0,Faible,Parfois,1,La plupart,0,0,Compréhension des cours
+630,630,Bonne,Légère,0,Moyen,Jamais,1,Tous,1,1,Mémorisation
+631,631,Moyenne,Sévère,0,Faible,Régulièrement,0,La plupart,0,0,Compréhension des cours
+632,632,Très bonne,Modérée,0,Élevé,Régulièrement,0,La plupart,0,0,Mémorisation
+633,633,Bonne,Modérée,1,Élevé,Rarement,1,La plupart,0,0,Mémorisation
+634,634,Bonne,Aucune,0,Moyen,Parfois,1,La plupart,0,0,Compréhension des cours
+635,635,Très mauvaise,Modérée,1,Faible,Parfois,1,Tous,0,0,Aucune
+636,636,Moyenne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+637,637,Très bonne,Modérée,0,Élevé,Régulièrement,0,La plupart,0,0,Mémorisation
+638,638,Moyenne,Modérée,0,Faible,Parfois,0,Aucun,0,0,Aucune
+639,639,Très mauvaise,Modérée,1,Faible,Rarement,1,Tous,0,0,Organisation du travail
+640,640,Mauvaise,Légère,1,Faible,Régulièrement,0,Quelques-uns,0,0,Mémorisation
+641,641,Très bonne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Compréhension des cours
+642,642,Très mauvaise,Légère,1,Faible,Régulièrement,1,La plupart,0,0,Aucune
+643,643,Bonne,Sévère,1,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+644,644,Bonne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Gestion du stress
+645,645,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,1,0,Aucune
+646,646,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+647,647,Moyenne,Sévère,1,Élevé,Parfois,0,Tous,0,0,Aucune
+648,648,Très bonne,Légère,0,Faible,Régulièrement,0,Quelques-uns,1,1,Aucune
+649,649,Moyenne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+650,650,Bonne,Sévère,0,Moyen,Rarement,0,Tous,1,0,Compréhension des cours
+651,651,Bonne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Mémorisation
+652,652,Très bonne,Légère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+653,653,Moyenne,Légère,0,Faible,Rarement,1,Aucun,0,0,Expression écrite
+654,654,Mauvaise,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+655,655,Mauvaise,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Compréhension des cours
+656,656,Très bonne,Modérée,0,Faible,Régulièrement,0,Tous,1,1,Organisation du travail
+657,657,Très mauvaise,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+658,658,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+659,659,Très mauvaise,Légère,1,Élevé,Rarement,1,Tous,0,0,Gestion du stress
+660,660,Bonne,Légère,1,Moyen,Intensivement,0,La plupart,0,0,Expression écrite
+661,661,Mauvaise,Légère,0,Élevé,Rarement,1,La plupart,0,0,Aucune
+662,662,Moyenne,Modérée,1,Moyen,Rarement,0,La plupart,0,0,Organisation du travail
+663,663,Mauvaise,Modérée,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+664,664,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,1,1,Aucune
+665,665,Moyenne,Sévère,0,Élevé,Rarement,0,La plupart,0,0,Expression écrite
+666,666,Très bonne,Légère,1,Élevé,Parfois,0,La plupart,0,0,Expression écrite
+667,667,Moyenne,Légère,0,Faible,Parfois,1,Tous,0,0,Aucune
+668,668,Mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Mémorisation
+669,669,Très bonne,Sévère,1,Moyen,Rarement,1,Tous,0,0,Mémorisation
+670,670,Très bonne,Légère,1,Faible,Rarement,0,Tous,0,0,Gestion du stress
+671,671,Bonne,Légère,1,Moyen,Rarement,0,Tous,0,0,Aucune
+672,672,Mauvaise,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+673,673,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+674,674,Moyenne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+675,675,Moyenne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+676,676,Moyenne,Aucune,1,Élevé,Régulièrement,0,Tous,1,0,Aucune
+677,677,Mauvaise,Aucune,0,Moyen,Parfois,0,Tous,0,0,Aucune
+678,678,Mauvaise,Sévère,1,Moyen,Jamais,1,La plupart,0,0,Aucune
+679,679,Mauvaise,Sévère,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Aucune
+680,680,Moyenne,Aucune,0,Faible,Parfois,0,Tous,0,0,Expression écrite
+681,681,Très bonne,Sévère,1,Faible,Rarement,1,La plupart,0,0,Compréhension des cours
+682,682,Moyenne,Légère,0,Élevé,Parfois,1,La plupart,0,0,Mémorisation
+683,683,Moyenne,Modérée,1,Faible,Jamais,1,Quelques-uns,1,0,Organisation du travail
+684,684,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Expression écrite
+685,685,Bonne,Modérée,1,Élevé,Régulièrement,1,Quelques-uns,0,0,Mémorisation
+686,686,Bonne,Sévère,1,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+687,687,Mauvaise,Légère,0,Faible,Régulièrement,0,La plupart,0,0,Expression écrite
+688,688,Très bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+689,689,Bonne,Sévère,1,Moyen,Jamais,1,Tous,0,0,Organisation du travail
+690,690,Bonne,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Organisation du travail
+691,691,Mauvaise,Modérée,1,Moyen,Parfois,0,Aucun,0,0,Compréhension des cours
+692,692,Bonne,Modérée,0,Moyen,Parfois,1,Tous,1,1,Expression écrite
+693,693,Moyenne,Modérée,0,Faible,Régulièrement,0,Quelques-uns,1,0,Mémorisation
+694,694,Mauvaise,Légère,0,Élevé,Parfois,0,Tous,1,0,Compréhension des cours
+695,695,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+696,696,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Aucun,0,0,Gestion du stress
+697,697,Bonne,Légère,1,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+698,698,Moyenne,Modérée,0,Élevé,Rarement,1,La plupart,0,0,Organisation du travail
+699,699,Très mauvaise,Sévère,0,Moyen,Parfois,1,Tous,1,1,Expression écrite
+700,700,Bonne,Légère,1,Faible,Parfois,0,Tous,0,0,Mémorisation
+701,701,Mauvaise,Sévère,1,Élevé,Jamais,1,Quelques-uns,0,0,Compréhension des cours
+702,702,Bonne,Aucune,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Gestion du stress
+703,703,Très mauvaise,Légère,0,Moyen,Parfois,1,La plupart,0,0,Aucune
+704,704,Très bonne,Aucune,1,Moyen,Parfois,1,La plupart,0,0,Expression écrite
+705,705,Bonne,Aucune,1,Élevé,Rarement,0,La plupart,0,0,Compréhension des cours
+706,706,Très mauvaise,Modérée,0,Faible,Rarement,1,La plupart,0,0,Expression écrite
+707,707,Mauvaise,Aucune,0,Faible,Régulièrement,1,Tous,0,0,Compréhension des cours
+708,708,Très bonne,Modérée,1,Faible,Rarement,1,Quelques-uns,0,0,Compréhension des cours
+709,709,Moyenne,Aucune,1,Élevé,Intensivement,0,La plupart,1,1,Compréhension des cours
+710,710,Moyenne,Aucune,0,Élevé,Parfois,0,Tous,1,1,Expression écrite
+711,711,Mauvaise,Modérée,0,Moyen,Rarement,1,La plupart,0,0,Compréhension des cours
+712,712,Bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+713,713,Bonne,Légère,1,Élevé,Parfois,0,Tous,1,1,Aucune
+714,714,Moyenne,Légère,0,Élevé,Parfois,1,La plupart,0,0,Mémorisation
+715,715,Bonne,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+716,716,Moyenne,Sévère,0,Moyen,Jamais,1,Tous,0,0,Organisation du travail
+717,717,Très bonne,Aucune,1,Élevé,Régulièrement,0,Tous,1,0,Expression écrite
+718,718,Bonne,Légère,1,Moyen,Parfois,1,La plupart,0,0,Compréhension des cours
+719,719,Très bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+720,720,Bonne,Modérée,1,Élevé,Rarement,0,Tous,0,0,Organisation du travail
+721,721,Bonne,Modérée,0,Moyen,Parfois,1,Aucun,0,0,Mémorisation
+722,722,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+723,723,Moyenne,Légère,0,Moyen,Parfois,0,Quelques-uns,1,0,Compréhension des cours
+724,724,Très mauvaise,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+725,725,Mauvaise,Légère,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Gestion du stress
+726,726,Très bonne,Modérée,0,Élevé,Parfois,0,Aucun,0,0,Aucune
+727,727,Bonne,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+728,728,Mauvaise,Sévère,0,Moyen,Jamais,1,Aucun,1,0,Aucune
+729,729,Bonne,Modérée,1,Faible,Parfois,0,La plupart,0,0,Aucune
+730,730,Moyenne,Aucune,0,Faible,Intensivement,0,Tous,0,0,Gestion du stress
+731,731,Moyenne,Sévère,0,Élevé,Rarement,1,Tous,0,0,Aucune
+732,732,Moyenne,Sévère,1,Moyen,Rarement,1,Tous,1,1,Mémorisation
+733,733,Moyenne,Modérée,1,Moyen,Rarement,0,Tous,0,0,Mémorisation
+734,734,Moyenne,Légère,0,Élevé,Régulièrement,1,Tous,1,1,Compréhension des cours
+735,735,Bonne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+736,736,Moyenne,Légère,0,Élevé,Rarement,1,Tous,0,0,Aucune
+737,737,Moyenne,Modérée,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+738,738,Mauvaise,Sévère,0,Élevé,Rarement,0,Tous,0,0,Aucune
+739,739,Mauvaise,Aucune,0,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+740,740,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,1,0,Expression écrite
+741,741,Très bonne,Légère,1,Élevé,Rarement,1,Quelques-uns,0,0,Gestion du stress
+742,742,Mauvaise,Modérée,1,Élevé,Parfois,0,Quelques-uns,0,0,Aucune
+743,743,Bonne,Aucune,1,Élevé,Parfois,1,La plupart,0,0,Compréhension des cours
+744,744,Bonne,Modérée,1,Moyen,Parfois,0,La plupart,0,0,Compréhension des cours
+745,745,Très mauvaise,Légère,1,Élevé,Intensivement,0,La plupart,0,0,Aucune
+746,746,Bonne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+747,747,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+748,748,Très mauvaise,Légère,0,Élevé,Régulièrement,1,Tous,1,1,Organisation du travail
+749,749,Bonne,Modérée,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+750,750,Mauvaise,Aucune,1,Faible,Parfois,1,La plupart,1,1,Gestion du stress
+751,751,Moyenne,Légère,0,Faible,Intensivement,0,Quelques-uns,0,0,Aucune
+752,752,Mauvaise,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+753,753,Bonne,Légère,1,Moyen,Parfois,0,Tous,0,0,Mémorisation
+754,754,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+755,755,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,1,0,Mémorisation
+756,756,Moyenne,Sévère,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+757,757,Bonne,Aucune,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+758,758,Mauvaise,Sévère,0,Élevé,Rarement,1,Tous,0,0,Expression écrite
+759,759,Bonne,Modérée,1,Moyen,Intensivement,1,La plupart,0,0,Mémorisation
+760,760,Très mauvaise,Modérée,0,Moyen,Parfois,0,La plupart,1,1,Gestion du stress
+761,761,Très mauvaise,Aucune,0,Élevé,Régulièrement,1,Quelques-uns,0,0,Mémorisation
+762,762,Très bonne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Aucune
+763,763,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,1,1,Aucune
+764,764,Moyenne,Modérée,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+765,765,Mauvaise,Légère,0,Faible,Jamais,0,Tous,1,1,Aucune
+766,766,Bonne,Modérée,0,Moyen,Intensivement,1,Tous,0,0,Mémorisation
+767,767,Moyenne,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+768,768,Bonne,Modérée,1,Moyen,Intensivement,0,Quelques-uns,0,0,Aucune
+769,769,Mauvaise,Légère,1,Moyen,Rarement,1,La plupart,1,0,Compréhension des cours
+770,770,Très bonne,Sévère,0,Élevé,Parfois,0,Tous,1,0,Compréhension des cours
+771,771,Moyenne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+772,772,Bonne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+773,773,Mauvaise,Modérée,1,Élevé,Intensivement,0,Tous,1,0,Mémorisation
+774,774,Bonne,Sévère,1,Moyen,Rarement,1,Tous,1,1,Aucune
+775,775,Mauvaise,Légère,0,Faible,Régulièrement,1,Tous,1,0,Compréhension des cours
+776,776,Très bonne,Modérée,0,Élevé,Parfois,0,La plupart,1,1,Mémorisation
+777,777,Très bonne,Légère,0,Faible,Régulièrement,0,Tous,1,0,Mémorisation
+778,778,Mauvaise,Légère,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+779,779,Moyenne,Légère,0,Élevé,Parfois,0,Tous,1,1,Mémorisation
+780,780,Moyenne,Aucune,0,Moyen,Régulièrement,0,Aucun,0,0,Gestion du stress
+781,781,Moyenne,Modérée,1,Moyen,Rarement,1,La plupart,1,1,Aucune
+782,782,Bonne,Légère,0,Élevé,Intensivement,0,Tous,1,1,Compréhension des cours
+783,783,Moyenne,Sévère,0,Élevé,Régulièrement,0,La plupart,0,0,Gestion du stress
+784,784,Très mauvaise,Légère,0,Élevé,Parfois,0,Tous,1,1,Organisation du travail
+785,785,Très mauvaise,Légère,0,Faible,Rarement,1,Tous,0,0,Expression écrite
+786,786,Moyenne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+787,787,Moyenne,Modérée,0,Moyen,Parfois,1,Quelques-uns,0,0,Mémorisation
+788,788,Très bonne,Légère,1,Élevé,Rarement,0,Tous,0,0,Aucune
+789,789,Mauvaise,Légère,0,Élevé,Régulièrement,0,Tous,1,0,Compréhension des cours
+790,790,Moyenne,Légère,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+791,791,Très bonne,Sévère,0,Faible,Régulièrement,1,Tous,0,0,Compréhension des cours
+792,792,Bonne,Aucune,0,Élevé,Régulièrement,1,La plupart,0,0,Aucune
+793,793,Moyenne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+794,794,Moyenne,Aucune,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Expression écrite
+795,795,Très mauvaise,Aucune,0,Moyen,Rarement,1,Tous,0,0,Organisation du travail
+796,796,Très bonne,Légère,0,Moyen,Intensivement,1,Tous,0,0,Aucune
+797,797,Très mauvaise,Modérée,1,Moyen,Régulièrement,0,Tous,1,1,Gestion du stress
+798,798,Bonne,Modérée,0,Faible,Parfois,1,Tous,0,0,Aucune
+799,799,Bonne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+800,800,Moyenne,Légère,0,Élevé,Rarement,1,Tous,1,0,Mémorisation
+801,801,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+802,802,Très bonne,Modérée,1,Faible,Intensivement,0,Tous,0,0,Mémorisation
+803,803,Moyenne,Modérée,0,Moyen,Rarement,0,Quelques-uns,0,0,Aucune
+804,804,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+805,805,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+806,806,Mauvaise,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+807,807,Très mauvaise,Modérée,1,Faible,Parfois,1,Tous,0,0,Aucune
+808,808,Mauvaise,Légère,1,Élevé,Rarement,0,Tous,0,0,Mémorisation
+809,809,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+810,810,Moyenne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+811,811,Bonne,Modérée,1,Élevé,Rarement,1,Tous,1,1,Aucune
+812,812,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,1,0,Gestion du stress
+813,813,Très bonne,Aucune,1,Élevé,Parfois,0,La plupart,0,0,Aucune
+814,814,Mauvaise,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Compréhension des cours
+815,815,Moyenne,Sévère,1,Faible,Jamais,1,Tous,0,0,Aucune
+816,816,Bonne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+817,817,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+818,818,Très mauvaise,Modérée,0,Élevé,Régulièrement,1,Tous,0,0,Mémorisation
+819,819,Mauvaise,Aucune,1,Élevé,Parfois,1,Tous,0,0,Mémorisation
+820,820,Mauvaise,Légère,0,Faible,Rarement,1,Tous,0,0,Aucune
+821,821,Bonne,Modérée,0,Élevé,Jamais,1,Tous,0,0,Organisation du travail
+822,822,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,1,0,Expression écrite
+823,823,Très bonne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Compréhension des cours
+824,824,Bonne,Modérée,0,Faible,Rarement,1,Tous,1,1,Aucune
+825,825,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+826,826,Très bonne,Légère,0,Faible,Rarement,0,Tous,0,0,Organisation du travail
+827,827,Mauvaise,Légère,1,Élevé,Parfois,0,Tous,1,1,Aucune
+828,828,Très bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+829,829,Bonne,Modérée,0,Moyen,Rarement,1,La plupart,0,0,Expression écrite
+830,830,Très bonne,Sévère,0,Faible,Parfois,1,Tous,0,0,Compréhension des cours
+831,831,Mauvaise,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+832,832,Moyenne,Modérée,0,Élevé,Parfois,1,Tous,1,1,Aucune
+833,833,Bonne,Sévère,0,Faible,Régulièrement,1,Tous,0,0,Organisation du travail
+834,834,Très bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+835,835,Très bonne,Légère,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+836,836,Très bonne,Aucune,0,Élevé,Intensivement,0,La plupart,0,0,Aucune
+837,837,Bonne,Aucune,1,Moyen,Intensivement,0,La plupart,0,0,Compréhension des cours
+838,838,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+839,839,Bonne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Aucune
+840,840,Moyenne,Légère,1,Moyen,Rarement,1,La plupart,0,0,Aucune
+841,841,Mauvaise,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+842,842,Moyenne,Aucune,0,Faible,Intensivement,0,La plupart,0,0,Gestion du stress
+843,843,Très mauvaise,Modérée,0,Faible,Parfois,0,Tous,1,1,Expression écrite
+844,844,Moyenne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Mémorisation
+845,845,Bonne,Aucune,0,Faible,Régulièrement,0,La plupart,0,0,Organisation du travail
+846,846,Moyenne,Légère,1,Élevé,Parfois,0,Tous,1,0,Expression écrite
+847,847,Très mauvaise,Légère,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+848,848,Moyenne,Légère,0,Moyen,Rarement,1,Quelques-uns,0,0,Mémorisation
+849,849,Très bonne,Sévère,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+850,850,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+851,851,Bonne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+852,852,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+853,853,Très bonne,Légère,1,Faible,Parfois,0,Tous,0,0,Organisation du travail
+854,854,Moyenne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+855,855,Moyenne,Modérée,0,Faible,Rarement,1,Tous,1,0,Mémorisation
+856,856,Moyenne,Légère,0,Faible,Régulièrement,1,La plupart,0,0,Aucune
+857,857,Très bonne,Sévère,0,Faible,Rarement,1,Tous,0,0,Aucune
+858,858,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+859,859,Moyenne,Aucune,1,Élevé,Jamais,1,Tous,1,1,Gestion du stress
+860,860,Bonne,Modérée,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+861,861,Bonne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Gestion du stress
+862,862,Bonne,Légère,0,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+863,863,Mauvaise,Sévère,0,Moyen,Parfois,0,La plupart,0,0,Mémorisation
+864,864,Mauvaise,Aucune,1,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+865,865,Bonne,Légère,1,Élevé,Intensivement,0,Tous,1,0,Mémorisation
+866,866,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+867,867,Mauvaise,Modérée,1,Élevé,Parfois,1,Tous,0,0,Mémorisation
+868,868,Très bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+869,869,Bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+870,870,Moyenne,Aucune,1,Faible,Intensivement,0,La plupart,0,0,Aucune
+871,871,Bonne,Légère,1,Faible,Rarement,0,Tous,0,0,Compréhension des cours
+872,872,Bonne,Aucune,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Compréhension des cours
+873,873,Mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+874,874,Mauvaise,Modérée,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+875,875,Mauvaise,Modérée,0,Faible,Parfois,1,Tous,1,0,Organisation du travail
+876,876,Moyenne,Légère,0,Faible,Régulièrement,1,Tous,0,0,Mémorisation
+877,877,Très bonne,Légère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+878,878,Moyenne,Légère,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+879,879,Très bonne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Gestion du stress
+880,880,Bonne,Aucune,0,Moyen,Rarement,1,Aucun,0,0,Gestion du stress
+881,881,Très mauvaise,Modérée,0,Faible,Rarement,1,Tous,0,0,Aucune
+882,882,Moyenne,Légère,0,Faible,Régulièrement,1,Tous,0,0,Mémorisation
+883,883,Très bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+884,884,Bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Aucune
+885,885,Moyenne,Légère,0,Faible,Régulièrement,0,Quelques-uns,0,0,Organisation du travail
+886,886,Bonne,Modérée,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+887,887,Bonne,Légère,0,Moyen,Parfois,1,Tous,0,0,Expression écrite
+888,888,Très mauvaise,Sévère,1,Élevé,Parfois,0,La plupart,1,0,Gestion du stress
+889,889,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+890,890,Moyenne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Compréhension des cours
+891,891,Bonne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+892,892,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+893,893,Bonne,Aucune,1,Élevé,Intensivement,0,Quelques-uns,0,0,Compréhension des cours
+894,894,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+895,895,Moyenne,Modérée,0,Élevé,Rarement,0,Tous,1,1,Aucune
+896,896,Très mauvaise,Légère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+897,897,Moyenne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+898,898,Bonne,Modérée,0,Élevé,Parfois,1,Tous,1,0,Aucune
+899,899,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+900,900,Très bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+901,901,Très bonne,Sévère,0,Moyen,Parfois,1,Tous,0,0,Expression écrite
+902,902,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+903,903,Mauvaise,Légère,1,Moyen,Parfois,1,Tous,0,0,Expression écrite
+904,904,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+905,905,Très mauvaise,Modérée,0,Faible,Rarement,1,Tous,0,0,Compréhension des cours
+906,906,Très bonne,Légère,1,Élevé,Parfois,1,Tous,1,1,Gestion du stress
+907,907,Moyenne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Aucune
+908,908,Bonne,Légère,0,Faible,Régulièrement,0,La plupart,0,0,Expression écrite
+909,909,Bonne,Aucune,1,Faible,Intensivement,0,Tous,0,0,Aucune
+910,910,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+911,911,Très mauvaise,Aucune,0,Moyen,Intensivement,0,La plupart,0,0,Mémorisation
+912,912,Très bonne,Aucune,1,Faible,Intensivement,1,Tous,0,0,Mémorisation
+913,913,Très mauvaise,Aucune,0,Faible,Intensivement,0,La plupart,0,0,Compréhension des cours
+914,914,Moyenne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Gestion du stress
+915,915,Très mauvaise,Modérée,0,Faible,Régulièrement,0,Tous,1,0,Organisation du travail
+916,916,Bonne,Modérée,0,Faible,Parfois,0,Tous,0,0,Aucune
+917,917,Bonne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+918,918,Bonne,Sévère,1,Faible,Rarement,0,Tous,1,1,Aucune
+919,919,Mauvaise,Modérée,0,Faible,Intensivement,0,La plupart,0,0,Aucune
+920,920,Très bonne,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+921,921,Moyenne,Modérée,0,Élevé,Parfois,1,Tous,0,0,Expression écrite
+922,922,Bonne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+923,923,Mauvaise,Modérée,0,Faible,Parfois,1,La plupart,0,0,Compréhension des cours
+924,924,Moyenne,Sévère,0,Élevé,Rarement,1,Tous,0,0,Aucune
+925,925,Mauvaise,Modérée,1,Moyen,Rarement,0,Aucun,0,0,Aucune
+926,926,Moyenne,Aucune,1,Moyen,Régulièrement,0,La plupart,1,0,Aucune
+927,927,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+928,928,Mauvaise,Légère,1,Faible,Parfois,0,Tous,0,0,Compréhension des cours
+929,929,Bonne,Modérée,1,Élevé,Régulièrement,1,Tous,0,0,Compréhension des cours
+930,930,Bonne,Légère,0,Faible,Régulièrement,0,Quelques-uns,0,0,Aucune
+931,931,Bonne,Légère,0,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+932,932,Moyenne,Légère,0,Élevé,Parfois,1,Tous,1,0,Organisation du travail
+933,933,Moyenne,Sévère,0,Moyen,Rarement,1,La plupart,1,0,Mémorisation
+934,934,Bonne,Légère,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Compréhension des cours
+935,935,Mauvaise,Légère,1,Faible,Régulièrement,0,La plupart,0,0,Aucune
+936,936,Bonne,Aucune,1,Élevé,Intensivement,0,Aucun,1,0,Expression écrite
+937,937,Très bonne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+938,938,Bonne,Aucune,0,Moyen,Rarement,1,Quelques-uns,0,0,Aucune
+939,939,Moyenne,Sévère,1,Faible,Régulièrement,0,Quelques-uns,0,0,Expression écrite
+940,940,Bonne,Modérée,1,Faible,Jamais,0,Quelques-uns,0,0,Expression écrite
+941,941,Très bonne,Modérée,0,Faible,Parfois,1,Tous,0,0,Compréhension des cours
+942,942,Bonne,Sévère,0,Élevé,Intensivement,0,La plupart,0,0,Aucune
+943,943,Mauvaise,Légère,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+944,944,Bonne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+945,945,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,1,0,Aucune
+946,946,Très bonne,Modérée,0,Élevé,Rarement,1,Aucun,0,0,Aucune
+947,947,Mauvaise,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+948,948,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+949,949,Très bonne,Aucune,1,Faible,Régulièrement,0,La plupart,1,1,Aucune
+950,950,Très bonne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+951,951,Très bonne,Modérée,1,Élevé,Parfois,1,La plupart,0,0,Expression écrite
+952,952,Très bonne,Sévère,0,Moyen,Rarement,0,Tous,0,0,Expression écrite
+953,953,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,1,0,Mémorisation
+954,954,Mauvaise,Légère,0,Faible,Parfois,1,La plupart,1,1,Aucune
+955,955,Moyenne,Sévère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+956,956,Mauvaise,Sévère,0,Moyen,Rarement,0,Tous,0,0,Compréhension des cours
+957,957,Moyenne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+958,958,Moyenne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Compréhension des cours
+959,959,Bonne,Légère,0,Faible,Intensivement,0,Tous,0,0,Aucune
+960,960,Mauvaise,Légère,0,Faible,Régulièrement,0,Quelques-uns,1,0,Aucune
+961,961,Bonne,Aucune,1,Élevé,Intensivement,0,La plupart,0,0,Gestion du stress
+962,962,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,1,1,Organisation du travail
+963,963,Très mauvaise,Modérée,1,Faible,Parfois,0,Tous,1,0,Expression écrite
+964,964,Moyenne,Aucune,1,Moyen,Régulièrement,1,Quelques-uns,0,0,Organisation du travail
+965,965,Très bonne,Légère,0,Élevé,Parfois,0,Tous,1,1,Aucune
+966,966,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,1,0,Expression écrite
+967,967,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+968,968,Mauvaise,Sévère,1,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+969,969,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+970,970,Bonne,Légère,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+971,971,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+972,972,Mauvaise,Sévère,0,Élevé,Régulièrement,0,Tous,1,1,Mémorisation
+973,973,Bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+974,974,Très bonne,Légère,0,Moyen,Parfois,0,La plupart,1,0,Organisation du travail
+975,975,Moyenne,Aucune,0,Faible,Intensivement,0,Tous,0,0,Compréhension des cours
+976,976,Bonne,Modérée,1,Moyen,Parfois,0,Tous,1,0,Mémorisation
+977,977,Bonne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+978,978,Bonne,Modérée,1,Moyen,Rarement,1,La plupart,0,0,Aucune
+979,979,Moyenne,Légère,0,Élevé,Rarement,1,Tous,1,1,Aucune
+980,980,Moyenne,Modérée,0,Moyen,Parfois,1,La plupart,1,0,Aucune
+981,981,Bonne,Aucune,1,Moyen,Intensivement,0,Quelques-uns,0,0,Compréhension des cours
+982,982,Très bonne,Modérée,1,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+983,983,Bonne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Expression écrite
+984,984,Très bonne,Modérée,1,Moyen,Parfois,0,La plupart,1,1,Mémorisation
+985,985,Moyenne,Modérée,0,Élevé,Jamais,0,Tous,0,0,Compréhension des cours
+986,986,Moyenne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+987,987,Mauvaise,Aucune,0,Moyen,Rarement,1,La plupart,1,1,Expression écrite
+988,988,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+989,989,Bonne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Expression écrite
+990,990,Très bonne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+991,991,Bonne,Sévère,1,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+992,992,Bonne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+993,993,Moyenne,Légère,1,Moyen,Régulièrement,0,La plupart,1,0,Compréhension des cours
+994,994,Moyenne,Sévère,0,Faible,Parfois,0,Tous,0,0,Expression écrite
+995,995,Bonne,Aucune,1,Élevé,Parfois,1,La plupart,0,0,Mémorisation
+996,996,Bonne,Légère,0,Faible,Régulièrement,0,Quelques-uns,0,0,Aucune
+997,997,Mauvaise,Modérée,0,Élevé,Parfois,1,Tous,0,0,Expression écrite
+998,998,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+999,999,Très bonne,Légère,0,Faible,Rarement,1,La plupart,0,0,Expression écrite
+1000,1000,Très mauvaise,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Gestion du stress
+1001,1001,Très bonne,Aucune,0,Élevé,Régulièrement,0,La plupart,1,1,Aucune
+1002,1002,Très bonne,Sévère,0,Moyen,Intensivement,0,Tous,0,0,Mémorisation
+1003,1003,Mauvaise,Aucune,0,Faible,Parfois,1,La plupart,0,0,Organisation du travail
+1004,1004,Très mauvaise,Modérée,0,Moyen,Parfois,0,Tous,1,0,Aucune
+1005,1005,Très bonne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1006,1006,Bonne,Légère,0,Élevé,Rarement,1,Tous,0,0,Aucune
+1007,1007,Bonne,Aucune,1,Faible,Régulièrement,1,La plupart,0,0,Expression écrite
+1008,1008,Très bonne,Aucune,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1009,1009,Mauvaise,Aucune,1,Élevé,Parfois,0,Tous,1,1,Mémorisation
+1010,1010,Mauvaise,Légère,0,Faible,Rarement,0,La plupart,0,0,Aucune
+1011,1011,Mauvaise,Sévère,1,Faible,Régulièrement,0,Quelques-uns,0,0,Organisation du travail
+1012,1012,Très bonne,Aucune,0,Faible,Intensivement,0,Tous,1,1,Compréhension des cours
+1013,1013,Mauvaise,Modérée,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1014,1014,Bonne,Sévère,0,Moyen,Parfois,1,Tous,1,0,Organisation du travail
+1015,1015,Très bonne,Aucune,0,Élevé,Intensivement,0,La plupart,1,1,Expression écrite
+1016,1016,Mauvaise,Modérée,0,Moyen,Parfois,1,Tous,0,0,Aucune
+1017,1017,Mauvaise,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Gestion du stress
+1018,1018,Très bonne,Modérée,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1019,1019,Mauvaise,Modérée,1,Élevé,Rarement,1,La plupart,0,0,Gestion du stress
+1020,1020,Bonne,Sévère,0,Élevé,Rarement,1,Quelques-uns,0,0,Compréhension des cours
+1021,1021,Bonne,Sévère,1,Élevé,Parfois,1,Tous,1,0,Compréhension des cours
+1022,1022,Très mauvaise,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1023,1023,Mauvaise,Modérée,0,Faible,Régulièrement,0,Quelques-uns,0,0,Aucune
+1024,1024,Moyenne,Aucune,1,Élevé,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1025,1025,Bonne,Aucune,1,Élevé,Intensivement,0,La plupart,0,0,Aucune
+1026,1026,Bonne,Légère,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1027,1027,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1028,1028,Mauvaise,Aucune,1,Faible,Régulièrement,1,Quelques-uns,0,0,Mémorisation
+1029,1029,Très bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Mémorisation
+1030,1030,Très bonne,Légère,0,Moyen,Parfois,0,Tous,1,0,Aucune
+1031,1031,Très bonne,Sévère,1,Moyen,Intensivement,0,Tous,0,0,Expression écrite
+1032,1032,Très bonne,Légère,0,Moyen,Parfois,1,La plupart,0,0,Aucune
+1033,1033,Très mauvaise,Sévère,0,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+1034,1034,Bonne,Légère,1,Moyen,Intensivement,0,La plupart,1,0,Aucune
+1035,1035,Moyenne,Modérée,0,Élevé,Régulièrement,1,Tous,0,0,Gestion du stress
+1036,1036,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,1,0,Aucune
+1037,1037,Moyenne,Sévère,1,Moyen,Intensivement,0,Tous,0,0,Mémorisation
+1038,1038,Bonne,Sévère,1,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+1039,1039,Moyenne,Légère,1,Faible,Parfois,1,Quelques-uns,0,0,Gestion du stress
+1040,1040,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1041,1041,Très mauvaise,Légère,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+1042,1042,Très mauvaise,Aucune,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1043,1043,Très bonne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1044,1044,Très mauvaise,Sévère,1,Faible,Parfois,1,Tous,0,0,Aucune
+1045,1045,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+1046,1046,Bonne,Légère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+1047,1047,Bonne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1048,1048,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+1049,1049,Moyenne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Mémorisation
+1050,1050,Mauvaise,Modérée,1,Moyen,Régulièrement,1,Quelques-uns,1,0,Expression écrite
+1051,1051,Bonne,Aucune,1,Faible,Intensivement,0,Aucun,0,0,Compréhension des cours
+1052,1052,Très mauvaise,Légère,1,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+1053,1053,Bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1054,1054,Moyenne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+1055,1055,Moyenne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1056,1056,Très bonne,Modérée,0,Moyen,Régulièrement,0,Tous,1,1,Compréhension des cours
+1057,1057,Moyenne,Sévère,1,Moyen,Rarement,0,La plupart,1,1,Expression écrite
+1058,1058,Moyenne,Modérée,1,Moyen,Rarement,1,Tous,0,0,Aucune
+1059,1059,Moyenne,Sévère,0,Moyen,Jamais,1,La plupart,0,0,Aucune
+1060,1060,Mauvaise,Aucune,0,Faible,Parfois,1,Tous,0,0,Aucune
+1061,1061,Bonne,Légère,1,Élevé,Parfois,0,Quelques-uns,0,0,Mémorisation
+1062,1062,Très bonne,Modérée,0,Élevé,Parfois,1,Tous,1,1,Aucune
+1063,1063,Bonne,Modérée,1,Moyen,Régulièrement,1,La plupart,0,0,Organisation du travail
+1064,1064,Moyenne,Modérée,0,Moyen,Parfois,0,Aucun,1,1,Mémorisation
+1065,1065,Bonne,Sévère,0,Élevé,Jamais,1,Tous,1,0,Aucune
+1066,1066,Bonne,Modérée,1,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+1067,1067,Bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1068,1068,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,1,1,Expression écrite
+1069,1069,Très bonne,Modérée,1,Faible,Régulièrement,0,La plupart,0,0,Aucune
+1070,1070,Bonne,Légère,0,Moyen,Parfois,1,La plupart,0,0,Gestion du stress
+1071,1071,Bonne,Sévère,1,Moyen,Rarement,1,Tous,1,1,Organisation du travail
+1072,1072,Mauvaise,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1073,1073,Bonne,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Expression écrite
+1074,1074,Bonne,Légère,0,Moyen,Parfois,1,Tous,1,1,Mémorisation
+1075,1075,Très mauvaise,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1076,1076,Bonne,Modérée,1,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+1077,1077,Bonne,Aucune,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+1078,1078,Moyenne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1079,1079,Bonne,Légère,0,Élevé,Parfois,1,La plupart,0,0,Expression écrite
+1080,1080,Très bonne,Modérée,1,Moyen,Parfois,1,Quelques-uns,0,0,Aucune
+1081,1081,Très bonne,Sévère,1,Faible,Rarement,1,Quelques-uns,0,0,Mémorisation
+1082,1082,Très bonne,Légère,1,Moyen,Parfois,0,Tous,0,0,Aucune
+1083,1083,Très bonne,Légère,0,Moyen,Parfois,1,Tous,0,0,Organisation du travail
+1084,1084,Très bonne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Expression écrite
+1085,1085,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+1086,1086,Bonne,Sévère,0,Faible,Parfois,1,Tous,1,0,Mémorisation
+1087,1087,Moyenne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+1088,1088,Très bonne,Modérée,0,Élevé,Parfois,0,La plupart,0,0,Compréhension des cours
+1089,1089,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1090,1090,Bonne,Modérée,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1091,1091,Très bonne,Sévère,0,Faible,Rarement,1,La plupart,0,0,Expression écrite
+1092,1092,Moyenne,Aucune,1,Moyen,Jamais,1,Quelques-uns,0,0,Compréhension des cours
+1093,1093,Mauvaise,Modérée,1,Moyen,Parfois,1,La plupart,1,1,Aucune
+1094,1094,Bonne,Légère,1,Moyen,Intensivement,0,La plupart,0,0,Aucune
+1095,1095,Mauvaise,Modérée,1,Élevé,Régulièrement,0,La plupart,0,0,Organisation du travail
+1096,1096,Très bonne,Aucune,0,Moyen,Intensivement,0,Quelques-uns,1,0,Aucune
+1097,1097,Très bonne,Aucune,0,Élevé,Parfois,0,Tous,1,0,Aucune
+1098,1098,Mauvaise,Légère,1,Faible,Parfois,1,Tous,1,0,Compréhension des cours
+1099,1099,Moyenne,Aucune,0,Faible,Jamais,1,Tous,0,0,Expression écrite
+1100,1100,Très bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1101,1101,Bonne,Sévère,1,Élevé,Parfois,0,La plupart,1,0,Aucune
+1102,1102,Très bonne,Légère,0,Élevé,Intensivement,1,Tous,0,0,Mémorisation
+1103,1103,Mauvaise,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Expression écrite
+1104,1104,Très mauvaise,Sévère,0,Moyen,Jamais,1,La plupart,0,0,Compréhension des cours
+1105,1105,Très bonne,Légère,0,Moyen,Parfois,0,La plupart,0,0,Gestion du stress
+1106,1106,Mauvaise,Modérée,0,Élevé,Jamais,1,Tous,0,0,Compréhension des cours
+1107,1107,Bonne,Sévère,1,Élevé,Parfois,1,Tous,0,0,Organisation du travail
+1108,1108,Très bonne,Légère,0,Élevé,Régulièrement,0,La plupart,0,0,Organisation du travail
+1109,1109,Très bonne,Modérée,1,Moyen,Intensivement,1,Aucun,0,0,Organisation du travail
+1110,1110,Bonne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1111,1111,Moyenne,Légère,1,Élevé,Régulièrement,0,Tous,1,0,Aucune
+1112,1112,Mauvaise,Modérée,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+1113,1113,Bonne,Modérée,0,Moyen,Rarement,0,Aucun,0,0,Gestion du stress
+1114,1114,Moyenne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1115,1115,Bonne,Légère,1,Faible,Régulièrement,0,Tous,0,0,Compréhension des cours
+1116,1116,Bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1117,1117,Bonne,Sévère,1,Élevé,Parfois,0,Tous,1,0,Mémorisation
+1118,1118,Moyenne,Modérée,0,Élevé,Parfois,1,La plupart,1,1,Aucune
+1119,1119,Bonne,Modérée,1,Élevé,Parfois,0,Tous,0,0,Aucune
+1120,1120,Moyenne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1121,1121,Bonne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1122,1122,Bonne,Légère,0,Élevé,Parfois,0,Tous,1,1,Aucune
+1123,1123,Mauvaise,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+1124,1124,Moyenne,Légère,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1125,1125,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1126,1126,Moyenne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Aucune
+1127,1127,Mauvaise,Aucune,0,Moyen,Régulièrement,0,Quelques-uns,1,1,Compréhension des cours
+1128,1128,Mauvaise,Aucune,1,Élevé,Régulièrement,1,Quelques-uns,0,0,Gestion du stress
+1129,1129,Bonne,Légère,0,Élevé,Parfois,0,Tous,1,1,Aucune
+1130,1130,Bonne,Sévère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1131,1131,Moyenne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+1132,1132,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1133,1133,Très bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1134,1134,Très bonne,Modérée,0,Faible,Régulièrement,1,La plupart,0,0,Compréhension des cours
+1135,1135,Bonne,Modérée,0,Faible,Parfois,1,Tous,0,0,Aucune
+1136,1136,Bonne,Aucune,0,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+1137,1137,Moyenne,Légère,0,Élevé,Régulièrement,0,La plupart,1,0,Aucune
+1138,1138,Très bonne,Légère,0,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+1139,1139,Mauvaise,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+1140,1140,Bonne,Modérée,0,Moyen,Rarement,0,Quelques-uns,0,0,Expression écrite
+1141,1141,Bonne,Légère,0,Élevé,Parfois,0,Tous,1,0,Expression écrite
+1142,1142,Mauvaise,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+1143,1143,Mauvaise,Modérée,0,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1144,1144,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1145,1145,Très bonne,Légère,1,Moyen,Intensivement,0,Tous,1,0,Gestion du stress
+1146,1146,Moyenne,Légère,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+1147,1147,Mauvaise,Sévère,1,Moyen,Rarement,1,Tous,0,0,Aucune
+1148,1148,Moyenne,Légère,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+1149,1149,Bonne,Légère,1,Élevé,Régulièrement,0,La plupart,0,0,Gestion du stress
+1150,1150,Bonne,Légère,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Compréhension des cours
+1151,1151,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1152,1152,Bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+1153,1153,Bonne,Aucune,0,Faible,Régulièrement,1,La plupart,0,0,Aucune
+1154,1154,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+1155,1155,Mauvaise,Légère,1,Moyen,Jamais,1,Tous,0,0,Aucune
+1156,1156,Moyenne,Aucune,0,Élevé,Intensivement,0,La plupart,0,0,Compréhension des cours
+1157,1157,Mauvaise,Aucune,1,Moyen,Parfois,1,Tous,0,0,Aucune
+1158,1158,Très mauvaise,Aucune,1,Faible,Parfois,0,La plupart,1,1,Aucune
+1159,1159,Bonne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Aucune
+1160,1160,Très mauvaise,Aucune,0,Moyen,Régulièrement,0,La plupart,1,0,Compréhension des cours
+1161,1161,Mauvaise,Modérée,0,Moyen,Parfois,0,Tous,1,0,Mémorisation
+1162,1162,Moyenne,Modérée,0,Moyen,Parfois,1,Quelques-uns,0,0,Aucune
+1163,1163,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+1164,1164,Mauvaise,Légère,1,Faible,Rarement,0,Tous,0,0,Aucune
+1165,1165,Très bonne,Légère,0,Faible,Rarement,1,Quelques-uns,0,0,Aucune
+1166,1166,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1167,1167,Très bonne,Modérée,1,Moyen,Rarement,1,Tous,0,0,Mémorisation
+1168,1168,Bonne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Expression écrite
+1169,1169,Très mauvaise,Modérée,1,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+1170,1170,Mauvaise,Aucune,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Mémorisation
+1171,1171,Très bonne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Aucune
+1172,1172,Très bonne,Sévère,0,Élevé,Rarement,0,La plupart,1,0,Aucune
+1173,1173,Bonne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Gestion du stress
+1174,1174,Moyenne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Aucune
+1175,1175,Moyenne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Expression écrite
+1176,1176,Bonne,Aucune,1,Faible,Régulièrement,0,Tous,1,0,Aucune
+1177,1177,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1178,1178,Bonne,Légère,1,Moyen,Régulièrement,1,La plupart,0,0,Compréhension des cours
+1179,1179,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1180,1180,Bonne,Modérée,0,Faible,Parfois,0,La plupart,0,0,Organisation du travail
+1181,1181,Moyenne,Modérée,1,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+1182,1182,Moyenne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1183,1183,Bonne,Aucune,1,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1184,1184,Moyenne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1185,1185,Mauvaise,Sévère,0,Moyen,Jamais,1,La plupart,1,0,Gestion du stress
+1186,1186,Bonne,Légère,1,Moyen,Parfois,0,La plupart,0,0,Aucune
+1187,1187,Moyenne,Modérée,0,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1188,1188,Bonne,Légère,1,Moyen,Régulièrement,1,La plupart,0,0,Expression écrite
+1189,1189,Bonne,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Mémorisation
+1190,1190,Très mauvaise,Légère,1,Élevé,Intensivement,0,La plupart,0,0,Aucune
+1191,1191,Moyenne,Modérée,1,Faible,Parfois,1,Quelques-uns,1,0,Aucune
+1192,1192,Moyenne,Aucune,0,Moyen,Parfois,1,Tous,0,0,Expression écrite
+1193,1193,Mauvaise,Légère,0,Faible,Régulièrement,1,Tous,0,0,Aucune
+1194,1194,Bonne,Sévère,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1195,1195,Très mauvaise,Modérée,1,Faible,Parfois,0,Quelques-uns,0,0,Mémorisation
+1196,1196,Mauvaise,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+1197,1197,Mauvaise,Légère,0,Élevé,Parfois,0,Tous,0,0,Mémorisation
+1198,1198,Moyenne,Sévère,1,Moyen,Rarement,0,Tous,1,0,Organisation du travail
+1199,1199,Bonne,Modérée,1,Faible,Parfois,1,La plupart,0,0,Aucune
+1200,1200,Mauvaise,Modérée,1,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+1201,1201,Très bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+1202,1202,Bonne,Sévère,1,Élevé,Régulièrement,0,Quelques-uns,1,0,Mémorisation
+1203,1203,Moyenne,Sévère,0,Élevé,Parfois,1,Tous,1,1,Expression écrite
+1204,1204,Bonne,Légère,0,Élevé,Rarement,1,Quelques-uns,1,0,Expression écrite
+1205,1205,Bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+1206,1206,Mauvaise,Légère,0,Élevé,Parfois,0,Tous,0,0,Mémorisation
+1207,1207,Très bonne,Légère,1,Élevé,Régulièrement,0,La plupart,0,0,Organisation du travail
+1208,1208,Mauvaise,Aucune,0,Moyen,Parfois,1,Tous,1,1,Compréhension des cours
+1209,1209,Bonne,Légère,0,Moyen,Intensivement,0,Tous,1,0,Compréhension des cours
+1210,1210,Bonne,Modérée,0,Moyen,Régulièrement,0,Tous,1,0,Aucune
+1211,1211,Bonne,Légère,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1212,1212,Bonne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1213,1213,Bonne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Gestion du stress
+1214,1214,Bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1215,1215,Mauvaise,Légère,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1216,1216,Moyenne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Mémorisation
+1217,1217,Bonne,Sévère,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1218,1218,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+1219,1219,Mauvaise,Sévère,0,Élevé,Régulièrement,0,La plupart,0,0,Organisation du travail
+1220,1220,Bonne,Modérée,0,Moyen,Parfois,1,Quelques-uns,0,0,Expression écrite
+1221,1221,Mauvaise,Modérée,0,Élevé,Parfois,1,La plupart,0,0,Aucune
+1222,1222,Très bonne,Modérée,1,Élevé,Régulièrement,0,La plupart,0,0,Mémorisation
+1223,1223,Moyenne,Aucune,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1224,1224,Bonne,Sévère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1225,1225,Bonne,Légère,0,Faible,Régulièrement,1,Aucun,0,0,Expression écrite
+1226,1226,Mauvaise,Modérée,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1227,1227,Moyenne,Sévère,0,Faible,Rarement,0,Tous,1,1,Aucune
+1228,1228,Moyenne,Légère,0,Faible,Rarement,0,Tous,1,1,Aucune
+1229,1229,Bonne,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Mémorisation
+1230,1230,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1231,1231,Bonne,Modérée,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+1232,1232,Bonne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Expression écrite
+1233,1233,Moyenne,Modérée,1,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+1234,1234,Bonne,Modérée,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1235,1235,Moyenne,Modérée,1,Moyen,Rarement,0,Tous,0,0,Expression écrite
+1236,1236,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1237,1237,Très bonne,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1238,1238,Bonne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Compréhension des cours
+1239,1239,Très mauvaise,Sévère,1,Moyen,Rarement,1,Quelques-uns,0,0,Aucune
+1240,1240,Très bonne,Modérée,0,Moyen,Rarement,0,Tous,0,0,Mémorisation
+1241,1241,Mauvaise,Modérée,0,Moyen,Parfois,1,Tous,0,0,Organisation du travail
+1242,1242,Bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Gestion du stress
+1243,1243,Très bonne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1244,1244,Bonne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Aucune
+1245,1245,Bonne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Mémorisation
+1246,1246,Moyenne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Mémorisation
+1247,1247,Moyenne,Sévère,1,Faible,Rarement,1,Quelques-uns,0,0,Compréhension des cours
+1248,1248,Bonne,Légère,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1249,1249,Moyenne,Sévère,1,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1250,1250,Bonne,Modérée,1,Élevé,Rarement,1,La plupart,1,0,Aucune
+1251,1251,Très bonne,Modérée,1,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+1252,1252,Bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+1253,1253,Moyenne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+1254,1254,Moyenne,Légère,1,Faible,Jamais,1,Tous,0,0,Gestion du stress
+1255,1255,Mauvaise,Modérée,1,Moyen,Jamais,1,Aucun,1,1,Aucune
+1256,1256,Bonne,Aucune,1,Moyen,Parfois,1,La plupart,0,0,Organisation du travail
+1257,1257,Mauvaise,Sévère,1,Moyen,Rarement,1,Tous,0,0,Expression écrite
+1258,1258,Bonne,Aucune,0,Élevé,Parfois,1,La plupart,0,0,Aucune
+1259,1259,Moyenne,Aucune,1,Élevé,Parfois,1,Tous,1,0,Mémorisation
+1260,1260,Bonne,Légère,0,Moyen,Régulièrement,1,La plupart,0,0,Compréhension des cours
+1261,1261,Mauvaise,Légère,0,Moyen,Rarement,0,Aucun,0,0,Compréhension des cours
+1262,1262,Moyenne,Modérée,0,Faible,Rarement,1,Tous,1,0,Mémorisation
+1263,1263,Moyenne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Aucune
+1264,1264,Moyenne,Légère,1,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+1265,1265,Très mauvaise,Modérée,0,Moyen,Parfois,1,Tous,0,0,Organisation du travail
+1266,1266,Mauvaise,Modérée,0,Élevé,Régulièrement,1,Tous,0,0,Expression écrite
+1267,1267,Bonne,Sévère,1,Élevé,Rarement,0,Tous,0,0,Mémorisation
+1268,1268,Très mauvaise,Aucune,1,Moyen,Régulièrement,0,Tous,1,0,Mémorisation
+1269,1269,Moyenne,Légère,0,Moyen,Parfois,1,Tous,1,0,Aucune
+1270,1270,Moyenne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1271,1271,Très mauvaise,Légère,0,Moyen,Rarement,1,La plupart,0,0,Mémorisation
+1272,1272,Très bonne,Sévère,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1273,1273,Mauvaise,Légère,0,Élevé,Régulièrement,0,La plupart,1,1,Organisation du travail
+1274,1274,Moyenne,Légère,0,Moyen,Parfois,0,Quelques-uns,0,0,Gestion du stress
+1275,1275,Mauvaise,Modérée,0,Moyen,Rarement,0,Quelques-uns,0,0,Compréhension des cours
+1276,1276,Bonne,Modérée,1,Élevé,Régulièrement,0,La plupart,0,0,Mémorisation
+1277,1277,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1278,1278,Mauvaise,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1279,1279,Moyenne,Modérée,0,Moyen,Régulièrement,1,La plupart,0,0,Mémorisation
+1280,1280,Très bonne,Légère,1,Élevé,Rarement,1,Tous,1,0,Aucune
+1281,1281,Très bonne,Aucune,0,Moyen,Intensivement,1,La plupart,0,0,Expression écrite
+1282,1282,Moyenne,Modérée,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+1283,1283,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Expression écrite
+1284,1284,Très bonne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Mémorisation
+1285,1285,Bonne,Sévère,1,Faible,Rarement,0,Tous,0,0,Mémorisation
+1286,1286,Moyenne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Expression écrite
+1287,1287,Bonne,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Gestion du stress
+1288,1288,Bonne,Sévère,1,Moyen,Rarement,0,Tous,1,0,Compréhension des cours
+1289,1289,Moyenne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+1290,1290,Bonne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Aucune
+1291,1291,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1292,1292,Bonne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+1293,1293,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+1294,1294,Très bonne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+1295,1295,Très bonne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+1296,1296,Moyenne,Sévère,0,Faible,Jamais,1,La plupart,1,1,Aucune
+1297,1297,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1298,1298,Bonne,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1299,1299,Bonne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+1300,1300,Très mauvaise,Légère,0,Élevé,Parfois,1,Tous,1,1,Aucune
+1301,1301,Moyenne,Modérée,0,Moyen,Rarement,1,La plupart,0,0,Mémorisation
+1302,1302,Très bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1303,1303,Bonne,Modérée,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Mémorisation
+1304,1304,Mauvaise,Modérée,1,Faible,Régulièrement,0,Aucun,0,0,Expression écrite
+1305,1305,Moyenne,Légère,1,Moyen,Rarement,0,Tous,0,0,Aucune
+1306,1306,Bonne,Modérée,0,Moyen,Rarement,0,Aucun,0,0,Compréhension des cours
+1307,1307,Bonne,Légère,0,Faible,Régulièrement,0,Aucun,1,0,Mémorisation
+1308,1308,Mauvaise,Légère,0,Moyen,Régulièrement,1,La plupart,0,0,Mémorisation
+1309,1309,Moyenne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+1310,1310,Moyenne,Modérée,1,Élevé,Intensivement,1,Tous,0,0,Aucune
+1311,1311,Mauvaise,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1312,1312,Moyenne,Légère,0,Faible,Intensivement,0,Tous,0,0,Compréhension des cours
+1313,1313,Bonne,Sévère,1,Faible,Rarement,0,Aucun,0,0,Expression écrite
+1314,1314,Moyenne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1315,1315,Moyenne,Modérée,0,Élevé,Jamais,1,La plupart,0,0,Aucune
+1316,1316,Moyenne,Aucune,0,Faible,Rarement,1,Tous,1,0,Organisation du travail
+1317,1317,Moyenne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1318,1318,Très mauvaise,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1319,1319,Très bonne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Compréhension des cours
+1320,1320,Bonne,Légère,0,Faible,Parfois,1,Quelques-uns,0,0,Aucune
+1321,1321,Bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1322,1322,Bonne,Modérée,0,Faible,Parfois,0,La plupart,0,0,Aucune
+1323,1323,Mauvaise,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1324,1324,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1325,1325,Moyenne,Modérée,0,Élevé,Parfois,1,Tous,0,0,Expression écrite
+1326,1326,Bonne,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1327,1327,Très bonne,Sévère,0,Élevé,Rarement,0,Tous,0,0,Mémorisation
+1328,1328,Bonne,Légère,0,Élevé,Parfois,0,La plupart,0,0,Gestion du stress
+1329,1329,Moyenne,Légère,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1330,1330,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1331,1331,Bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1332,1332,Moyenne,Sévère,1,Élevé,Parfois,0,Tous,0,0,Mémorisation
+1333,1333,Bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Aucune
+1334,1334,Moyenne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Expression écrite
+1335,1335,Mauvaise,Aucune,1,Faible,Régulièrement,1,Tous,0,0,Mémorisation
+1336,1336,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1337,1337,Mauvaise,Modérée,1,Moyen,Parfois,1,Tous,1,1,Compréhension des cours
+1338,1338,Bonne,Légère,0,Moyen,Régulièrement,0,La plupart,1,0,Aucune
+1339,1339,Moyenne,Aucune,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+1340,1340,Moyenne,Modérée,0,Faible,Parfois,1,Tous,0,0,Aucune
+1341,1341,Moyenne,Aucune,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1342,1342,Très bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1343,1343,Moyenne,Légère,0,Élevé,Rarement,1,La plupart,0,0,Mémorisation
+1344,1344,Moyenne,Modérée,0,Faible,Régulièrement,0,La plupart,1,1,Expression écrite
+1345,1345,Mauvaise,Modérée,1,Moyen,Rarement,0,Tous,1,0,Gestion du stress
+1346,1346,Mauvaise,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1347,1347,Très bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1348,1348,Moyenne,Légère,1,Élevé,Parfois,0,Tous,0,0,Expression écrite
+1349,1349,Moyenne,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Expression écrite
+1350,1350,Moyenne,Modérée,1,Élevé,Intensivement,0,Aucun,1,1,Aucune
+1351,1351,Moyenne,Modérée,0,Faible,Rarement,1,La plupart,0,0,Aucune
+1352,1352,Bonne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Organisation du travail
+1353,1353,Bonne,Modérée,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+1354,1354,Très bonne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Mémorisation
+1355,1355,Très bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1356,1356,Mauvaise,Légère,0,Élevé,Parfois,1,La plupart,0,0,Organisation du travail
+1357,1357,Bonne,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Compréhension des cours
+1358,1358,Moyenne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Gestion du stress
+1359,1359,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,1,0,Aucune
+1360,1360,Bonne,Modérée,0,Moyen,Rarement,0,Tous,0,0,Organisation du travail
+1361,1361,Très mauvaise,Modérée,0,Élevé,Jamais,1,Tous,0,0,Aucune
+1362,1362,Mauvaise,Modérée,1,Élevé,Parfois,1,Tous,0,0,Gestion du stress
+1363,1363,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1364,1364,Moyenne,Sévère,0,Moyen,Intensivement,0,Tous,1,1,Mémorisation
+1365,1365,Mauvaise,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1366,1366,Très bonne,Légère,0,Moyen,Parfois,1,Quelques-uns,1,0,Expression écrite
+1367,1367,Très bonne,Aucune,0,Élevé,Intensivement,0,La plupart,1,0,Expression écrite
+1368,1368,Très bonne,Légère,0,Moyen,Parfois,0,Tous,0,0,Expression écrite
+1369,1369,Mauvaise,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1370,1370,Très bonne,Aucune,1,Faible,Régulièrement,1,La plupart,1,0,Gestion du stress
+1371,1371,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1372,1372,Très mauvaise,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1373,1373,Très mauvaise,Légère,1,Faible,Jamais,0,Quelques-uns,0,0,Aucune
+1374,1374,Moyenne,Aucune,1,Faible,Rarement,0,Tous,1,1,Organisation du travail
+1375,1375,Mauvaise,Légère,1,Élevé,Régulièrement,0,Tous,1,1,Aucune
+1376,1376,Moyenne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Organisation du travail
+1377,1377,Moyenne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Organisation du travail
+1378,1378,Bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+1379,1379,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1380,1380,Bonne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1381,1381,Moyenne,Légère,0,Moyen,Intensivement,0,Aucun,1,1,Aucune
+1382,1382,Moyenne,Modérée,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Mémorisation
+1383,1383,Très bonne,Modérée,1,Faible,Parfois,1,Tous,0,0,Compréhension des cours
+1384,1384,Mauvaise,Aucune,0,Faible,Rarement,1,La plupart,0,0,Aucune
+1385,1385,Très bonne,Sévère,1,Élevé,Parfois,1,La plupart,0,0,Aucune
+1386,1386,Bonne,Aucune,0,Moyen,Intensivement,0,Quelques-uns,0,0,Mémorisation
+1387,1387,Mauvaise,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+1388,1388,Très bonne,Légère,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+1389,1389,Très bonne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1390,1390,Bonne,Sévère,1,Faible,Jamais,1,La plupart,0,0,Expression écrite
+1391,1391,Très mauvaise,Modérée,0,Moyen,Rarement,1,Tous,1,1,Expression écrite
+1392,1392,Bonne,Modérée,1,Faible,Régulièrement,0,Tous,1,0,Expression écrite
+1393,1393,Mauvaise,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1394,1394,Bonne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1395,1395,Mauvaise,Modérée,0,Faible,Parfois,0,Tous,1,0,Mémorisation
+1396,1396,Bonne,Légère,0,Moyen,Parfois,0,Tous,1,0,Aucune
+1397,1397,Très mauvaise,Modérée,1,Moyen,Parfois,1,La plupart,1,0,Compréhension des cours
+1398,1398,Très bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Expression écrite
+1399,1399,Moyenne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+1400,1400,Très mauvaise,Aucune,1,Faible,Parfois,1,La plupart,1,1,Aucune
+1401,1401,Moyenne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+1402,1402,Très bonne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Organisation du travail
+1403,1403,Bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+1404,1404,Mauvaise,Aucune,1,Faible,Rarement,0,Tous,0,0,Expression écrite
+1405,1405,Moyenne,Sévère,0,Moyen,Intensivement,0,Tous,1,1,Aucune
+1406,1406,Très mauvaise,Sévère,0,Moyen,Parfois,1,Tous,1,1,Organisation du travail
+1407,1407,Mauvaise,Aucune,0,Faible,Rarement,1,Tous,0,0,Aucune
+1408,1408,Très bonne,Légère,1,Moyen,Régulièrement,0,Tous,1,1,Expression écrite
+1409,1409,Bonne,Modérée,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+1410,1410,Très bonne,Modérée,0,Moyen,Régulièrement,0,Tous,1,1,Organisation du travail
+1411,1411,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1412,1412,Mauvaise,Modérée,0,Faible,Intensivement,0,Aucun,0,0,Aucune
+1413,1413,Moyenne,Légère,0,Faible,Parfois,0,Tous,0,0,Organisation du travail
+1414,1414,Très mauvaise,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+1415,1415,Moyenne,Modérée,0,Élevé,Jamais,1,Tous,0,0,Aucune
+1416,1416,Moyenne,Sévère,1,Élevé,Jamais,1,Tous,0,0,Mémorisation
+1417,1417,Bonne,Légère,0,Faible,Rarement,1,La plupart,0,0,Mémorisation
+1418,1418,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,1,0,Expression écrite
+1419,1419,Moyenne,Aucune,0,Moyen,Intensivement,0,La plupart,0,0,Aucune
+1420,1420,Bonne,Légère,0,Élevé,Parfois,1,Tous,0,0,Mémorisation
+1421,1421,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1422,1422,Moyenne,Légère,0,Moyen,Intensivement,0,Aucun,0,0,Compréhension des cours
+1423,1423,Très bonne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1424,1424,Bonne,Légère,1,Élevé,Parfois,0,La plupart,0,0,Aucune
+1425,1425,Moyenne,Modérée,0,Élevé,Rarement,0,Quelques-uns,0,0,Aucune
+1426,1426,Très bonne,Légère,0,Faible,Parfois,1,La plupart,1,1,Aucune
+1427,1427,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+1428,1428,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1429,1429,Bonne,Aucune,1,Moyen,Régulièrement,1,La plupart,0,0,Compréhension des cours
+1430,1430,Moyenne,Sévère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1431,1431,Très bonne,Légère,0,Élevé,Régulièrement,0,Tous,1,1,Organisation du travail
+1432,1432,Mauvaise,Aucune,0,Moyen,Rarement,1,La plupart,0,0,Compréhension des cours
+1433,1433,Moyenne,Modérée,1,Élevé,Rarement,0,La plupart,0,0,Organisation du travail
+1434,1434,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1435,1435,Bonne,Légère,1,Moyen,Parfois,0,Quelques-uns,0,0,Mémorisation
+1436,1436,Moyenne,Légère,1,Faible,Régulièrement,1,Tous,0,0,Organisation du travail
+1437,1437,Mauvaise,Légère,0,Moyen,Rarement,1,La plupart,0,0,Aucune
+1438,1438,Moyenne,Sévère,1,Moyen,Parfois,1,Tous,0,0,Mémorisation
+1439,1439,Très bonne,Modérée,1,Moyen,Parfois,0,Tous,0,0,Aucune
+1440,1440,Très bonne,Légère,0,Élevé,Régulièrement,0,La plupart,1,0,Compréhension des cours
+1441,1441,Très bonne,Légère,0,Moyen,Parfois,1,La plupart,0,0,Aucune
+1442,1442,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1443,1443,Bonne,Légère,0,Moyen,Régulièrement,1,La plupart,0,0,Compréhension des cours
+1444,1444,Très bonne,Légère,0,Moyen,Régulièrement,0,Quelques-uns,0,0,Aucune
+1445,1445,Très bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Aucune
+1446,1446,Mauvaise,Sévère,1,Élevé,Rarement,1,Tous,0,0,Aucune
+1447,1447,Bonne,Modérée,0,Faible,Rarement,1,Tous,0,0,Mémorisation
+1448,1448,Mauvaise,Légère,1,Élevé,Intensivement,0,Tous,1,0,Expression écrite
+1449,1449,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,1,0,Aucune
+1450,1450,Très mauvaise,Modérée,0,Moyen,Jamais,1,La plupart,0,0,Compréhension des cours
+1451,1451,Moyenne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1452,1452,Mauvaise,Sévère,1,Moyen,Rarement,1,Tous,1,1,Compréhension des cours
+1453,1453,Bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1454,1454,Très bonne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1455,1455,Très mauvaise,Modérée,1,Élevé,Parfois,1,Tous,0,0,Mémorisation
+1456,1456,Mauvaise,Aucune,1,Faible,Rarement,0,Quelques-uns,0,0,Aucune
+1457,1457,Très mauvaise,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1458,1458,Moyenne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1459,1459,Moyenne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1460,1460,Moyenne,Sévère,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1461,1461,Bonne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1462,1462,Très mauvaise,Légère,0,Élevé,Rarement,1,La plupart,0,0,Expression écrite
+1463,1463,Moyenne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+1464,1464,Moyenne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+1465,1465,Moyenne,Sévère,1,Élevé,Rarement,0,Tous,0,0,Aucune
+1466,1466,Moyenne,Légère,1,Faible,Parfois,1,La plupart,1,1,Aucune
+1467,1467,Bonne,Aucune,1,Moyen,Intensivement,0,Quelques-uns,0,0,Expression écrite
+1468,1468,Mauvaise,Modérée,0,Moyen,Rarement,1,Tous,0,0,Mémorisation
+1469,1469,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,1,0,Mémorisation
+1470,1470,Mauvaise,Légère,0,Moyen,Rarement,1,La plupart,1,0,Aucune
+1471,1471,Bonne,Aucune,0,Moyen,Régulièrement,1,Quelques-uns,1,0,Compréhension des cours
+1472,1472,Très bonne,Légère,0,Moyen,Rarement,1,Tous,0,0,Aucune
+1473,1473,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+1474,1474,Bonne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Mémorisation
+1475,1475,Moyenne,Aucune,0,Faible,Parfois,1,La plupart,0,0,Aucune
+1476,1476,Mauvaise,Légère,0,Élevé,Parfois,1,Aucun,0,0,Aucune
+1477,1477,Bonne,Sévère,1,Élevé,Rarement,1,Tous,0,0,Mémorisation
+1478,1478,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1479,1479,Bonne,Légère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1480,1480,Mauvaise,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1481,1481,Moyenne,Aucune,0,Élevé,Intensivement,1,La plupart,0,0,Compréhension des cours
+1482,1482,Mauvaise,Légère,0,Élevé,Parfois,1,Tous,0,0,Mémorisation
+1483,1483,Très bonne,Sévère,0,Moyen,Rarement,0,La plupart,0,0,Compréhension des cours
+1484,1484,Moyenne,Modérée,1,Moyen,Rarement,0,Quelques-uns,0,0,Compréhension des cours
+1485,1485,Très bonne,Sévère,1,Faible,Parfois,0,Tous,0,0,Gestion du stress
+1486,1486,Très mauvaise,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Compréhension des cours
+1487,1487,Moyenne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+1488,1488,Moyenne,Légère,1,Élevé,Parfois,1,Quelques-uns,1,1,Aucune
+1489,1489,Moyenne,Légère,0,Moyen,Régulièrement,1,Quelques-uns,0,0,Aucune
+1490,1490,Bonne,Aucune,0,Élevé,Intensivement,0,La plupart,0,0,Aucune
+1491,1491,Très mauvaise,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Organisation du travail
+1492,1492,Moyenne,Modérée,0,Moyen,Intensivement,0,La plupart,0,0,Expression écrite
+1493,1493,Très bonne,Sévère,1,Moyen,Rarement,0,Tous,0,0,Aucune
+1494,1494,Moyenne,Aucune,1,Moyen,Rarement,0,Tous,0,0,Aucune
+1495,1495,Bonne,Modérée,1,Faible,Rarement,1,Tous,0,0,Aucune
+1496,1496,Moyenne,Aucune,0,Élevé,Rarement,0,Tous,0,0,Expression écrite
+1497,1497,Moyenne,Modérée,1,Faible,Parfois,0,La plupart,0,0,Expression écrite
+1498,1498,Bonne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1499,1499,Bonne,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Expression écrite
+1500,1500,Mauvaise,Légère,0,Élevé,Rarement,1,Quelques-uns,0,0,Mémorisation
+1501,1501,Moyenne,Modérée,0,Élevé,Rarement,0,Tous,0,0,Aucune
+1502,1502,Bonne,Légère,0,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+1503,1503,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+1504,1504,Bonne,Aucune,0,Élevé,Rarement,1,Tous,1,0,Organisation du travail
+1505,1505,Très bonne,Modérée,1,Élevé,Rarement,1,Tous,0,0,Expression écrite
+1506,1506,Très mauvaise,Sévère,0,Moyen,Jamais,1,Tous,0,0,Organisation du travail
+1507,1507,Moyenne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Aucune
+1508,1508,Mauvaise,Aucune,0,Faible,Intensivement,0,Tous,0,0,Gestion du stress
+1509,1509,Bonne,Modérée,0,Faible,Parfois,0,Tous,1,1,Organisation du travail
+1510,1510,Très bonne,Sévère,0,Faible,Rarement,0,Tous,0,0,Expression écrite
+1511,1511,Bonne,Légère,0,Élevé,Intensivement,0,La plupart,0,0,Expression écrite
+1512,1512,Bonne,Sévère,1,Moyen,Jamais,1,Tous,1,0,Organisation du travail
+1513,1513,Bonne,Aucune,0,Faible,Parfois,0,Tous,0,0,Aucune
+1514,1514,Bonne,Modérée,0,Moyen,Rarement,1,Aucun,0,0,Expression écrite
+1515,1515,Moyenne,Aucune,0,Élevé,Intensivement,0,La plupart,0,0,Mémorisation
+1516,1516,Bonne,Légère,1,Élevé,Parfois,1,La plupart,1,1,Aucune
+1517,1517,Moyenne,Modérée,1,Élevé,Rarement,1,La plupart,1,0,Organisation du travail
+1518,1518,Bonne,Sévère,1,Faible,Parfois,1,Tous,0,0,Mémorisation
+1519,1519,Très mauvaise,Légère,0,Faible,Régulièrement,0,La plupart,0,0,Organisation du travail
+1520,1520,Moyenne,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Expression écrite
+1521,1521,Très mauvaise,Aucune,0,Faible,Rarement,1,Tous,0,0,Aucune
+1522,1522,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,1,0,Expression écrite
+1523,1523,Mauvaise,Aucune,1,Faible,Intensivement,0,Tous,0,0,Mémorisation
+1524,1524,Très bonne,Aucune,1,Moyen,Parfois,1,Tous,1,1,Expression écrite
+1525,1525,Très bonne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1526,1526,Bonne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1527,1527,Très bonne,Modérée,1,Faible,Parfois,0,Tous,0,0,Aucune
+1528,1528,Mauvaise,Sévère,1,Moyen,Rarement,1,La plupart,0,0,Compréhension des cours
+1529,1529,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1530,1530,Moyenne,Légère,0,Élevé,Parfois,0,Quelques-uns,0,0,Aucune
+1531,1531,Moyenne,Légère,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1532,1532,Mauvaise,Aucune,0,Faible,Rarement,0,Aucun,0,0,Mémorisation
+1533,1533,Bonne,Légère,0,Moyen,Parfois,0,La plupart,0,0,Mémorisation
+1534,1534,Bonne,Aucune,0,Moyen,Parfois,1,Quelques-uns,0,0,Organisation du travail
+1535,1535,Moyenne,Aucune,0,Faible,Régulièrement,1,Tous,0,0,Aucune
+1536,1536,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Expression écrite
+1537,1537,Très bonne,Aucune,0,Moyen,Parfois,0,Tous,1,0,Mémorisation
+1538,1538,Très bonne,Légère,1,Moyen,Régulièrement,0,Quelques-uns,0,0,Aucune
+1539,1539,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1540,1540,Moyenne,Modérée,0,Faible,Intensivement,0,Tous,0,0,Organisation du travail
+1541,1541,Mauvaise,Sévère,1,Faible,Parfois,1,Tous,0,0,Aucune
+1542,1542,Très bonne,Aucune,1,Moyen,Régulièrement,1,Tous,0,0,Gestion du stress
+1543,1543,Très mauvaise,Modérée,1,Moyen,Parfois,1,Aucun,0,0,Aucune
+1544,1544,Très mauvaise,Sévère,1,Faible,Jamais,1,Tous,1,1,Aucune
+1545,1545,Très mauvaise,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Mémorisation
+1546,1546,Bonne,Légère,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Aucune
+1547,1547,Très bonne,Légère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1548,1548,Moyenne,Sévère,0,Élevé,Rarement,1,Tous,1,1,Aucune
+1549,1549,Très mauvaise,Légère,0,Moyen,Rarement,1,La plupart,0,0,Mémorisation
+1550,1550,Bonne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1551,1551,Très bonne,Modérée,0,Élevé,Parfois,0,La plupart,0,0,Aucune
+1552,1552,Très bonne,Aucune,1,Élevé,Régulièrement,1,La plupart,0,0,Mémorisation
+1553,1553,Moyenne,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1554,1554,Moyenne,Modérée,1,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+1555,1555,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1556,1556,Bonne,Légère,1,Faible,Rarement,0,Quelques-uns,0,0,Mémorisation
+1557,1557,Bonne,Modérée,1,Faible,Rarement,0,La plupart,0,0,Gestion du stress
+1558,1558,Bonne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+1559,1559,Très bonne,Aucune,1,Élevé,Rarement,1,Tous,0,0,Aucune
+1560,1560,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1561,1561,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Gestion du stress
+1562,1562,Très bonne,Aucune,0,Faible,Régulièrement,0,La plupart,0,0,Aucune
+1563,1563,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+1564,1564,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,1,1,Mémorisation
+1565,1565,Mauvaise,Modérée,1,Faible,Rarement,1,La plupart,0,0,Aucune
+1566,1566,Très bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1567,1567,Très bonne,Sévère,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1568,1568,Mauvaise,Légère,0,Faible,Parfois,0,La plupart,0,0,Organisation du travail
+1569,1569,Très bonne,Modérée,1,Élevé,Parfois,0,Tous,0,0,Expression écrite
+1570,1570,Moyenne,Sévère,1,Faible,Rarement,1,Tous,1,1,Compréhension des cours
+1571,1571,Mauvaise,Aucune,0,Moyen,Intensivement,0,Tous,1,0,Aucune
+1572,1572,Mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+1573,1573,Très mauvaise,Modérée,1,Élevé,Parfois,0,La plupart,1,1,Expression écrite
+1574,1574,Très bonne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1575,1575,Moyenne,Aucune,0,Moyen,Parfois,1,Tous,0,0,Mémorisation
+1576,1576,Moyenne,Modérée,1,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1577,1577,Bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1578,1578,Moyenne,Modérée,1,Faible,Jamais,1,Tous,0,0,Compréhension des cours
+1579,1579,Très bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1580,1580,Bonne,Aucune,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1581,1581,Bonne,Légère,1,Faible,Parfois,1,Quelques-uns,0,0,Aucune
+1582,1582,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1583,1583,Bonne,Légère,1,Moyen,Régulièrement,1,Tous,0,0,Expression écrite
+1584,1584,Mauvaise,Légère,0,Faible,Rarement,1,Aucun,1,1,Aucune
+1585,1585,Moyenne,Sévère,0,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+1586,1586,Très bonne,Légère,1,Moyen,Régulièrement,0,Tous,1,1,Compréhension des cours
+1587,1587,Mauvaise,Sévère,0,Moyen,Régulièrement,0,Tous,1,0,Expression écrite
+1588,1588,Très mauvaise,Légère,0,Élevé,Parfois,0,La plupart,0,0,Aucune
+1589,1589,Bonne,Sévère,0,Élevé,Régulièrement,0,La plupart,0,0,Mémorisation
+1590,1590,Très bonne,Modérée,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+1591,1591,Bonne,Aucune,0,Faible,Régulièrement,1,Quelques-uns,1,1,Organisation du travail
+1592,1592,Bonne,Aucune,0,Élevé,Régulièrement,0,Aucun,1,1,Aucune
+1593,1593,Très mauvaise,Modérée,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1594,1594,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+1595,1595,Très bonne,Légère,1,Élevé,Intensivement,0,Tous,0,0,Compréhension des cours
+1596,1596,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1597,1597,Bonne,Légère,1,Faible,Régulièrement,0,Aucun,0,0,Aucune
+1598,1598,Moyenne,Aucune,0,Faible,Rarement,1,Tous,1,0,Gestion du stress
+1599,1599,Moyenne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+1600,1600,Bonne,Modérée,0,Moyen,Jamais,1,Tous,1,1,Aucune
+1601,1601,Très bonne,Modérée,0,Faible,Régulièrement,0,La plupart,1,0,Organisation du travail
+1602,1602,Mauvaise,Modérée,1,Élevé,Régulièrement,0,Tous,1,0,Aucune
+1603,1603,Moyenne,Légère,1,Moyen,Rarement,1,Tous,0,0,Aucune
+1604,1604,Très bonne,Aucune,0,Élevé,Intensivement,0,La plupart,0,0,Aucune
+1605,1605,Mauvaise,Sévère,0,Élevé,Rarement,0,La plupart,1,1,Organisation du travail
+1606,1606,Moyenne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Aucune
+1607,1607,Bonne,Modérée,1,Moyen,Régulièrement,1,Tous,0,0,Gestion du stress
+1608,1608,Moyenne,Modérée,1,Élevé,Parfois,0,Tous,0,0,Gestion du stress
+1609,1609,Moyenne,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1610,1610,Très bonne,Sévère,0,Faible,Rarement,1,Tous,0,0,Mémorisation
+1611,1611,Très mauvaise,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1612,1612,Bonne,Sévère,0,Élevé,Rarement,0,Aucun,0,0,Organisation du travail
+1613,1613,Bonne,Légère,1,Moyen,Intensivement,0,Quelques-uns,0,0,Organisation du travail
+1614,1614,Moyenne,Légère,0,Élevé,Parfois,1,Aucun,0,0,Expression écrite
+1615,1615,Très bonne,Légère,0,Élevé,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1616,1616,Bonne,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1617,1617,Moyenne,Sévère,1,Faible,Jamais,0,Quelques-uns,0,0,Expression écrite
+1618,1618,Mauvaise,Sévère,0,Moyen,Rarement,0,Aucun,0,0,Mémorisation
+1619,1619,Moyenne,Modérée,1,Moyen,Parfois,1,La plupart,1,0,Compréhension des cours
+1620,1620,Très bonne,Aucune,1,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+1621,1621,Moyenne,Légère,1,Moyen,Parfois,0,Tous,1,0,Compréhension des cours
+1622,1622,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1623,1623,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1624,1624,Mauvaise,Aucune,0,Élevé,Parfois,1,Tous,0,0,Gestion du stress
+1625,1625,Bonne,Sévère,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+1626,1626,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+1627,1627,Mauvaise,Modérée,0,Moyen,Intensivement,0,Tous,0,0,Gestion du stress
+1628,1628,Moyenne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+1629,1629,Moyenne,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+1630,1630,Bonne,Légère,0,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1631,1631,Moyenne,Sévère,1,Moyen,Rarement,1,Aucun,0,0,Mémorisation
+1632,1632,Très mauvaise,Légère,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1633,1633,Moyenne,Légère,0,Moyen,Intensivement,0,La plupart,0,0,Aucune
+1634,1634,Mauvaise,Sévère,1,Élevé,Rarement,1,La plupart,0,0,Aucune
+1635,1635,Moyenne,Sévère,1,Élevé,Rarement,1,Quelques-uns,0,0,Expression écrite
+1636,1636,Très bonne,Modérée,1,Moyen,Parfois,0,La plupart,0,0,Aucune
+1637,1637,Moyenne,Légère,1,Moyen,Intensivement,0,La plupart,0,0,Aucune
+1638,1638,Bonne,Sévère,0,Élevé,Régulièrement,0,La plupart,0,0,Gestion du stress
+1639,1639,Bonne,Modérée,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1640,1640,Bonne,Aucune,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1641,1641,Mauvaise,Modérée,1,Moyen,Rarement,1,La plupart,1,0,Compréhension des cours
+1642,1642,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1643,1643,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Mémorisation
+1644,1644,Bonne,Légère,1,Moyen,Parfois,0,Aucun,1,1,Aucune
+1645,1645,Très bonne,Modérée,1,Élevé,Parfois,1,Quelques-uns,0,0,Organisation du travail
+1646,1646,Mauvaise,Modérée,0,Moyen,Parfois,0,Tous,0,0,Aucune
+1647,1647,Très bonne,Aucune,0,Moyen,Régulièrement,0,Tous,1,0,Compréhension des cours
+1648,1648,Mauvaise,Modérée,1,Moyen,Rarement,0,Quelques-uns,1,1,Gestion du stress
+1649,1649,Très mauvaise,Sévère,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1650,1650,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+1651,1651,Bonne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+1652,1652,Moyenne,Aucune,0,Élevé,Rarement,1,Tous,0,0,Aucune
+1653,1653,Bonne,Modérée,0,Moyen,Jamais,1,Tous,0,0,Aucune
+1654,1654,Bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1655,1655,Bonne,Légère,1,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+1656,1656,Moyenne,Légère,1,Élevé,Parfois,1,Tous,1,0,Expression écrite
+1657,1657,Mauvaise,Sévère,1,Élevé,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1658,1658,Moyenne,Modérée,1,Moyen,Rarement,1,Quelques-uns,0,0,Aucune
+1659,1659,Bonne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Compréhension des cours
+1660,1660,Mauvaise,Aucune,0,Faible,Rarement,0,Tous,0,0,Compréhension des cours
+1661,1661,Très mauvaise,Légère,0,Faible,Intensivement,0,Tous,0,0,Aucune
+1662,1662,Moyenne,Sévère,1,Moyen,Parfois,0,Tous,0,0,Mémorisation
+1663,1663,Très bonne,Légère,1,Faible,Régulièrement,1,Tous,0,0,Aucune
+1664,1664,Mauvaise,Modérée,0,Faible,Parfois,1,Tous,1,0,Aucune
+1665,1665,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Gestion du stress
+1666,1666,Bonne,Modérée,1,Élevé,Intensivement,1,Tous,0,0,Aucune
+1667,1667,Moyenne,Sévère,1,Élevé,Jamais,1,Tous,0,0,Expression écrite
+1668,1668,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,1,0,Gestion du stress
+1669,1669,Très mauvaise,Légère,0,Moyen,Parfois,1,Quelques-uns,1,0,Aucune
+1670,1670,Mauvaise,Sévère,0,Moyen,Jamais,0,Tous,0,0,Aucune
+1671,1671,Bonne,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1672,1672,Moyenne,Sévère,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1673,1673,Moyenne,Aucune,1,Moyen,Parfois,1,Tous,0,0,Aucune
+1674,1674,Très bonne,Sévère,1,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+1675,1675,Mauvaise,Aucune,1,Élevé,Régulièrement,0,Tous,1,1,Aucune
+1676,1676,Très mauvaise,Aucune,0,Élevé,Intensivement,0,Aucun,0,0,Aucune
+1677,1677,Bonne,Sévère,0,Faible,Régulièrement,0,La plupart,0,0,Mémorisation
+1678,1678,Mauvaise,Aucune,1,Élevé,Régulièrement,0,Tous,1,0,Expression écrite
+1679,1679,Bonne,Sévère,1,Faible,Rarement,0,Tous,0,0,Gestion du stress
+1680,1680,Mauvaise,Modérée,1,Moyen,Parfois,1,La plupart,0,0,Aucune
+1681,1681,Moyenne,Légère,0,Faible,Parfois,0,La plupart,0,0,Compréhension des cours
+1682,1682,Moyenne,Aucune,1,Moyen,Intensivement,0,Quelques-uns,1,0,Mémorisation
+1683,1683,Moyenne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1684,1684,Bonne,Légère,0,Moyen,Parfois,0,Tous,0,0,Mémorisation
+1685,1685,Mauvaise,Modérée,0,Élevé,Rarement,1,Tous,0,0,Aucune
+1686,1686,Mauvaise,Aucune,0,Faible,Régulièrement,0,Tous,0,0,Organisation du travail
+1687,1687,Bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+1688,1688,Bonne,Modérée,0,Élevé,Régulièrement,1,Quelques-uns,0,0,Compréhension des cours
+1689,1689,Moyenne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1690,1690,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1691,1691,Mauvaise,Légère,1,Moyen,Parfois,1,Tous,1,1,Compréhension des cours
+1692,1692,Mauvaise,Sévère,0,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1693,1693,Moyenne,Modérée,1,Moyen,Rarement,1,Tous,0,0,Organisation du travail
+1694,1694,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1695,1695,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1696,1696,Mauvaise,Sévère,1,Élevé,Jamais,1,La plupart,0,0,Mémorisation
+1697,1697,Bonne,Légère,0,Faible,Intensivement,0,La plupart,0,0,Mémorisation
+1698,1698,Bonne,Modérée,0,Moyen,Parfois,1,Tous,0,0,Organisation du travail
+1699,1699,Moyenne,Modérée,0,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+1700,1700,Bonne,Aucune,0,Élevé,Intensivement,0,La plupart,0,0,Aucune
+1701,1701,Moyenne,Aucune,0,Élevé,Régulièrement,0,La plupart,1,0,Compréhension des cours
+1702,1702,Bonne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+1703,1703,Moyenne,Modérée,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+1704,1704,Bonne,Légère,0,Élevé,Régulièrement,1,Quelques-uns,1,1,Organisation du travail
+1705,1705,Moyenne,Modérée,0,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+1706,1706,Mauvaise,Modérée,0,Élevé,Jamais,1,La plupart,0,0,Aucune
+1707,1707,Moyenne,Modérée,1,Élevé,Régulièrement,0,La plupart,1,1,Organisation du travail
+1708,1708,Très bonne,Légère,1,Moyen,Parfois,0,La plupart,0,0,Compréhension des cours
+1709,1709,Très mauvaise,Modérée,0,Élevé,Jamais,1,Tous,0,0,Compréhension des cours
+1710,1710,Très mauvaise,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1711,1711,Bonne,Légère,1,Élevé,Régulièrement,1,Tous,1,0,Organisation du travail
+1712,1712,Mauvaise,Légère,0,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+1713,1713,Moyenne,Sévère,0,Faible,Parfois,0,La plupart,0,0,Aucune
+1714,1714,Moyenne,Modérée,1,Élevé,Intensivement,0,La plupart,0,0,Aucune
+1715,1715,Bonne,Modérée,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1716,1716,Moyenne,Modérée,0,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+1717,1717,Mauvaise,Aucune,0,Élevé,Parfois,0,La plupart,1,1,Aucune
+1718,1718,Très bonne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1719,1719,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1720,1720,Moyenne,Légère,1,Faible,Parfois,0,Tous,0,0,Aucune
+1721,1721,Moyenne,Modérée,0,Moyen,Rarement,1,Tous,0,0,Aucune
+1722,1722,Mauvaise,Légère,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1723,1723,Bonne,Sévère,1,Faible,Jamais,1,Tous,0,0,Expression écrite
+1724,1724,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1725,1725,Très bonne,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Mémorisation
+1726,1726,Bonne,Légère,0,Élevé,Régulièrement,0,Tous,1,0,Compréhension des cours
+1727,1727,Moyenne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1728,1728,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1729,1729,Bonne,Légère,0,Faible,Parfois,0,Tous,1,1,Gestion du stress
+1730,1730,Bonne,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1731,1731,Très bonne,Modérée,0,Élevé,Rarement,1,La plupart,0,0,Gestion du stress
+1732,1732,Très bonne,Modérée,1,Faible,Parfois,0,Tous,1,0,Aucune
+1733,1733,Moyenne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1734,1734,Très bonne,Légère,1,Élevé,Parfois,0,La plupart,0,0,Compréhension des cours
+1735,1735,Très bonne,Modérée,1,Faible,Rarement,1,La plupart,0,0,Expression écrite
+1736,1736,Mauvaise,Aucune,0,Moyen,Parfois,1,La plupart,0,0,Mémorisation
+1737,1737,Mauvaise,Modérée,0,Moyen,Rarement,1,Tous,0,0,Mémorisation
+1738,1738,Mauvaise,Modérée,0,Moyen,Parfois,0,La plupart,0,0,Mémorisation
+1739,1739,Bonne,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Organisation du travail
+1740,1740,Très bonne,Sévère,0,Élevé,Rarement,1,Tous,0,0,Expression écrite
+1741,1741,Très bonne,Aucune,1,Moyen,Régulièrement,0,Tous,1,1,Compréhension des cours
+1742,1742,Mauvaise,Aucune,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1743,1743,Très bonne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Aucune
+1744,1744,Bonne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Mémorisation
+1745,1745,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,1,0,Gestion du stress
+1746,1746,Moyenne,Légère,1,Élevé,Parfois,0,Tous,0,0,Aucune
+1747,1747,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1748,1748,Moyenne,Légère,0,Élevé,Rarement,0,Tous,1,1,Aucune
+1749,1749,Mauvaise,Aucune,1,Moyen,Régulièrement,1,La plupart,0,0,Compréhension des cours
+1750,1750,Mauvaise,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1751,1751,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1752,1752,Très bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1753,1753,Moyenne,Légère,0,Faible,Rarement,1,La plupart,0,0,Aucune
+1754,1754,Mauvaise,Aucune,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+1755,1755,Très bonne,Modérée,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1756,1756,Moyenne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1757,1757,Très bonne,Légère,1,Moyen,Régulièrement,0,La plupart,0,0,Mémorisation
+1758,1758,Très bonne,Modérée,1,Élevé,Régulièrement,0,Tous,1,1,Gestion du stress
+1759,1759,Moyenne,Légère,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+1760,1760,Moyenne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1761,1761,Très bonne,Aucune,0,Élevé,Parfois,1,La plupart,0,0,Aucune
+1762,1762,Moyenne,Modérée,0,Faible,Intensivement,0,Tous,0,0,Compréhension des cours
+1763,1763,Moyenne,Légère,0,Élevé,Régulièrement,0,Tous,1,0,Aucune
+1764,1764,Bonne,Légère,1,Élevé,Régulièrement,1,La plupart,0,0,Aucune
+1765,1765,Bonne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1766,1766,Moyenne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Organisation du travail
+1767,1767,Mauvaise,Modérée,0,Faible,Jamais,1,Tous,1,1,Mémorisation
+1768,1768,Très bonne,Modérée,0,Faible,Intensivement,1,La plupart,0,0,Aucune
+1769,1769,Moyenne,Aucune,0,Élevé,Parfois,1,La plupart,0,0,Aucune
+1770,1770,Bonne,Légère,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+1771,1771,Bonne,Sévère,1,Faible,Parfois,1,La plupart,0,0,Aucune
+1772,1772,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+1773,1773,Moyenne,Modérée,0,Faible,Rarement,0,Tous,0,0,Gestion du stress
+1774,1774,Très mauvaise,Modérée,0,Faible,Intensivement,0,Tous,0,0,Mémorisation
+1775,1775,Mauvaise,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1776,1776,Mauvaise,Légère,0,Moyen,Rarement,1,La plupart,0,0,Compréhension des cours
+1777,1777,Moyenne,Sévère,0,Moyen,Rarement,1,Tous,0,0,Mémorisation
+1778,1778,Bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1779,1779,Bonne,Aucune,0,Élevé,Intensivement,0,Tous,1,0,Compréhension des cours
+1780,1780,Bonne,Modérée,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1781,1781,Très mauvaise,Aucune,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+1782,1782,Très bonne,Sévère,0,Élevé,Rarement,0,Aucun,1,0,Mémorisation
+1783,1783,Moyenne,Modérée,1,Moyen,Rarement,0,La plupart,0,0,Mémorisation
+1784,1784,Bonne,Aucune,1,Élevé,Rarement,0,Aucun,0,0,Mémorisation
+1785,1785,Moyenne,Sévère,0,Moyen,Régulièrement,1,Tous,0,0,Compréhension des cours
+1786,1786,Moyenne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1787,1787,Bonne,Légère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1788,1788,Bonne,Légère,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1789,1789,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1790,1790,Mauvaise,Sévère,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Mémorisation
+1791,1791,Bonne,Aucune,0,Moyen,Parfois,1,La plupart,0,0,Compréhension des cours
+1792,1792,Moyenne,Modérée,0,Faible,Rarement,1,Tous,0,0,Aucune
+1793,1793,Moyenne,Aucune,0,Moyen,Rarement,1,Tous,0,0,Aucune
+1794,1794,Moyenne,Légère,1,Faible,Régulièrement,0,Tous,0,0,Aucune
+1795,1795,Très bonne,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+1796,1796,Moyenne,Légère,0,Moyen,Parfois,1,Tous,0,0,Gestion du stress
+1797,1797,Bonne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Expression écrite
+1798,1798,Mauvaise,Modérée,1,Faible,Rarement,1,Tous,1,0,Aucune
+1799,1799,Moyenne,Légère,0,Faible,Rarement,1,La plupart,0,0,Aucune
+1800,1800,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Expression écrite
+1801,1801,Moyenne,Aucune,0,Élevé,Intensivement,0,Quelques-uns,0,0,Aucune
+1802,1802,Moyenne,Légère,1,Élevé,Rarement,0,Tous,0,0,Aucune
+1803,1803,Bonne,Légère,0,Élevé,Parfois,0,La plupart,0,0,Expression écrite
+1804,1804,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+1805,1805,Mauvaise,Légère,1,Élevé,Rarement,1,La plupart,1,0,Mémorisation
+1806,1806,Très bonne,Légère,1,Élevé,Régulièrement,0,La plupart,0,0,Compréhension des cours
+1807,1807,Bonne,Aucune,1,Moyen,Régulièrement,1,La plupart,0,0,Aucune
+1808,1808,Bonne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Organisation du travail
+1809,1809,Bonne,Modérée,0,Élevé,Jamais,0,La plupart,0,0,Organisation du travail
+1810,1810,Moyenne,Sévère,0,Faible,Rarement,0,Tous,0,0,Aucune
+1811,1811,Bonne,Légère,0,Moyen,Parfois,1,Tous,0,0,Aucune
+1812,1812,Bonne,Modérée,0,Élevé,Rarement,0,Tous,0,0,Aucune
+1813,1813,Bonne,Aucune,1,Élevé,Régulièrement,1,Tous,0,0,Aucune
+1814,1814,Très bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+1815,1815,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1816,1816,Très mauvaise,Légère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1817,1817,Mauvaise,Modérée,0,Faible,Parfois,1,Tous,1,0,Aucune
+1818,1818,Bonne,Légère,0,Moyen,Rarement,1,Tous,0,0,Expression écrite
+1819,1819,Mauvaise,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1820,1820,Bonne,Légère,1,Élevé,Intensivement,0,Quelques-uns,0,0,Mémorisation
+1821,1821,Mauvaise,Légère,0,Faible,Parfois,0,Tous,0,0,Compréhension des cours
+1822,1822,Très bonne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Organisation du travail
+1823,1823,Très bonne,Légère,0,Élevé,Parfois,1,Tous,0,0,Gestion du stress
+1824,1824,Moyenne,Modérée,0,Moyen,Régulièrement,1,La plupart,0,0,Organisation du travail
+1825,1825,Bonne,Sévère,1,Faible,Parfois,0,Tous,0,0,Compréhension des cours
+1826,1826,Bonne,Légère,0,Moyen,Parfois,0,La plupart,1,1,Expression écrite
+1827,1827,Moyenne,Modérée,1,Moyen,Parfois,1,Quelques-uns,0,0,Gestion du stress
+1828,1828,Mauvaise,Modérée,0,Faible,Rarement,0,La plupart,0,0,Mémorisation
+1829,1829,Mauvaise,Légère,1,Élevé,Régulièrement,1,Tous,0,0,Mémorisation
+1830,1830,Moyenne,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Mémorisation
+1831,1831,Moyenne,Légère,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1832,1832,Mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Expression écrite
+1833,1833,Mauvaise,Légère,0,Faible,Intensivement,0,Tous,0,0,Mémorisation
+1834,1834,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1835,1835,Mauvaise,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1836,1836,Bonne,Aucune,1,Élevé,Régulièrement,0,Tous,1,0,Mémorisation
+1837,1837,Bonne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+1838,1838,Très bonne,Légère,1,Moyen,Intensivement,1,Tous,0,0,Aucune
+1839,1839,Bonne,Légère,0,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+1840,1840,Moyenne,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1841,1841,Mauvaise,Légère,0,Moyen,Parfois,0,La plupart,0,0,Aucune
+1842,1842,Bonne,Modérée,1,Faible,Parfois,0,La plupart,0,0,Compréhension des cours
+1843,1843,Mauvaise,Sévère,1,Moyen,Rarement,0,La plupart,0,0,Organisation du travail
+1844,1844,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1845,1845,Moyenne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1846,1846,Bonne,Sévère,1,Élevé,Parfois,0,La plupart,1,0,Aucune
+1847,1847,Mauvaise,Aucune,0,Élevé,Intensivement,0,Tous,0,0,Aucune
+1848,1848,Mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,1,0,Organisation du travail
+1849,1849,Très bonne,Sévère,0,Faible,Parfois,1,Tous,0,0,Mémorisation
+1850,1850,Très bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Aucune
+1851,1851,Très bonne,Modérée,0,Moyen,Régulièrement,0,La plupart,0,0,Aucune
+1852,1852,Très bonne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Compréhension des cours
+1853,1853,Moyenne,Modérée,0,Élevé,Parfois,1,La plupart,1,0,Compréhension des cours
+1854,1854,Bonne,Modérée,1,Élevé,Régulièrement,0,Quelques-uns,0,0,Organisation du travail
+1855,1855,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Quelques-uns,0,0,Gestion du stress
+1856,1856,Très mauvaise,Modérée,1,Faible,Parfois,0,Tous,1,0,Gestion du stress
+1857,1857,Bonne,Aucune,1,Moyen,Régulièrement,1,Tous,1,0,Mémorisation
+1858,1858,Moyenne,Légère,1,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+1859,1859,Moyenne,Légère,1,Moyen,Intensivement,0,Tous,0,0,Aucune
+1860,1860,Bonne,Aucune,1,Élevé,Parfois,1,Tous,0,0,Mémorisation
+1861,1861,Mauvaise,Aucune,1,Moyen,Rarement,0,La plupart,1,0,Expression écrite
+1862,1862,Moyenne,Modérée,1,Faible,Jamais,1,Tous,1,1,Aucune
+1863,1863,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,1,0,Mémorisation
+1864,1864,Moyenne,Modérée,0,Moyen,Régulièrement,0,Tous,1,0,Organisation du travail
+1865,1865,Mauvaise,Modérée,0,Élevé,Parfois,1,Quelques-uns,0,0,Gestion du stress
+1866,1866,Moyenne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Organisation du travail
+1867,1867,Moyenne,Sévère,1,Élevé,Parfois,0,Tous,1,1,Expression écrite
+1868,1868,Très bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1869,1869,Bonne,Aucune,0,Moyen,Parfois,0,Tous,0,0,Compréhension des cours
+1870,1870,Très mauvaise,Légère,0,Faible,Régulièrement,1,Tous,0,0,Expression écrite
+1871,1871,Très bonne,Sévère,0,Élevé,Jamais,1,Tous,0,0,Aucune
+1872,1872,Bonne,Modérée,0,Moyen,Intensivement,0,La plupart,0,0,Expression écrite
+1873,1873,Moyenne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1874,1874,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Mémorisation
+1875,1875,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1876,1876,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Compréhension des cours
+1877,1877,Très bonne,Légère,0,Élevé,Rarement,0,Tous,1,0,Organisation du travail
+1878,1878,Très bonne,Légère,0,Moyen,Parfois,1,Tous,1,0,Aucune
+1879,1879,Mauvaise,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Organisation du travail
+1880,1880,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Aucune
+1881,1881,Moyenne,Légère,1,Élevé,Parfois,0,Aucun,1,1,Compréhension des cours
+1882,1882,Très mauvaise,Modérée,0,Élevé,Régulièrement,0,Aucun,1,1,Mémorisation
+1883,1883,Très mauvaise,Aucune,0,Moyen,Intensivement,0,Tous,1,0,Aucune
+1884,1884,Bonne,Légère,1,Moyen,Régulièrement,1,Tous,0,0,Gestion du stress
+1885,1885,Bonne,Aucune,0,Moyen,Intensivement,0,La plupart,0,0,Expression écrite
+1886,1886,Bonne,Sévère,1,Élevé,Rarement,1,Tous,0,0,Expression écrite
+1887,1887,Bonne,Légère,0,Élevé,Parfois,1,Tous,0,0,Compréhension des cours
+1888,1888,Moyenne,Sévère,0,Élevé,Parfois,1,Tous,0,0,Expression écrite
+1889,1889,Très bonne,Modérée,1,Élevé,Régulièrement,1,Tous,0,0,Mémorisation
+1890,1890,Bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1891,1891,Bonne,Sévère,0,Moyen,Rarement,1,La plupart,0,0,Organisation du travail
+1892,1892,Très bonne,Modérée,1,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1893,1893,Bonne,Modérée,1,Élevé,Parfois,0,La plupart,0,0,Aucune
+1894,1894,Mauvaise,Légère,1,Élevé,Régulièrement,0,Tous,0,0,Expression écrite
+1895,1895,Très bonne,Modérée,1,Faible,Parfois,1,Tous,0,0,Aucune
+1896,1896,Très bonne,Modérée,0,Élevé,Rarement,0,Tous,0,0,Gestion du stress
+1897,1897,Moyenne,Sévère,1,Élevé,Parfois,0,Tous,0,0,Mémorisation
+1898,1898,Moyenne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1899,1899,Bonne,Modérée,0,Moyen,Régulièrement,0,Tous,1,0,Aucune
+1900,1900,Très bonne,Légère,0,Moyen,Régulièrement,1,La plupart,1,0,Aucune
+1901,1901,Bonne,Aucune,0,Élevé,Régulièrement,1,Aucun,0,0,Aucune
+1902,1902,Moyenne,Sévère,0,Moyen,Rarement,1,Tous,0,0,Expression écrite
+1903,1903,Bonne,Aucune,1,Faible,Parfois,0,Aucun,0,0,Aucune
+1904,1904,Bonne,Légère,1,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+1905,1905,Moyenne,Modérée,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1906,1906,Mauvaise,Modérée,1,Moyen,Régulièrement,1,Tous,1,1,Expression écrite
+1907,1907,Mauvaise,Sévère,0,Élevé,Parfois,1,La plupart,0,0,Expression écrite
+1908,1908,Moyenne,Aucune,0,Faible,Intensivement,0,Tous,0,0,Expression écrite
+1909,1909,Bonne,Sévère,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1910,1910,Bonne,Aucune,0,Élevé,Parfois,0,Tous,1,1,Organisation du travail
+1911,1911,Moyenne,Légère,1,Faible,Parfois,1,Tous,0,0,Aucune
+1912,1912,Bonne,Modérée,0,Moyen,Parfois,1,La plupart,0,0,Aucune
+1913,1913,Mauvaise,Sévère,1,Faible,Parfois,0,Tous,0,0,Aucune
+1914,1914,Moyenne,Légère,0,Faible,Régulièrement,0,Tous,0,0,Aucune
+1915,1915,Très mauvaise,Légère,1,Faible,Intensivement,0,Tous,0,0,Aucune
+1916,1916,Moyenne,Modérée,1,Élevé,Parfois,0,La plupart,0,0,Compréhension des cours
+1917,1917,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+1918,1918,Très bonne,Modérée,0,Élevé,Rarement,1,Quelques-uns,0,0,Gestion du stress
+1919,1919,Très bonne,Aucune,1,Moyen,Régulièrement,0,Tous,1,0,Aucune
+1920,1920,Très bonne,Modérée,0,Élevé,Régulièrement,0,La plupart,0,0,Aucune
+1921,1921,Bonne,Modérée,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+1922,1922,Bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Aucune
+1923,1923,Bonne,Modérée,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1924,1924,Très bonne,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Aucune
+1925,1925,Moyenne,Légère,0,Moyen,Rarement,0,Tous,0,0,Expression écrite
+1926,1926,Moyenne,Sévère,0,Élevé,Rarement,0,La plupart,0,0,Aucune
+1927,1927,Bonne,Aucune,1,Moyen,Régulièrement,1,La plupart,1,1,Mémorisation
+1928,1928,Moyenne,Légère,1,Moyen,Régulièrement,0,Tous,0,0,Mémorisation
+1929,1929,Moyenne,Légère,1,Élevé,Rarement,0,Tous,0,0,Gestion du stress
+1930,1930,Mauvaise,Aucune,1,Faible,Régulièrement,0,La plupart,0,0,Gestion du stress
+1931,1931,Très bonne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Expression écrite
+1932,1932,Très mauvaise,Légère,0,Moyen,Parfois,1,Tous,0,0,Compréhension des cours
+1933,1933,Mauvaise,Modérée,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1934,1934,Mauvaise,Modérée,1,Moyen,Parfois,1,Tous,1,0,Aucune
+1935,1935,Très mauvaise,Aucune,1,Élevé,Intensivement,0,Tous,0,0,Expression écrite
+1936,1936,Mauvaise,Légère,0,Moyen,Régulièrement,1,Tous,1,1,Compréhension des cours
+1937,1937,Très bonne,Aucune,0,Faible,Rarement,1,La plupart,0,0,Mémorisation
+1938,1938,Bonne,Légère,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1939,1939,Moyenne,Sévère,1,Élevé,Rarement,1,Tous,0,0,Aucune
+1940,1940,Mauvaise,Sévère,0,Moyen,Jamais,0,Tous,0,0,Gestion du stress
+1941,1941,Bonne,Aucune,0,Faible,Parfois,0,Tous,0,0,Aucune
+1942,1942,Mauvaise,Modérée,1,Moyen,Jamais,1,Tous,0,0,Aucune
+1943,1943,Moyenne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1944,1944,Bonne,Légère,1,Élevé,Rarement,1,Tous,1,1,Gestion du stress
+1945,1945,Bonne,Modérée,0,Élevé,Rarement,1,Tous,0,0,Compréhension des cours
+1946,1946,Moyenne,Légère,1,Moyen,Rarement,1,La plupart,0,0,Gestion du stress
+1947,1947,Bonne,Légère,0,Faible,Rarement,0,Tous,0,0,Aucune
+1948,1948,Moyenne,Modérée,1,Élevé,Parfois,0,Quelques-uns,0,0,Mémorisation
+1949,1949,Bonne,Sévère,0,Moyen,Jamais,0,Tous,1,0,Gestion du stress
+1950,1950,Bonne,Légère,0,Moyen,Rarement,0,Tous,1,1,Gestion du stress
+1951,1951,Très mauvaise,Aucune,0,Moyen,Rarement,1,Tous,0,0,Aucune
+1952,1952,Bonne,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+1953,1953,Très bonne,Sévère,1,Faible,Jamais,1,Tous,1,1,Gestion du stress
+1954,1954,Très bonne,Légère,1,Moyen,Parfois,1,Tous,0,0,Gestion du stress
+1955,1955,Moyenne,Légère,1,Faible,Rarement,1,Quelques-uns,0,0,Compréhension des cours
+1956,1956,Mauvaise,Modérée,0,Élevé,Régulièrement,0,Tous,1,0,Expression écrite
+1957,1957,Très bonne,Sévère,0,Élevé,Parfois,0,Tous,0,0,Aucune
+1958,1958,Très bonne,Légère,1,Moyen,Régulièrement,0,La plupart,1,1,Organisation du travail
+1959,1959,Bonne,Sévère,0,Faible,Régulièrement,0,Tous,1,1,Aucune
+1960,1960,Moyenne,Aucune,1,Élevé,Régulièrement,1,La plupart,0,0,Mémorisation
+1961,1961,Bonne,Sévère,1,Moyen,Rarement,1,Tous,1,0,Gestion du stress
+1962,1962,Moyenne,Aucune,1,Moyen,Rarement,1,La plupart,0,0,Expression écrite
+1963,1963,Moyenne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Organisation du travail
+1964,1964,Bonne,Modérée,0,Moyen,Parfois,0,Tous,0,0,Expression écrite
+1965,1965,Mauvaise,Modérée,1,Faible,Parfois,0,Tous,0,0,Aucune
+1966,1966,Très mauvaise,Aucune,0,Moyen,Régulièrement,0,Tous,1,1,Aucune
+1967,1967,Bonne,Légère,0,Moyen,Parfois,1,Aucun,0,0,Expression écrite
+1968,1968,Très bonne,Aucune,1,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1969,1969,Bonne,Modérée,1,Moyen,Parfois,0,Tous,0,0,Expression écrite
+1970,1970,Mauvaise,Légère,0,Faible,Régulièrement,0,Tous,0,0,Mémorisation
+1971,1971,Bonne,Modérée,0,Élevé,Parfois,0,Tous,0,0,Compréhension des cours
+1972,1972,Très bonne,Sévère,0,Faible,Intensivement,0,Tous,0,0,Compréhension des cours
+1973,1973,Bonne,Sévère,0,Élevé,Jamais,1,Tous,0,0,Mémorisation
+1974,1974,Très bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Compréhension des cours
+1975,1975,Très bonne,Aucune,1,Moyen,Intensivement,0,Tous,1,0,Compréhension des cours
+1976,1976,Mauvaise,Modérée,1,Moyen,Rarement,0,La plupart,1,0,Compréhension des cours
+1977,1977,Moyenne,Légère,1,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1978,1978,Bonne,Modérée,1,Élevé,Parfois,1,Tous,0,0,Aucune
+1979,1979,Bonne,Sévère,0,Moyen,Parfois,0,Tous,0,0,Expression écrite
+1980,1980,Moyenne,Aucune,0,Faible,Intensivement,0,Tous,0,0,Compréhension des cours
+1981,1981,Bonne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Aucune
+1982,1982,Bonne,Modérée,0,Moyen,Jamais,1,Tous,1,0,Compréhension des cours
+1983,1983,Mauvaise,Modérée,0,Faible,Rarement,1,La plupart,0,0,Compréhension des cours
+1984,1984,Moyenne,Légère,1,Moyen,Rarement,1,Aucun,1,0,Mémorisation
+1985,1985,Bonne,Légère,1,Élevé,Régulièrement,0,Tous,1,0,Compréhension des cours
+1986,1986,Mauvaise,Aucune,0,Faible,Parfois,0,Tous,1,0,Aucune
+1987,1987,Moyenne,Modérée,0,Élevé,Rarement,1,Tous,1,1,Aucune
+1988,1988,Très bonne,Aucune,0,Moyen,Intensivement,0,Tous,0,0,Compréhension des cours
+1989,1989,Très mauvaise,Légère,0,Moyen,Régulièrement,0,Tous,0,0,Organisation du travail
+1990,1990,Bonne,Modérée,0,Faible,Parfois,0,Tous,0,0,Mémorisation
+1991,1991,Mauvaise,Aucune,1,Moyen,Intensivement,0,Tous,0,0,Gestion du stress
+1992,1992,Bonne,Légère,0,Élevé,Régulièrement,1,Tous,1,1,Expression écrite
+1993,1993,Bonne,Aucune,0,Moyen,Régulièrement,1,Tous,0,0,Aucune
+1994,1994,Très bonne,Aucune,0,Élevé,Parfois,0,Tous,0,0,Expression écrite
+1995,1995,Moyenne,Modérée,0,Moyen,Intensivement,0,Tous,0,0,Aucune
+1996,1996,Moyenne,Aucune,0,Élevé,Régulièrement,0,Tous,0,0,Mémorisation
+1997,1997,Très bonne,Modérée,0,Moyen,Régulièrement,0,Tous,0,0,Gestion du stress
+1998,1998,Bonne,Modérée,0,Élevé,Intensivement,0,Tous,1,0,Aucune
+1999,1999,Très bonne,Sévère,1,Moyen,Jamais,1,Tous,0,0,Organisation du travail
+2000,2000,Mauvaise,Modérée,0,Faible,Rarement,0,La plupart,1,0,Organisation du travail
