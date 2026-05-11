@@ -212,7 +212,7 @@ python data/scripts/generate_data.py
 ## 👤 Auteur
 
 **Rayan King**
-Projet réalisé dans le cadre de l'année académique 2024 — 2025.
+Projet réalisé dans le cadre de l'année académique 2025 — 2026.
 
 ---
 
