@@ -211,7 +211,7 @@ python data/scripts/generate_data.py
 
 ## 👤 Auteur
 
-**Rayan King**
+**Rayan NGUEBOU TEMGOUA**
 Projet réalisé dans le cadre de l'année académique 2025 — 2026.
 
 ---
